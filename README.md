@@ -1,1 +1,1 @@
-## Biblie: XML and JSON
+## Bible: XML and JSON
