@@ -87,5 +87,5 @@ This project is distributed under the [Creative Commons BY-NC](https://creativec
 You can review the code, enhance the structures or work on new versions. Every help is welcome! :)
 
 ### Can I donate for the project?
-Yes, you can! You can give a volunteer donation by PayPal.
-[![Donate](https://www.paypalobjects.com/en_US/EN/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=BR&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+Yes, you can! You can give a volunteer donation by [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
+[![Donate](https://www.paypalobjects.com/en_US/EN/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
