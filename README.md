@@ -7,37 +7,51 @@ The source files were generated using a Python based crawler. Therefore, these f
 ## Versions
 ### Arabic
 * [ar_svd] The Arabic Bible
+
 ### Chinese
 * [zh_cuv] Chinese Union Version
 * [zh_ncv] New Chinese Version
+
 ### German
 * [de_schlachter] Schlachter
+
 ### Greek
 * [el_greek] Modern Greek
+
 ### English
 * [en_bbe] Basic English
 * [en_kjv] King James Version
+
 ### Esperanto
 * [eo_esperanto] Esperanto
+
 ### Spanish
 * [es_rvr] Reina Valera
+
 ### Finnish
 * [fi_finnish] Finnish Bible
 * [fi_pr] Pyhä Raamattu
+
 ### French
 * [fr_apee] Le Bible de I'Épée
+
 ### Korean
 * [ko_ko] Korean Version
+
 ### Portuguese
 * [pt_aa] Almeida Revisada Imprensa Bíblica
 * [pt_acf] Almeida Corrigida e Revisada Fiel
 * [pt_nvi] Nova Versão Internacional
+
 ### Romanian
 * [ro_cornilescu] Versiunea Dumitru Cornilescu
+
 ### Russian
 * [ru_synodal] Синодальный перевод
+
 ### Vietnamese
 * [vi_vietnamese] Tiếng Việt
+
 ## Structure
 ### XML
 The XML files are encoded using UTF-8 and built in the following structure:
