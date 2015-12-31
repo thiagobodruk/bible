@@ -6,51 +6,51 @@ The source files were generated using a Python based crawler. Therefore, these f
 
 ## Versions
 ### Arabic
-* [ar_svd] The Arabic Bible
+* The Arabic Bible (ar_svd) 
 
 ### Chinese
-* [zh_cuv] Chinese Union Version
-* [zh_ncv] New Chinese Version
+* Chinese Union Version (zh_cuv)
+* New Chinese Version (zh_ncv) 
 
 ### German
-* [de_schlachter] Schlachter
+* Schlachter (de_schlachter)
 
 ### Greek
-* [el_greek] Modern Greek
+* Modern Greek (el_greek)
 
 ### English
-* [en_bbe] Basic English
-* [en_kjv] King James Version
+* Basic English (en_bbe)
+* King James Version (en_kjv) 
 
 ### Esperanto
-* [eo_esperanto] Esperanto
+* Esperanto (eo_esperanto)
 
 ### Spanish
-* [es_rvr] Reina Valera
+* Reina Valera (es_rvr)
 
 ### Finnish
-* [fi_finnish] Finnish Bible
-* [fi_pr] Pyhä Raamattu
+* Finnish Bible (fi_finnish)
+* Pyhä Raamattu (fi_pr)
 
 ### French
-* [fr_apee] Le Bible de I'Épée
+* Le Bible de I'Épée (fr_apee)
 
 ### Korean
-* [ko_ko] Korean Version
+* Korean Version (ko_ko)
 
 ### Portuguese
-* [pt_aa] Almeida Revisada Imprensa Bíblica
-* [pt_acf] Almeida Corrigida e Revisada Fiel
-* [pt_nvi] Nova Versão Internacional
+* Almeida Revisada Imprensa Bíblica (pt_aa) 
+* Almeida Corrigida e Revisada Fiel (pt_acf) 
+* Nova Versão Internacional (pt_nvi) 
 
 ### Romanian
-* [ro_cornilescu] Versiunea Dumitru Cornilescu
+* Versiunea Dumitru Cornilescu (ro_cornilescu)
 
 ### Russian
-* [ru_synodal] Синодальный перевод
+* Синодальный перевод (ru_synodal)
 
 ### Vietnamese
-* [vi_vietnamese] Tiếng Việt
+* Tiếng Việt (vi_vietnamese)
 
 ## Structure
 ### XML
@@ -66,19 +66,19 @@ The XML files are encoded using UTF-8 and built in the following structure:
 ### JSON
 The JSON files are also encoded using UTF-8 and built in the following structure:
 ```
-[
+(
 	{
 	"abbrev" : "abbrev"
 	"book" : "name"
 	"chapters": 
-		[
+		(
 			{"1": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
 			{"2": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
 			{"3": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}}
-		]
+		)
 	}
-]
+)
 ```
 
 ### License
-This project is distributed under the Creative Commons BY-NC license. All the Bible versions are property of their respective owners. All rights reserved to the owners.
+This project is distributed under the [Creative Commons BY-NC](https://creativecommons.org/licenses/by-nc/2.0/br/) license. All the Bible versions are property of their respective owners. All rights reserved to the owners.
