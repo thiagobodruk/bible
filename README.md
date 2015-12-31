@@ -5,51 +5,51 @@ Do you want to create a Bible based app? What about an API for Bible verses sear
 The source files were generated using a Python based crawler. Therefore, these files may contain minor issues related to encoding and syntax.
 
 ## Versions
-### Arabic
+#### Arabic
 * The Arabic Bible (ar_svd) 
 
-### Chinese
+#### Chinese
 * Chinese Union Version (zh_cuv)
 * New Chinese Version (zh_ncv) 
 
-### German
+#### German
 * Schlachter (de_schlachter)
 
-### Greek
+#### Greek
 * Modern Greek (el_greek)
 
-### English
+#### English
 * Basic English (en_bbe)
 * King James Version (en_kjv) 
 
-### Esperanto
+#### Esperanto
 * Esperanto (eo_esperanto)
 
-### Spanish
+#### Spanish
 * Reina Valera (es_rvr)
 
-### Finnish
+#### Finnish
 * Finnish Bible (fi_finnish)
 * Pyhä Raamattu (fi_pr)
 
-### French
+#### French
 * Le Bible de I'Épée (fr_apee)
 
-### Korean
+#### Korean
 * Korean Version (ko_ko)
 
-### Portuguese
+#### Portuguese
 * Almeida Revisada Imprensa Bíblica (pt_aa) 
 * Almeida Corrigida e Revisada Fiel (pt_acf) 
 * Nova Versão Internacional (pt_nvi) 
 
-### Romanian
+#### Romanian
 * Versiunea Dumitru Cornilescu (ro_cornilescu)
 
-### Russian
+#### Russian
 * Синодальный перевод (ru_synodal)
 
-### Vietnamese
+#### Vietnamese
 * Tiếng Việt (vi_vietnamese)
 
 ## Structure
