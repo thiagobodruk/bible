@@ -65,7 +65,7 @@ The XML files are encoded using UTF-8 and built in the following structure:
 
 ### JSON
 The JSON files are also encoded using UTF-8 and built in the following structure:
-```json
+```javascript
 (
 	{
 	"abbrev" : "abbrev"
