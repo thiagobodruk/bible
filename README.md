@@ -3,10 +3,10 @@ Do you want to create a Bible based app? What about an API for Bible verses sear
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
-## Methodology
+## How were the files built?
 The source files were generated using a Python based crawler. Therefore, these files may contain minor issues related to encoding and syntax.
 
-## Versions
+## Which languages and versions are covered by the project?
 #### Arabic
 * The Arabic Bible (ar_svd) 
 
@@ -54,7 +54,7 @@ The source files were generated using a Python based crawler. Therefore, these f
 #### Vietnamese
 * Tiếng Việt (vi_vietnamese)
 
-## Structure
+## How the files are structured?
 ### XML
 The XML files are encoded using UTF-8 and built in the following structure:
 ```xml
@@ -82,10 +82,10 @@ The JSON files are also encoded using UTF-8 and built in the following structure
 )
 ```
 
-### License
+### What about the license and the copyrights?
 This project is distributed under the [Creative Commons BY-NC](https://creativecommons.org/licenses/by-nc/2.0/br/) license. All the Bible versions are property of their respective owners. All rights reserved to the owners.
 
-### How can I help?
+### How can I help the project?
 You can review the code, enhance the structures or work on new versions. Every help is welcome! :)
 
 ### Can I donate for the project?
