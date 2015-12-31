@@ -55,7 +55,7 @@ The source files were generated using a Python based crawler. Therefore, these f
 ## Structure
 ### XML
 The XML files are encoded using UTF-8 and built in the following structure:
-```
+```xml
 <book>
   <chapter>
     <verse>Texto</verse>
@@ -65,7 +65,7 @@ The XML files are encoded using UTF-8 and built in the following structure:
 
 ### JSON
 The JSON files are also encoded using UTF-8 and built in the following structure:
-```
+```json
 (
 	{
 	"abbrev" : "abbrev"
