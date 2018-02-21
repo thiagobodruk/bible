@@ -68,19 +68,20 @@ The XML files are encoded using UTF-8 and built in the following structure:
 ### JSON
 The JSON files are also encoded using UTF-8 and built in the following structure:
 ```javascript
-(
+[
 	{
 	"abbrev" : "abbrev"
 	"book" : "name"
 	"chapters": 
-		(
-			{"1": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
-			{"2": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
-			{"3": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}}
-		)
+		[
+			["Verse 1", "Verse 2", "Verse 3", "..."],
+			["Verse 1", "Verse 2", "Verse 3", "..."],
+			["Verse 1", "Verse 2", "Verse 3", "..."]
+		]
 	}
-)
+]
 ```
+You can get the number of the chapter and verse using the array index.
 
 ### What about the license and the copyrights?
 This project is distributed under the [Creative Commons BY-NC](https://creativecommons.org/licenses/by-nc/2.0/br/) license. All the Bible versions are property of their respective owners. All rights reserved to the owners.
