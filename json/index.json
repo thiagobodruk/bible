@@ -1,0 +1,148 @@
+[
+    {
+        "language": "Arabic",
+        "versions": [
+            {
+                "name": "The Arabic Bible",
+                "abbreviation": "ar_svd"
+            }
+        ]
+    },
+    {
+        "language": "Chinese",
+        "versions": [
+            {
+                "name": "Chinese Union Version",
+                "abbreviation": "zh_cuv"
+            },
+            {
+                "name": "New Chinese Version",
+                "abbreviation": "zh_ncv"
+            }
+        ]
+    },
+    {
+        "language": "German",
+        "versions": [
+            {
+                "name": "Schlachter",
+                "abbreviation": "de_schlachter"
+            }
+        ]
+    },
+    {
+        "language": "Greek",
+        "versions": [
+            {
+                "name": "Modern Greek",
+                "abbreviation": "el_greek"
+            }
+        ]
+    },
+    {
+        "language": "English",
+        "versions": [
+            {
+                "name": "Basic English",
+                "abbreviation": "en_bbe"
+            },
+            {
+                "name": "King James Version",
+                "abbreviation": "en_kjv"
+            }
+        ]
+    },
+    {
+        "language": "Esperanto",
+        "versions": [
+            {
+                "name": "Esperanto",
+                "abbreviation": "eo_esperanto"
+            }
+        ]
+    },
+    {
+        "language": "Spanish",
+        "versions": [
+            {
+                "name": "Reina Valera",
+                "abbreviation": "es_rvr"
+            }
+        ]
+    },
+    {
+        "language": "Finnish",
+        "versions": [
+            {
+                "name": "Finnish Bible",
+                "abbreviation": "fi_finnish"
+            },
+            {
+                "name": "Pyhä Raamattu",
+                "abbreviation": "fi_pr"
+            }
+        ]
+    },
+    {
+        "language": "French",
+        "versions": [
+            {
+                "name": "Le Bible de I'Épée",
+                "abbreviation": "fr_apee"
+            }
+        ]
+    },
+    {
+        "language": "Korean",
+        "versions": [
+            {
+                "name": "Korean Version",
+                "abbreviation": "ko_ko"
+            }
+        ]
+    },
+    {
+        "language": "Portuguese",
+        "versions": [
+            {
+                "name": "Almeida Revisada Imprensa Bíblica",
+                "abbreviation": "pt_aa"
+            },
+            {
+                "name": "Almeida Corrigida e Revisada Fiel",
+                "abbreviation": "pt_acf"
+            },
+            {
+                "name": "Nova Versão Internacional",
+                "abbreviation": "pt_nvi"
+            }
+        ]
+    },
+    {
+        "language": "Romanian",
+        "versions": [
+            {
+                "name": "Versiunea Dumitru Cornilescu",
+                "abbreviation": "ro_cornilescu"
+            }
+        ]
+    },
+    {
+        "language": "Russian",
+        "versions": [
+            {
+                "name": "Синодальный перевод",
+                "abbreviation": "ru_synodal"
+            }
+        ]
+    },
+    {
+        "language": "Vietnamese",
+        "versions": [
+            {
+                "name": "Tiếng Việt",
+                "abbreviation": "vi_vietnamese"
+            }
+        ]
+    }
+]
