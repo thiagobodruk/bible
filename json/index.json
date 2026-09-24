@@ -1,348 +1,537 @@
 [
-    {
-        "language": "Arabic",
-        "versions": [
-            {
-                "name": "Ketab El Hayat Majani",
-                "abbreviation": "ar_kehm"
-            }
-        ]
-    },
-    {
-        "language": "Chinese",
-        "versions": [
-            {
-                "name": "Chinese Union Version (New Punctuation, Shen Edition)",
-                "abbreviation": "zh_cunpss-shen"
-            },
-            {
-                "name": "New Chinese Version",
-                "abbreviation": "zh_cnvs"
-            }
-        ]
-    },
-    {
-        "language": "German",
-        "versions": [
-            {
-                "name": "Schlachter 1951",
-                "abbreviation": "de_sch1951"
-            }
-        ]
-    },
-    {
-        "language": "Greek",
-        "versions": [
-            {
-                "name": "Modern Greek (Demotic)",
-                "abbreviation": "el_fpb"
-            }
-        ]
-    },
-    {
-        "language": "English",
-        "versions": [
-            {
-                "name": "Basic English",
-                "abbreviation": "en_bbe"
-            },
-            {
-                "name": "King James Version",
-                "abbreviation": "en_kjv"
-            },
-            {
-                "name": "American Standard Version 1901",
-                "abbreviation": "en_asv"
-            },
-            {
-                "name": "Amplified Bible",
-                "abbreviation": "en_amp"
-            },
-            {
-                "name": "Wycliffe's Bible with Modern Spelling",
-                "abbreviation": "en_wbms"
-            },
-            {
-                "name": "Jubilee Bible",
-                "abbreviation": "en_jub"
-            },
-            {
-                "name": "Berean Standard Bible",
-                "abbreviation": "en_bsb"
-            },
-            {
-                "name": "Christian Standard Bible",
-                "abbreviation": "en_csb"
-            },
-            {
-                "name": "Contemporary English Version",
-                "abbreviation": "en_cev"
-            },
-            {
-                "name": "Darby's Translation 1890",
-                "abbreviation": "en_darby"
-            },
-            {
-                "name": "Douay-Rheims American 1899",
-                "abbreviation": "en_dra"
-            },
-            {
-                "name": "English Standard Version",
-                "abbreviation": "en_esv"
-            },
-            {
-                "name": "Free Bible Version",
-                "abbreviation": "en_fbv"
-            },
-            {
-                "name": "Geneva Bible",
-                "abbreviation": "en_gnv"
-            },
-            {
-                "name": "Good News Translation",
-                "abbreviation": "en_gnt"
-            },
-            {
-                "name": "King James Version with Apocrypha",
-                "abbreviation": "en_kjva"
-            },
-            {
-                "name": "Lexham English Bible",
-                "abbreviation": "en_leb"
-            },
-            {
-                "name": "Literal Standard Version",
-                "abbreviation": "en_lsv"
-            },
-            {
-                "name": "Majority Standard Bible",
-                "abbreviation": "en_mbsb"
-            },
-            {
-                "name": "New American Standard Bible 2020",
-                "abbreviation": "en_nasb"
-            },
-            {
-                "name": "New International Version",
-                "abbreviation": "en_niv"
-            },
-            {
-                "name": "New Living Translation",
-                "abbreviation": "en_nlt"
-            },
-            {
-                "name": "New Messianic Version Bible",
-                "abbreviation": "en_nmv"
-            },
-            {
-                "name": "New King James Version",
-                "abbreviation": "en_nkjv"
-            },
-            {
-                "name": "The Cambridge Paragraph Bible of the Authorized English Version",
-                "abbreviation": "en_kjvcpb"
-            },
-            {
-                "name": "A Translation for Translators",
-                "abbreviation": "en_t4t"
-            },
-            {
-                "name": "Revised Version 1885",
-                "abbreviation": "en_engrv"
-            },
-            {
-                "name": "World English Bible (American Edition)",
-                "abbreviation": "en_web"
-            },
-            {
-                "name": "World English Bible Updated",
-                "abbreviation": "en_webu"
-            },
-            {
-                "name": "World English Bible (British Edition)",
-                "abbreviation": "en_webbe"
-            },
-            {
-                "name": "World English Bible, American English Edition, without Strong's numbers",
-                "abbreviation": "en_webus"
-            },
-            {
-                "name": "World Messianic Bible (American English)",
-                "abbreviation": "en_wmb"
-            },
-            {
-                "name": "World Messianic Bible (British Edition)",
-                "abbreviation": "en_wmbbe"
-            },
-            {
-                "name": "Young's Literal Translation 1898",
-                "abbreviation": "en_ylt98"
-            },
-            {
-                "name": "The Orthodox Jewish Bible",
-                "abbreviation": "en_tojb2011"
-            }
-        ]
-    },
-    {
-        "language": "Esperanto",
-        "versions": [
-            {
-                "name": "Esperanto (La Sankta Biblio 1926)",
-                "abbreviation": "eo_esp"
-            }
-        ]
-    },
-    {
-        "language": "Spanish",
-        "versions": [
-            {
-                "name": "Reina Valera 1960",
-                "abbreviation": "es_rvr1960"
-            }
-        ]
-    },
-    {
-        "language": "Finnish",
-        "versions": [
-            {
-                "name": "Kirkkoraamattu 1933/38",
-                "abbreviation": "fi_fb38"
-            }
-        ]
-    },
-    {
-        "language": "French",
-        "versions": [
-            {
-                "name": "Le Bible de I'Épée",
-                "abbreviation": "fr_apee"
-            }
-        ]
-    },
-    {
-        "language": "Korean",
-        "versions": [
-            {
-                "name": "Korean Revised",
-                "abbreviation": "ko_krv"
-            }
-        ]
-    },
-    {
-        "language": "Portuguese",
-        "versions": [
-            {
-                "name": "Almeida Revisada Imprensa Bíblica",
-                "abbreviation": "pt_aa"
-            },
-            {
-                "name": "Almeida Corrigida e Revisada Fiel",
-                "abbreviation": "pt_acf"
-            },
-            {
-                "name": "Almeida Revista e Atualizada",
-                "abbreviation": "pt_ara"
-            },
-            {
-                "name": "Nova Versão Internacional",
-                "abbreviation": "pt_nvi"
-            },
-            {
-                "name": "Almeida Revista e Corrigida",
-                "abbreviation": "pt_arc"
-            },
-            {
-                "name": "Almeida Revista e Corrigida 1969",
-                "abbreviation": "pt_rc69"
-            },
-            {
-                "name": "Almeida Século 21",
-                "abbreviation": "pt_a21"
-            },
-            {
-                "name": "Bíblia para Todos",
-                "abbreviation": "pt_bpt09"
-            },
-            {
-                "name": "Bíblia Sagrada Ave-Maria",
-                "abbreviation": "pt_avm"
-            },
-            {
-                "name": "Bíblia Sagrada: Versão Fácil de Ler",
-                "abbreviation": "pt_vfl"
-            },
-            {
-                "name": "Edição Pastoral",
-                "abbreviation": "pt_pastoral"
-            },
-            {
-                "name": "King James Atualizada",
-                "abbreviation": "pt_kja"
-            },
-            {
-                "name": "King James Fiel",
-                "abbreviation": "pt_bkj"
-            },
-            {
-                "name": "Nova Almeida Atualizada",
-                "abbreviation": "pt_naa"
-            },
-            {
-                "name": "Nova Bíblia Viva 2007",
-                "abbreviation": "pt_nbv"
-            },
-            {
-                "name": "Nova Tradução na Linguagem de Hoje",
-                "abbreviation": "pt_ntlh"
-            },
-            {
-                "name": "Nova Versão Internacional 2011",
-                "abbreviation": "pt_nvi2011"
-            },
-            {
-                "name": "Nova Versão Transformadora",
-                "abbreviation": "pt_nvt"
-            },
-            {
-                "name": "O Livro",
-                "abbreviation": "pt_ol"
-            },
-            {
-                "name": "Tradução Brasileira",
-                "abbreviation": "pt_tb"
-            },
-            {
-                "name": "Tradução do Pe. Matos Soares",
-                "abbreviation": "pt_matos"
-            }
-        ]
-    },
-    {
-        "language": "Romanian",
-        "versions": [
-            {
-                "name": "Versiunea Dumitru Cornilescu",
-                "abbreviation": "ro_vdc"
-            }
-        ]
-    },
-    {
-        "language": "Russian",
-        "versions": [
-            {
-                "name": "Синодальный перевод (incomplete: missing Esther and Daniel)",
-                "abbreviation": "ru_synod"
-            }
-        ]
-    },
-    {
-        "language": "Vietnamese",
-        "versions": [
-            {
-                "name": "Tiếng Việt",
-                "abbreviation": "vi_vie"
-            }
-        ]
-    }
+  {
+    "language": "Arabic",
+    "versions": [
+      {
+        "name": "Ketab El Hayat Majani",
+        "abbreviation": "ar_kehm"
+      }
+    ]
+  },
+  {
+    "language": "Chinese",
+    "versions": [
+      {
+        "name": "Chinese Union Version (New Punctuation, Shen Edition)",
+        "abbreviation": "zh_cunpss-shen"
+      },
+      {
+        "name": "New Chinese Version",
+        "abbreviation": "zh_cnvs"
+      }
+    ]
+  },
+  {
+    "language": "German",
+    "versions": [
+      {
+        "name": "Schlachter 1951",
+        "abbreviation": "de_sch1951"
+      }
+    ]
+  },
+  {
+    "language": "Greek",
+    "versions": [
+      {
+        "name": "Modern Greek (Demotic)",
+        "abbreviation": "el_fpb"
+      }
+    ]
+  },
+  {
+    "language": "English",
+    "versions": [
+      {
+        "name": "Basic English",
+        "abbreviation": "en_bbe"
+      },
+      {
+        "name": "King James Version",
+        "abbreviation": "en_kjv"
+      },
+      {
+        "name": "American Standard Version 1901",
+        "abbreviation": "en_asv"
+      },
+      {
+        "name": "Amplified Bible",
+        "abbreviation": "en_amp"
+      },
+      {
+        "name": "Wycliffe's Bible with Modern Spelling",
+        "abbreviation": "en_wbms"
+      },
+      {
+        "name": "Jubilee Bible",
+        "abbreviation": "en_jub"
+      },
+      {
+        "name": "Berean Standard Bible",
+        "abbreviation": "en_bsb"
+      },
+      {
+        "name": "Christian Standard Bible",
+        "abbreviation": "en_csb"
+      },
+      {
+        "name": "Contemporary English Version",
+        "abbreviation": "en_cev"
+      },
+      {
+        "name": "Darby's Translation 1890",
+        "abbreviation": "en_darby"
+      },
+      {
+        "name": "Douay-Rheims American 1899",
+        "abbreviation": "en_dra"
+      },
+      {
+        "name": "English Standard Version",
+        "abbreviation": "en_esv"
+      },
+      {
+        "name": "Free Bible Version",
+        "abbreviation": "en_fbv"
+      },
+      {
+        "name": "Geneva Bible",
+        "abbreviation": "en_gnv"
+      },
+      {
+        "name": "Good News Translation",
+        "abbreviation": "en_gnt"
+      },
+      {
+        "name": "King James Version with Apocrypha",
+        "abbreviation": "en_kjva"
+      },
+      {
+        "name": "Lexham English Bible",
+        "abbreviation": "en_leb"
+      },
+      {
+        "name": "Literal Standard Version",
+        "abbreviation": "en_lsv"
+      },
+      {
+        "name": "Majority Standard Bible",
+        "abbreviation": "en_mbsb"
+      },
+      {
+        "name": "New American Standard Bible 2020",
+        "abbreviation": "en_nasb"
+      },
+      {
+        "name": "New International Version",
+        "abbreviation": "en_niv"
+      },
+      {
+        "name": "New Living Translation",
+        "abbreviation": "en_nlt"
+      },
+      {
+        "name": "New Messianic Version Bible",
+        "abbreviation": "en_nmv"
+      },
+      {
+        "name": "New King James Version",
+        "abbreviation": "en_nkjv"
+      },
+      {
+        "name": "The Cambridge Paragraph Bible of the Authorized English Version",
+        "abbreviation": "en_kjvcpb"
+      },
+      {
+        "name": "A Translation for Translators",
+        "abbreviation": "en_t4t"
+      },
+      {
+        "name": "Revised Version 1885",
+        "abbreviation": "en_engrv"
+      },
+      {
+        "name": "World English Bible (American Edition)",
+        "abbreviation": "en_web"
+      },
+      {
+        "name": "World English Bible Updated",
+        "abbreviation": "en_webu"
+      },
+      {
+        "name": "World English Bible (British Edition)",
+        "abbreviation": "en_webbe"
+      },
+      {
+        "name": "World English Bible, American English Edition, without Strong's numbers",
+        "abbreviation": "en_webus"
+      },
+      {
+        "name": "World Messianic Bible (American English)",
+        "abbreviation": "en_wmb"
+      },
+      {
+        "name": "World Messianic Bible (British Edition)",
+        "abbreviation": "en_wmbbe"
+      },
+      {
+        "name": "Young's Literal Translation 1898",
+        "abbreviation": "en_ylt98"
+      },
+      {
+        "name": "The Orthodox Jewish Bible",
+        "abbreviation": "en_tojb2011"
+      }
+    ]
+  },
+  {
+    "language": "Esperanto",
+    "versions": [
+      {
+        "name": "Esperanto (La Sankta Biblio 1926)",
+        "abbreviation": "eo_esp"
+      }
+    ]
+  },
+  {
+    "language": "Spanish",
+    "versions": [
+      {
+        "name": "Reina Valera 1960",
+        "abbreviation": "es_rvr1960"
+      }
+    ]
+  },
+  {
+    "language": "Finnish",
+    "versions": [
+      {
+        "name": "Kirkkoraamattu 1933/38",
+        "abbreviation": "fi_fb38"
+      }
+    ]
+  },
+  {
+    "language": "French",
+    "versions": [
+      {
+        "name": "Le Bible de I'Épée",
+        "abbreviation": "fr_apee"
+      }
+    ]
+  },
+  {
+    "language": "Korean",
+    "versions": [
+      {
+        "name": "Korean Revised",
+        "abbreviation": "ko_krv"
+      }
+    ]
+  },
+  {
+    "language": "Portuguese",
+    "versions": [
+      {
+        "name": "Almeida Revisada Imprensa Bíblica",
+        "abbreviation": "pt_aa"
+      },
+      {
+        "name": "Almeida Corrigida e Revisada Fiel",
+        "abbreviation": "pt_acf"
+      },
+      {
+        "name": "Almeida Revista e Atualizada",
+        "abbreviation": "pt_ara"
+      },
+      {
+        "name": "Nova Versão Internacional",
+        "abbreviation": "pt_nvi"
+      },
+      {
+        "name": "Almeida Revista e Corrigida",
+        "abbreviation": "pt_arc"
+      },
+      {
+        "name": "Almeida Revista e Corrigida 1969",
+        "abbreviation": "pt_rc69"
+      },
+      {
+        "name": "Almeida Século 21",
+        "abbreviation": "pt_a21"
+      },
+      {
+        "name": "Bíblia para Todos",
+        "abbreviation": "pt_bpt09"
+      },
+      {
+        "name": "Bíblia Sagrada Ave-Maria",
+        "abbreviation": "pt_avm"
+      },
+      {
+        "name": "Bíblia Sagrada: Versão Fácil de Ler",
+        "abbreviation": "pt_vfl"
+      },
+      {
+        "name": "Edição Pastoral",
+        "abbreviation": "pt_pastoral"
+      },
+      {
+        "name": "King James Atualizada",
+        "abbreviation": "pt_kja"
+      },
+      {
+        "name": "King James Fiel",
+        "abbreviation": "pt_bkj"
+      },
+      {
+        "name": "Nova Almeida Atualizada",
+        "abbreviation": "pt_naa"
+      },
+      {
+        "name": "Nova Bíblia Viva 2007",
+        "abbreviation": "pt_nbv"
+      },
+      {
+        "name": "Nova Tradução na Linguagem de Hoje",
+        "abbreviation": "pt_ntlh"
+      },
+      {
+        "name": "Nova Versão Internacional 2011",
+        "abbreviation": "pt_nvi2011"
+      },
+      {
+        "name": "Nova Versão Transformadora",
+        "abbreviation": "pt_nvt"
+      },
+      {
+        "name": "O Livro",
+        "abbreviation": "pt_ol"
+      },
+      {
+        "name": "Tradução Brasileira",
+        "abbreviation": "pt_tb"
+      },
+      {
+        "name": "Tradução do Pe. Matos Soares",
+        "abbreviation": "pt_matos"
+      }
+    ]
+  },
+  {
+    "language": "Romanian",
+    "versions": [
+      {
+        "name": "Versiunea Dumitru Cornilescu",
+        "abbreviation": "ro_vdc"
+      }
+    ]
+  },
+  {
+    "language": "Russian",
+    "versions": [
+      {
+        "name": "Синодальный перевод (incomplete: missing Esther and Daniel)",
+        "abbreviation": "ru_synod"
+      }
+    ]
+  },
+  {
+    "language": "Vietnamese",
+    "versions": [
+      {
+        "name": "Tiếng Việt",
+        "abbreviation": "vi_vie"
+      }
+    ]
+  },
+  {
+    "language": "Italian",
+    "versions": [
+      {
+        "name": "Sacra Bibbia Versione Riveduta 2020",
+        "abbreviation": "it_irb20"
+      }
+    ]
+  },
+  {
+    "language": "Polish",
+    "versions": [
+      {
+        "name": "Uwspółcześniona Biblia Gdańska",
+        "abbreviation": "pl_ubg"
+      }
+    ]
+  },
+  {
+    "language": "Turkish",
+    "versions": [
+      {
+        "name": "Yorumsuz Türkçe Çeviri",
+        "abbreviation": "tr_ytc"
+      }
+    ]
+  },
+  {
+    "language": "Swedish",
+    "versions": [
+      {
+        "name": "Svenska Folkbibeln 2015",
+        "abbreviation": "sv_sfb15"
+      }
+    ]
+  },
+  {
+    "language": "Hungarian",
+    "versions": [
+      {
+        "name": "Károli 1908",
+        "abbreviation": "hu_hunk"
+      }
+    ]
+  },
+  {
+    "language": "Czech",
+    "versions": [
+      {
+        "name": "Bible Kralická 1613",
+        "abbreviation": "cs_bkr"
+      }
+    ]
+  },
+  {
+    "language": "Hindi",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Hindi 2019",
+        "abbreviation": "hi_irvhin"
+      }
+    ]
+  },
+  {
+    "language": "Urdu",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Urdu 2019",
+        "abbreviation": "ur_irvurd"
+      }
+    ]
+  },
+  {
+    "language": "Persian",
+    "versions": [
+      {
+        "name": "Persian Contemporary Bible 2022",
+        "abbreviation": "fa_opcb"
+      }
+    ]
+  },
+  {
+    "language": "Thai",
+    "versions": [
+      {
+        "name": "Thai KJV",
+        "abbreviation": "th_kjvthai"
+      }
+    ]
+  },
+  {
+    "language": "Bengali",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Bengali",
+        "abbreviation": "bn_irvben"
+      }
+    ]
+  },
+  {
+    "language": "Punjabi",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Punjabi",
+        "abbreviation": "pa_irvpun"
+      }
+    ]
+  },
+  {
+    "language": "Tamil",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Tamil",
+        "abbreviation": "ta_irvtam"
+      }
+    ]
+  },
+  {
+    "language": "Telugu",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Telugu 2019",
+        "abbreviation": "te_irvtel"
+      }
+    ]
+  },
+  {
+    "language": "Marathi",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Marathi",
+        "abbreviation": "mr_irvmar"
+      }
+    ]
+  },
+  {
+    "language": "Swahili",
+    "versions": [
+      {
+        "name": "Swahili Revised Union Version",
+        "abbreviation": "sw_sruv"
+      }
+    ]
+  },
+  {
+    "language": "Filipino",
+    "versions": [
+      {
+        "name": "Ang Biblia 1905",
+        "abbreviation": "tl_abtag"
+      }
+    ]
+  },
+  {
+    "language": "Serbian",
+    "versions": [
+      {
+        "name": "Daničić-Karadžić",
+        "abbreviation": "sr_dk"
+      }
+    ]
+  },
+  {
+    "language": "Bulgarian",
+    "versions": [
+      {
+        "name": "Veren",
+        "abbreviation": "bg_vbg"
+      }
+    ]
+  },
+  {
+    "language": "Belarusian",
+    "versions": [
+      {
+        "name": "Bíblia (tradução de V. Semukha)",
+        "abbreviation": "be_bbl"
+      }
+    ]
+  },
+  {
+    "language": "Norwegian (Bokmål)",
+    "versions": [
+      {
+        "name": "Bibel 2011",
+        "abbreviation": "nb_bibel2011"
+      }
+    ]
+  }
 ]
