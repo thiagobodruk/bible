@@ -1,0 +1,26 @@
+DISCLAIMER — Russian Synodal Translation (SYNOD)
+
+This file (synod.json / synod.xml) contains 64 of the 66 canonical books.
+
+The Book of Esther and the Book of Daniel are intentionally MISSING from
+this dataset.
+
+Reason: the source site for this scraper does not publish standalone
+texts for these two books in the Synodal Translation (SYNOD). The site
+explicitly states, for each: "A versão SYNOD não inclui o livro de
+Ester/Daniel" ("The SYNOD version does not include the Book of
+Esther/Daniel"). Historically, the Russian Synodal Bible presents both
+books in their expanded Greek form (interleaved with deuterocanonical
+additions) rather than as separate, independently addressable books —
+the site links to the alternate text under "Ester Grego" ("Esther,
+Greek") instead of the regular book list, and that content does not fit
+this project's per-book chapter/verse format. Daniel appears to be
+affected the same way, though the site does not expose an equivalent
+"Daniel Grego" link for it — attempting to fetch it simply returns
+"indisponível na versão SYNOD" ("unavailable in the SYNOD version").
+
+SYNOD is the only Russian-language translation currently available from
+the source, so no alternative could be substituted for either missing
+book.
+
+All other 64 books were downloaded normally and are complete.

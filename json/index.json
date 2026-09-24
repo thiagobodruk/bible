@@ -3,8 +3,8 @@
         "language": "Arabic",
         "versions": [
             {
-                "name": "The Arabic Bible",
-                "abbreviation": "ar_svd"
+                "name": "Ketab El Hayat Majani",
+                "abbreviation": "ar_kehm"
             }
         ]
     },
@@ -12,12 +12,12 @@
         "language": "Chinese",
         "versions": [
             {
-                "name": "Chinese Union Version",
-                "abbreviation": "zh_cuv"
+                "name": "Chinese Union Version (New Punctuation, Shen Edition)",
+                "abbreviation": "zh_cunpss-shen"
             },
             {
                 "name": "New Chinese Version",
-                "abbreviation": "zh_ncv"
+                "abbreviation": "zh_cnvs"
             }
         ]
     },
@@ -25,8 +25,8 @@
         "language": "German",
         "versions": [
             {
-                "name": "Schlachter",
-                "abbreviation": "de_schlachter"
+                "name": "Schlachter 1951",
+                "abbreviation": "de_sch1951"
             }
         ]
     },
@@ -34,8 +34,8 @@
         "language": "Greek",
         "versions": [
             {
-                "name": "Modern Greek",
-                "abbreviation": "el_greek"
+                "name": "Modern Greek (Demotic)",
+                "abbreviation": "el_fpb"
             }
         ]
     },
@@ -56,8 +56,8 @@
         "language": "Esperanto",
         "versions": [
             {
-                "name": "Esperanto",
-                "abbreviation": "eo_esperanto"
+                "name": "Esperanto (La Sankta Biblio 1926)",
+                "abbreviation": "eo_esp"
             }
         ]
     },
@@ -65,8 +65,8 @@
         "language": "Spanish",
         "versions": [
             {
-                "name": "Reina Valera",
-                "abbreviation": "es_rvr"
+                "name": "Reina Valera 1960",
+                "abbreviation": "es_rvr1960"
             }
         ]
     },
@@ -74,12 +74,8 @@
         "language": "Finnish",
         "versions": [
             {
-                "name": "Finnish Bible",
-                "abbreviation": "fi_finnish"
-            },
-            {
-                "name": "Pyhä Raamattu",
-                "abbreviation": "fi_pr"
+                "name": "Kirkkoraamattu 1933/38",
+                "abbreviation": "fi_fb38"
             }
         ]
     },
@@ -96,8 +92,8 @@
         "language": "Korean",
         "versions": [
             {
-                "name": "Korean Version",
-                "abbreviation": "ko_ko"
+                "name": "Korean Revised",
+                "abbreviation": "ko_krv"
             }
         ]
     },
@@ -113,6 +109,10 @@
                 "abbreviation": "pt_acf"
             },
             {
+                "name": "Almeida Revista e Atualizada",
+                "abbreviation": "pt_ara"
+            },
+            {
                 "name": "Nova Versão Internacional",
                 "abbreviation": "pt_nvi"
             }
@@ -123,7 +123,7 @@
         "versions": [
             {
                 "name": "Versiunea Dumitru Cornilescu",
-                "abbreviation": "ro_cornilescu"
+                "abbreviation": "ro_vdc"
             }
         ]
     },
@@ -131,8 +131,8 @@
         "language": "Russian",
         "versions": [
             {
-                "name": "Синодальный перевод",
-                "abbreviation": "ru_synodal"
+                "name": "Синодальный перевод (incomplete: missing Esther and Daniel)",
+                "abbreviation": "ru_synod"
             }
         ]
     },
@@ -141,7 +141,7 @@
         "versions": [
             {
                 "name": "Tiếng Việt",
-                "abbreviation": "vi_vietnamese"
+                "abbreviation": "vi_vie"
             }
         ]
     }
