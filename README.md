@@ -1,5 +1,7 @@
 # Bible: XML and JSON
 
+## 90 Bible versions in 35 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
+
 Do you want to create a Bible based app? What about an API for Bible
 verses search? Now you can do this, using sources in your very own
 language! The main objective of this project is to allow people to
@@ -86,6 +88,27 @@ these files may contain minor issues related to encoding and syntax.
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
 | 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books — see [Known gaps](#known-gaps) |
 | 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
+| 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
+| 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
+| 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
+| 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
+| 🇵🇭 Filipino | Ang Biblia 1905 | `tl_abtag` | |
+| 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
+| 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
+| 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
+| Marathi | Indian Revised Version (IRV) Marathi | `mr_irvmar` | |
+| 🇳🇴 Norwegian (Bokmål) | Bibel 2011 | `nb_bibel2011` | |
+| 🇮🇷 Persian | Persian Contemporary Bible 2022 | `fa_opcb` | |
+| 🇵🇱 Polish | Uwspółcześniona Biblia Gdańska | `pl_ubg` | |
+| Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
+| 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
+| 🇰🇪 Swahili | Swahili Revised Union Version | `sw_sruv` | |
+| 🇸🇪 Swedish | Svenska Folkbibeln 2015 | `sv_sfb15` | |
+| Tamil | Indian Revised Version (IRV) Tamil | `ta_irvtam` | |
+| Telugu | Indian Revised Version (IRV) Telugu 2019 | `te_irvtel` | |
+| 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
+| 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
+| 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | Text is in Devanagari script rather than Perso-Arabic — this is how the source itself publishes this edition, aimed at Urdu speakers who read Devanagari |
 
 Each entry's files are `json/<code>.json` and `xml/<code>.xml` (e.g.
 `json/pt_nvi.json`, `xml/pt_nvi.xml`). `json/index.json` lists this same
@@ -130,6 +153,13 @@ catalog in machine-readable form.
   `vi_vie`), and **Modern Greek** (`el_greek` → `el_fpb`, chosen because
   it is the only current Greek edition that includes the Book of Esther
   as a standalone book).
+* Two languages available from the source were evaluated for this update
+  but left out because every candidate edition has a substantial part of
+  the Old Testament missing, with no complete alternative available:
+  **Dutch** (`gbv` no longer resolves on the source; `nld1939` is missing
+  the entire Books of Esther and Daniel) and **Indonesian** (`tsi` is
+  missing 18 books, `ags` is missing 39 books — both editions have large
+  gaps scattered across the Old Testament, not a single fixable book).
 
 ## How the files are structured?
 
