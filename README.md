@@ -1,5 +1,7 @@
 # Bible: XML and JSON
 
+## 90 Bible versions in 35 languages
+
 Do you want to create a Bible based app? What about an API for Bible
 verses search? Now you can do this, using sources in your very own
 language! The main objective of this project is to allow people to
