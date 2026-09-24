@@ -112,10 +112,9 @@ You can get the number of the chapter and verse using the array index.
 
 ### What about the license and the copyrights?
 
-This project is distributed under the [Creative Commons
-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/br/) license. All
-the Bible versions are property of their respective owners. All rights
-reserved to the owners.
+This project's code and data are distributed under the [MIT
+License](LICENSE). All the Bible versions are property of their
+respective owners. All rights reserved to the owners.
 
 ### How can I help the project?
 
