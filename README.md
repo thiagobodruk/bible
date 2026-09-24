@@ -17,25 +17,25 @@ these files may contain minor issues related to encoding and syntax.
 
 | Language | Version | Files | Notes |
 |---|---|---|---|
-| Arabic | Ketab El Hayat Majani | `ar_kehm` | |
-| Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
-| Chinese | New Chinese Version | `zh_cnvs` | |
-| German | Schlachter 1951 | `de_sch1951` | |
-| Greek | Modern Greek (Demotic) | `el_fpb` | |
-| English | Basic English | `en_bbe` | |
-| English | King James Version | `en_kjv` | |
-| Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
-| Spanish | Reina Valera 1960 | `es_rvr1960` | |
-| Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
-| French | Le Bible de I'Épée | `fr_apee` | |
-| Korean | Korean Revised | `ko_krv` | |
-| Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
-| Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
-| Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
-| Brazilian Portuguese | Nova Versão Internacional | `pt_nvi` | |
-| Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
-| Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books — see [Known gaps](#known-gaps) |
-| Vietnamese | Tiếng Việt | `vi_vie` | |
+| 🇸🇦 Arabic | Ketab El Hayat Majani | `ar_kehm` | |
+| 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
+| 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
+| 🇩🇪 German | Schlachter 1951 | `de_sch1951` | |
+| 🇬🇷 Greek | Modern Greek (Demotic) | `el_fpb` | |
+| 🇬🇧 English | Basic English | `en_bbe` | |
+| 🇬🇧 English | King James Version | `en_kjv` | |
+| 🌍 Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
+| 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
+| 🇫🇮 Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
+| 🇫🇷 French | Le Bible de I'Épée | `fr_apee` | |
+| 🇰🇷 Korean | Korean Revised | `ko_krv` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
+| 🇧🇷 Brazilian Portuguese | Nova Versão Internacional | `pt_nvi` | |
+| 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
+| 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books — see [Known gaps](#known-gaps) |
+| 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
 
 Each entry's files are `json/<code>.json` and `xml/<code>.xml` (e.g.
 `json/pt_nvi.json`, `xml/pt_nvi.xml`). `json/index.json` lists this same
