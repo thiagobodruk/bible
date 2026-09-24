@@ -96,16 +96,16 @@ these files may contain minor issues related to encoding and syntax.
 | 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
-| Marathi | Indian Revised Version (IRV) Marathi | `mr_irvmar` | |
+| 🇮🇳 Marathi | Indian Revised Version (IRV) Marathi | `mr_irvmar` | |
 | 🇳🇴 Norwegian (Bokmål) | Bibel 2011 | `nb_bibel2011` | |
 | 🇮🇷 Persian | Persian Contemporary Bible 2022 | `fa_opcb` | |
 | 🇵🇱 Polish | Uwspółcześniona Biblia Gdańska | `pl_ubg` | |
-| Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
+| 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
 | 🇰🇪 Swahili | Swahili Revised Union Version | `sw_sruv` | |
 | 🇸🇪 Swedish | Svenska Folkbibeln 2015 | `sv_sfb15` | |
-| Tamil | Indian Revised Version (IRV) Tamil | `ta_irvtam` | |
-| Telugu | Indian Revised Version (IRV) Telugu 2019 | `te_irvtel` | |
+| 🇮🇳 Tamil | Indian Revised Version (IRV) Tamil | `ta_irvtam` | |
+| 🇮🇳 Telugu | Indian Revised Version (IRV) Telugu 2019 | `te_irvtel` | |
 | 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
 | 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
 | 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | Text is in Devanagari script rather than Perso-Arabic — this is how the source itself publishes this edition, aimed at Urdu speakers who read Devanagari |
