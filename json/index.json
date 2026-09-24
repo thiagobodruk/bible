@@ -49,6 +49,138 @@
             {
                 "name": "King James Version",
                 "abbreviation": "en_kjv"
+            },
+            {
+                "name": "American Standard Version 1901",
+                "abbreviation": "en_asv"
+            },
+            {
+                "name": "Amplified Bible",
+                "abbreviation": "en_amp"
+            },
+            {
+                "name": "Wycliffe's Bible with Modern Spelling",
+                "abbreviation": "en_wbms"
+            },
+            {
+                "name": "Jubilee Bible",
+                "abbreviation": "en_jub"
+            },
+            {
+                "name": "Berean Standard Bible",
+                "abbreviation": "en_bsb"
+            },
+            {
+                "name": "Christian Standard Bible",
+                "abbreviation": "en_csb"
+            },
+            {
+                "name": "Contemporary English Version",
+                "abbreviation": "en_cev"
+            },
+            {
+                "name": "Darby's Translation 1890",
+                "abbreviation": "en_darby"
+            },
+            {
+                "name": "Douay-Rheims American 1899",
+                "abbreviation": "en_dra"
+            },
+            {
+                "name": "English Standard Version",
+                "abbreviation": "en_esv"
+            },
+            {
+                "name": "Free Bible Version",
+                "abbreviation": "en_fbv"
+            },
+            {
+                "name": "Geneva Bible",
+                "abbreviation": "en_gnv"
+            },
+            {
+                "name": "Good News Translation",
+                "abbreviation": "en_gnt"
+            },
+            {
+                "name": "King James Version with Apocrypha",
+                "abbreviation": "en_kjva"
+            },
+            {
+                "name": "Lexham English Bible",
+                "abbreviation": "en_leb"
+            },
+            {
+                "name": "Literal Standard Version",
+                "abbreviation": "en_lsv"
+            },
+            {
+                "name": "Majority Standard Bible",
+                "abbreviation": "en_mbsb"
+            },
+            {
+                "name": "New American Standard Bible 2020",
+                "abbreviation": "en_nasb"
+            },
+            {
+                "name": "New International Version",
+                "abbreviation": "en_niv"
+            },
+            {
+                "name": "New Living Translation",
+                "abbreviation": "en_nlt"
+            },
+            {
+                "name": "New Messianic Version Bible",
+                "abbreviation": "en_nmv"
+            },
+            {
+                "name": "New King James Version",
+                "abbreviation": "en_nkjv"
+            },
+            {
+                "name": "The Cambridge Paragraph Bible of the Authorized English Version",
+                "abbreviation": "en_kjvcpb"
+            },
+            {
+                "name": "A Translation for Translators",
+                "abbreviation": "en_t4t"
+            },
+            {
+                "name": "Revised Version 1885",
+                "abbreviation": "en_engrv"
+            },
+            {
+                "name": "World English Bible (American Edition)",
+                "abbreviation": "en_web"
+            },
+            {
+                "name": "World English Bible Updated",
+                "abbreviation": "en_webu"
+            },
+            {
+                "name": "World English Bible (British Edition)",
+                "abbreviation": "en_webbe"
+            },
+            {
+                "name": "World English Bible, American English Edition, without Strong's numbers",
+                "abbreviation": "en_webus"
+            },
+            {
+                "name": "World Messianic Bible (American English)",
+                "abbreviation": "en_wmb"
+            },
+            {
+                "name": "World Messianic Bible (British Edition)",
+                "abbreviation": "en_wmbbe"
+            },
+            {
+                "name": "Young's Literal Translation 1898",
+                "abbreviation": "en_ylt98"
+            },
+            {
+                "name": "The Orthodox Jewish Bible",
+                "abbreviation": "en_tojb2011"
             }
         ]
     },
