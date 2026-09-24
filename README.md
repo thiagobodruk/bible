@@ -20,10 +20,33 @@ these files may contain minor issues related to encoding and syntax.
 | Language | Version | Files | Notes |
 |---|---|---|---|
 | 🇸🇦 Arabic | Ketab El Hayat Majani | `ar_kehm` | |
+| 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
+| 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revista e Corrigida | `pt_arc` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revista e Corrigida 1969 | `pt_rc69` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Século 21 | `pt_a21` | |
+| 🇧🇷 Brazilian Portuguese | Bíblia para Todos | `pt_bpt09` | |
+| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada Ave-Maria | `pt_avm` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada: Versão Fácil de Ler | `pt_vfl` | |
+| 🇧🇷 Brazilian Portuguese | Edição Pastoral | `pt_pastoral` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇧🇷 Brazilian Portuguese | King James Atualizada | `pt_kja` | |
+| 🇧🇷 Brazilian Portuguese | King James Fiel | `pt_bkj` | |
+| 🇧🇷 Brazilian Portuguese | Nova Almeida Atualizada | `pt_naa` | |
+| 🇧🇷 Brazilian Portuguese | Nova Bíblia Viva 2007 | `pt_nbv` | |
+| 🇧🇷 Brazilian Portuguese | Nova Tradução na Linguagem de Hoje | `pt_ntlh` | |
+| 🇧🇷 Brazilian Portuguese | Nova Versão Internacional | `pt_nvi` | |
+| 🇧🇷 Brazilian Portuguese | Nova Versão Internacional 2011 | `pt_nvi2011` | |
+| 🇧🇷 Brazilian Portuguese | Nova Versão Transformadora | `pt_nvt` | |
+| 🇧🇷 Brazilian Portuguese | O Livro | `pt_ol` | |
+| 🇧🇷 Brazilian Portuguese | Tradução Brasileira | `pt_tb` | |
+| 🇧🇷 Brazilian Portuguese | Tradução do Pe. Matos Soares | `pt_matos` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
 | 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
-| 🇩🇪 German | Schlachter 1951 | `de_sch1951` | |
-| 🇬🇷 Greek | Modern Greek (Demotic) | `el_fpb` | |
+| 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
 | 🇬🇧 English | American Standard Version 1901 | `en_asv` | |
 | 🇬🇧 English | Amplified Bible | `en_amp` | |
 | 🇬🇧 English | Basic English | `en_bbe` | |
@@ -60,48 +83,24 @@ these files may contain minor issues related to encoding and syntax.
 | 🇬🇧 English | Wycliffe's Bible with Modern Spelling | `en_wbms` | |
 | 🇬🇧 English | Young's Literal Translation 1898 | `en_ylt98` | |
 | 🌍 Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
-| 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
+| 🇵🇭 Filipino | Ang Biblia 1905 | `tl_abtag` | |
 | 🇫🇮 Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
 | 🇫🇷 French | Le Bible de I'Épée | `fr_apee` | |
-| 🇰🇷 Korean | Korean Revised | `ko_krv` | |
-| 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
-| 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
-| 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
-| 🇧🇷 Brazilian Portuguese | Almeida Revista e Corrigida | `pt_arc` | |
-| 🇧🇷 Brazilian Portuguese | Almeida Revista e Corrigida 1969 | `pt_rc69` | |
-| 🇧🇷 Brazilian Portuguese | Almeida Século 21 | `pt_a21` | |
-| 🇧🇷 Brazilian Portuguese | Bíblia para Todos | `pt_bpt09` | |
-| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada Ave-Maria | `pt_avm` | Malachi has 3 chapters instead of 4 in this edition |
-| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada: Versão Fácil de Ler | `pt_vfl` | |
-| 🇧🇷 Brazilian Portuguese | Edição Pastoral | `pt_pastoral` | Malachi has 3 chapters instead of 4 in this edition |
-| 🇧🇷 Brazilian Portuguese | King James Atualizada | `pt_kja` | |
-| 🇧🇷 Brazilian Portuguese | King James Fiel | `pt_bkj` | |
-| 🇧🇷 Brazilian Portuguese | Nova Almeida Atualizada | `pt_naa` | |
-| 🇧🇷 Brazilian Portuguese | Nova Bíblia Viva 2007 | `pt_nbv` | |
-| 🇧🇷 Brazilian Portuguese | Nova Tradução na Linguagem de Hoje | `pt_ntlh` | |
-| 🇧🇷 Brazilian Portuguese | Nova Versão Internacional | `pt_nvi` | |
-| 🇧🇷 Brazilian Portuguese | Nova Versão Internacional 2011 | `pt_nvi2011` | |
-| 🇧🇷 Brazilian Portuguese | Nova Versão Transformadora | `pt_nvt` | |
-| 🇧🇷 Brazilian Portuguese | O Livro | `pt_ol` | |
-| 🇧🇷 Brazilian Portuguese | Tradução Brasileira | `pt_tb` | |
-| 🇧🇷 Brazilian Portuguese | Tradução do Pe. Matos Soares | `pt_matos` | Malachi has 3 chapters instead of 4 in this edition |
-| 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
-| 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books — see [Known gaps](#known-gaps) |
-| 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
-| 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
-| 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
-| 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
-| 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
-| 🇵🇭 Filipino | Ang Biblia 1905 | `tl_abtag` | |
+| 🇩🇪 German | Schlachter 1951 | `de_sch1951` | |
+| 🇬🇷 Greek | Modern Greek (Demotic) | `el_fpb` | |
 | 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
+| 🇰🇷 Korean | Korean Revised | `ko_krv` | |
 | 🇮🇳 Marathi | Indian Revised Version (IRV) Marathi | `mr_irvmar` | |
 | 🇳🇴 Norwegian (Bokmål) | Bibel 2011 | `nb_bibel2011` | |
 | 🇮🇷 Persian | Persian Contemporary Bible 2022 | `fa_opcb` | |
 | 🇵🇱 Polish | Uwspółcześniona Biblia Gdańska | `pl_ubg` | |
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
+| 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
+| 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books — see [Known gaps](#known-gaps) |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
+| 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
 | 🇰🇪 Swahili | Swahili Revised Union Version | `sw_sruv` | |
 | 🇸🇪 Swedish | Svenska Folkbibeln 2015 | `sv_sfb15` | |
 | 🇮🇳 Tamil | Indian Revised Version (IRV) Tamil | `ta_irvtam` | |
@@ -109,6 +108,7 @@ these files may contain minor issues related to encoding and syntax.
 | 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
 | 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
 | 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | Text is in Devanagari script rather than Perso-Arabic — this is how the source itself publishes this edition, aimed at Urdu speakers who read Devanagari |
+| 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
 
 Each entry's files are `json/<code>.json` and `xml/<code>.xml` (e.g.
 `json/pt_nvi.json`, `xml/pt_nvi.xml`). `json/index.json` lists this same
