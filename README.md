@@ -22,8 +22,41 @@ these files may contain minor issues related to encoding and syntax.
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
 | 🇩🇪 German | Schlachter 1951 | `de_sch1951` | |
 | 🇬🇷 Greek | Modern Greek (Demotic) | `el_fpb` | |
+| 🇬🇧 English | American Standard Version 1901 | `en_asv` | |
+| 🇬🇧 English | Amplified Bible | `en_amp` | |
 | 🇬🇧 English | Basic English | `en_bbe` | |
+| 🇬🇧 English | Berean Standard Bible | `en_bsb` | |
+| 🇬🇧 English | Christian Standard Bible | `en_csb` | |
+| 🇬🇧 English | Contemporary English Version | `en_cev` | |
+| 🇬🇧 English | Darby's Translation 1890 | `en_darby` | |
+| 🇬🇧 English | Douay-Rheims American 1899 | `en_dra` | |
+| 🇬🇧 English | English Standard Version | `en_esv` | |
+| 🇬🇧 English | Free Bible Version | `en_fbv` | |
+| 🇬🇧 English | Geneva Bible | `en_gnv` | |
+| 🇬🇧 English | Good News Translation | `en_gnt` | |
+| 🇬🇧 English | Jubilee Bible | `en_jub` | |
 | 🇬🇧 English | King James Version | `en_kjv` | |
+| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | |
+| 🇬🇧 English | Lexham English Bible | `en_leb` | |
+| 🇬🇧 English | Literal Standard Version | `en_lsv` | |
+| 🇬🇧 English | Majority Standard Bible | `en_mbsb` | |
+| 🇬🇧 English | New American Standard Bible 2020 | `en_nasb` | |
+| 🇬🇧 English | New International Version | `en_niv` | |
+| 🇬🇧 English | New King James Version | `en_nkjv` | |
+| 🇬🇧 English | New Living Translation | `en_nlt` | |
+| 🇬🇧 English | New Messianic Version Bible | `en_nmv` | |
+| 🇬🇧 English | Revised Version 1885 | `en_engrv` | |
+| 🇬🇧 English | The Cambridge Paragraph Bible of the Authorized English Version | `en_kjvcpb` | |
+| 🇬🇧 English | The Orthodox Jewish Bible | `en_tojb2011` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇬🇧 English | A Translation for Translators | `en_t4t` | |
+| 🇬🇧 English | World English Bible (American Edition) | `en_web` | |
+| 🇬🇧 English | World English Bible Updated | `en_webu` | |
+| 🇬🇧 English | World English Bible (British Edition) | `en_webbe` | |
+| 🇬🇧 English | World English Bible, American English Edition, without Strong's numbers | `en_webus` | |
+| 🇬🇧 English | World Messianic Bible (American English) | `en_wmb` | |
+| 🇬🇧 English | World Messianic Bible (British Edition) | `en_wmbbe` | |
+| 🇬🇧 English | Wycliffe's Bible with Modern Spelling | `en_wbms` | |
+| 🇬🇧 English | Young's Literal Translation 1898 | `en_ylt98` | |
 | 🌍 Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
 | 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
 | 🇫🇮 Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
@@ -74,6 +107,16 @@ catalog in machine-readable form.
   l'Épée (`fr_apee`)** are kept as previously published, unchanged in
   this update — the source used to refresh the other versions no longer
   offers these two translations.
+* Three English editions available from the source were deliberately
+  left out because the source's own data for them is broken or
+  incompatible with this project's per-verse structure: **American
+  Standard Version Byzantine Text with Apocrypha** (only one book has
+  working chapter pages, the rest 404), **Brenton English Septuagint,
+  Updated** (missing the Book of Nehemiah, due to a different
+  Ezra-Nehemiah split in the Septuagint), and **The Message** (a loose
+  paraphrase whose page markup omits per-verse boundaries for ~50
+  chapters scattered across the Bible, so individual verses can't be
+  extracted there).
 * A few versions were refreshed from their closest currently available
   equivalent, since the previous edition is no longer published by the
   source: **Arabic** (`ar_svd` → `ar_kehm`), **Chinese Union Version**
