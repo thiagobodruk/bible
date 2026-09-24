@@ -2,6 +2,15 @@
 
 ## 90 Bible versions in 35 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
+### 🤖 AI / LLM-ready
+
+Clean, per-verse structured JSON and XML — no HTML, no markup noise, no
+scraping artifacts. The same canonical book abbreviations are used
+across every language and version, so verses align out of the box for
+embeddings, RAG pipelines, fine-tuning, and cross-lingual alignment
+tasks. MIT-licensed code with permissively-sourced text, ready to feed
+straight into a dataset or a context window.
+
 Do you want to create a Bible based app? What about an API for Bible
 verses search? Now you can do this, using sources in your very own
 language! The main objective of this project is to allow people to
