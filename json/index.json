@@ -115,6 +115,74 @@
             {
                 "name": "Nova Versão Internacional",
                 "abbreviation": "pt_nvi"
+            },
+            {
+                "name": "Almeida Revista e Corrigida",
+                "abbreviation": "pt_arc"
+            },
+            {
+                "name": "Almeida Revista e Corrigida 1969",
+                "abbreviation": "pt_rc69"
+            },
+            {
+                "name": "Almeida Século 21",
+                "abbreviation": "pt_a21"
+            },
+            {
+                "name": "Bíblia para Todos",
+                "abbreviation": "pt_bpt09"
+            },
+            {
+                "name": "Bíblia Sagrada Ave-Maria",
+                "abbreviation": "pt_avm"
+            },
+            {
+                "name": "Bíblia Sagrada: Versão Fácil de Ler",
+                "abbreviation": "pt_vfl"
+            },
+            {
+                "name": "Edição Pastoral",
+                "abbreviation": "pt_pastoral"
+            },
+            {
+                "name": "King James Atualizada",
+                "abbreviation": "pt_kja"
+            },
+            {
+                "name": "King James Fiel",
+                "abbreviation": "pt_bkj"
+            },
+            {
+                "name": "Nova Almeida Atualizada",
+                "abbreviation": "pt_naa"
+            },
+            {
+                "name": "Nova Bíblia Viva 2007",
+                "abbreviation": "pt_nbv"
+            },
+            {
+                "name": "Nova Tradução na Linguagem de Hoje",
+                "abbreviation": "pt_ntlh"
+            },
+            {
+                "name": "Nova Versão Internacional 2011",
+                "abbreviation": "pt_nvi2011"
+            },
+            {
+                "name": "Nova Versão Transformadora",
+                "abbreviation": "pt_nvt"
+            },
+            {
+                "name": "O Livro",
+                "abbreviation": "pt_ol"
+            },
+            {
+                "name": "Tradução Brasileira",
+                "abbreviation": "pt_tb"
+            },
+            {
+                "name": "Tradução do Pe. Matos Soares",
+                "abbreviation": "pt_matos"
             }
         ]
     },
