@@ -32,7 +32,24 @@ these files may contain minor issues related to encoding and syntax.
 | 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revista e Corrigida | `pt_arc` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Revista e Corrigida 1969 | `pt_rc69` | |
+| 🇧🇷 Brazilian Portuguese | Almeida Século 21 | `pt_a21` | |
+| 🇧🇷 Brazilian Portuguese | Bíblia para Todos | `pt_bpt09` | |
+| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada Ave-Maria | `pt_avm` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada: Versão Fácil de Ler | `pt_vfl` | |
+| 🇧🇷 Brazilian Portuguese | Edição Pastoral | `pt_pastoral` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇧🇷 Brazilian Portuguese | King James Atualizada | `pt_kja` | |
+| 🇧🇷 Brazilian Portuguese | King James Fiel | `pt_bkj` | |
+| 🇧🇷 Brazilian Portuguese | Nova Almeida Atualizada | `pt_naa` | |
+| 🇧🇷 Brazilian Portuguese | Nova Bíblia Viva 2007 | `pt_nbv` | |
+| 🇧🇷 Brazilian Portuguese | Nova Tradução na Linguagem de Hoje | `pt_ntlh` | |
 | 🇧🇷 Brazilian Portuguese | Nova Versão Internacional | `pt_nvi` | |
+| 🇧🇷 Brazilian Portuguese | Nova Versão Internacional 2011 | `pt_nvi2011` | |
+| 🇧🇷 Brazilian Portuguese | Nova Versão Transformadora | `pt_nvt` | |
+| 🇧🇷 Brazilian Portuguese | O Livro | `pt_ol` | |
+| 🇧🇷 Brazilian Portuguese | Tradução Brasileira | `pt_tb` | |
+| 🇧🇷 Brazilian Portuguese | Tradução do Pe. Matos Soares | `pt_matos` | Malachi has 3 chapters instead of 4 in this edition |
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
 | 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books — see [Known gaps](#known-gaps) |
 | 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
