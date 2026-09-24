@@ -1,5 +1,9 @@
 # Bible: XML and JSON
 
+> "And this gospel of the kingdom shall be preached in all the world
+> for a witness unto all nations; and then shall the end come."
+> — Matthew 24:14 (KJV)
+
 ## 90 Bible versions in 35 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 ### 🤖 AI / LLM-ready
