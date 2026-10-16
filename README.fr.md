@@ -1,6 +1,6 @@
 <div align="center">
 
-Lisez ce document en **Français** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+**Français** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
 
 # Bible: XML and JSON
 
@@ -16,14 +16,11 @@ JSON et XML propres et structurés pour les applications bibliques, la recherche
 
 [Versions](#quelles-langues-et-versions-le-projet-couvre-t-il-) · [Format des fichiers](#comment-les-fichiers-sont-ils-structurés-) · [Prêt pour l'IA / les LLM](#-prêt-pour-lia--les-llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
 
-`curl -O https://raw.githubusercontent.com/thiagobodruk/bible/master/json/fr_apee.json`
+</div>
 
 > [!IMPORTANT]
 > "Et cet Évangile de la Souveraineté de Dieu sera prêché par toute la terre, pour servir de témoignage à toutes les nations; et alors la fin arrivera."
->
 > — Matthieu 24:14 (Bible de l'Épée)
-
-</div>
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-Leggi questo documento in **Italiano** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+**Italiano** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
 
 # Bible: XML and JSON
 
@@ -16,14 +16,11 @@ JSON e XML puliti e strutturati per app bibliche, ricerca di versetti e dataset 
 
 [Versioni](#quali-lingue-e-versioni-copre-il-progetto) · [Formato dei file](#come-sono-strutturati-i-file) · [Pronto per IA / LLM](#-pronto-per-ia--llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussioni](https://github.com/thiagobodruk/bible/discussions)
 
-`curl -O https://raw.githubusercontent.com/thiagobodruk/bible/master/json/it_irb20.json`
+</div>
 
 > [!IMPORTANT]
 > "E questo evangelo del regno sarà predicato per tutto il mondo, affinché ne sia resa testimonianza a tutte le genti; allora verrà la fine."
->
 > — Matteo 24:14 (IRB20)
-
-</div>
 
 ---
 

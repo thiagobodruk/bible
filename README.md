@@ -1,6 +1,6 @@
 <div align="center">
 
-Read this doc in **English** · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+**English** · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
 
 # Bible: XML and JSON
 
@@ -16,14 +16,11 @@ Clean, structured JSON and XML for Bible apps, verse search, and NLP/AI datasets
 
 [Versions](#which-languages-and-versions-are-covered-by-the-project) · [File format](#how-the-files-are-structured) · [AI / LLM-ready](#-ai--llm-ready) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
 
-`curl -O https://raw.githubusercontent.com/thiagobodruk/bible/master/json/en_kjv.json`
+</div>
 
 > [!IMPORTANT]
 > "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
->
 > — Matthew 24:14 (KJV)
-
-</div>
 
 ---
 
