@@ -1,0 +1,23 @@
+name: Version request
+description: Ask for a new Bible version or language
+labels: ["enhancement"]
+body:
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: Swahili
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version name and abbreviation
+      placeholder: Swahili Union Version (SUV)
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else we should know (complete Bible or New Testament only, license, etc.).

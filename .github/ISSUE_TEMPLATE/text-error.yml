@@ -1,0 +1,26 @@
+name: Text error
+description: Report a missing, wrong, or corrupted verse in a version
+labels: ["bug"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: File
+      description: Which file is affected?
+      placeholder: json/pt_nvi.json
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Book, chapter, and verse
+      placeholder: Genesis 1:3
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Describe the problem and, if you can, the expected text.
+    validations:
+      required: true
