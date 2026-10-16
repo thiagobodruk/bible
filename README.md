@@ -1,7 +1,7 @@
 # Bible: XML and JSON
 
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/thiagobodruk/bible)](https://github.com/thiagobodruk/bible/releases)
+![Versions](https://img.shields.io/badge/versions-99-blue)
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat)](https://github.com/thiagobodruk/bible/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/thiagobodruk/bible)](https://github.com/thiagobodruk/bible/commits)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
