@@ -1,10 +1,9 @@
 # Bible: XML and JSON
 
-[![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-![Versions](https://img.shields.io/badge/versions-99-blue)
-[![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat)](https://github.com/thiagobodruk/bible/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/thiagobodruk/bible)](https://github.com/thiagobodruk/bible/commits)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
+![Versions](https://img.shields.io/badge/versions-99-blue)
+[![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat)](https://github.com/thiagobodruk/bible/stargazers)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 > "And this gospel of the kingdom shall be preached in all the world
