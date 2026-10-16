@@ -614,5 +614,212 @@
         "abbreviation": "ja_jniv"
       }
     ]
+  },
+  {
+    "language": "Akan",
+    "versions": [
+      {
+        "name": "Akuapem Twi Contemporary Bible",
+        "abbreviation": "ak_wakna"
+      }
+    ]
+  },
+  {
+    "language": "Central Kurdish",
+    "versions": [
+      {
+        "name": "Kurdi Sorani Standard Version",
+        "abbreviation": "ckb_okss"
+      }
+    ]
+  },
+  {
+    "language": "Ewe",
+    "versions": [
+      {
+        "name": "Ewe Contemporary Scriptures",
+        "abbreviation": "ee_oal"
+      }
+    ]
+  },
+  {
+    "language": "Scottish Gaelic",
+    "versions": [
+      {
+        "name": "Am Bìoball Gàidhlig 1992",
+        "abbreviation": "gd_abg1992"
+      }
+    ]
+  },
+  {
+    "language": "Hausa",
+    "versions": [
+      {
+        "name": "Hausa Contemporary Bible",
+        "abbreviation": "ha_bsrk"
+      }
+    ]
+  },
+  {
+    "language": "Haitian Creole",
+    "versions": [
+      {
+        "name": "Bib Sen An: Kreyòl Ayisyen",
+        "abbreviation": "ht_bsa"
+      }
+    ]
+  },
+  {
+    "language": "Igbo",
+    "versions": [
+      {
+        "name": "Igbo Contemporary Bible",
+        "abbreviation": "ig_biuo"
+      }
+    ]
+  },
+  {
+    "language": "Kikuyu",
+    "versions": [
+      {
+        "name": "Kiugo Gĩtheru Kĩa Ngai Kĩhingũre",
+        "abbreviation": "ki_kgnk"
+      }
+    ]
+  },
+  {
+    "language": "Kazakh",
+    "versions": [
+      {
+        "name": "Киелі кітап",
+        "abbreviation": "kk_qazbi"
+      }
+    ]
+  },
+  {
+    "language": "Latin",
+    "versions": [
+      {
+        "name": "Vulgata Latina",
+        "abbreviation": "la_vulg"
+      }
+    ]
+  },
+  {
+    "language": "Luganda",
+    "versions": [
+      {
+        "name": "Bayibuli Entukuvu",
+        "abbreviation": "lg_olcb"
+      }
+    ]
+  },
+  {
+    "language": "Lingala",
+    "versions": [
+      {
+        "name": "Lingala Contemporary Bible",
+        "abbreviation": "ln_smnb"
+      }
+    ]
+  },
+  {
+    "language": "Latvian",
+    "versions": [
+      {
+        "name": "Glika Bībele",
+        "abbreviation": "lv_lg8"
+      }
+    ]
+  },
+  {
+    "language": "Maori",
+    "versions": [
+      {
+        "name": "Paipera Tapu 2012",
+        "abbreviation": "mi_mri2012"
+      }
+    ]
+  },
+  {
+    "language": "Northern Ndebele",
+    "versions": [
+      {
+        "name": "Ndebele Contemporary Bible",
+        "abbreviation": "nd_oben"
+      }
+    ]
+  },
+  {
+    "language": "Nyanja",
+    "versions": [
+      {
+        "name": "Chichewa Contemporary Version",
+        "abbreviation": "ny_tccl"
+      }
+    ]
+  },
+  {
+    "language": "Oromo",
+    "versions": [
+      {
+        "name": "New Oromo Contemporary Version",
+        "abbreviation": "om_onocv"
+      }
+    ]
+  },
+  {
+    "language": "Kirundi",
+    "versions": [
+      {
+        "name": "Kirundi Contemporary Bible",
+        "abbreviation": "rn_obkc"
+      }
+    ]
+  },
+  {
+    "language": "Shona",
+    "versions": [
+      {
+        "name": "Shona Contemporary Bible 2017",
+        "abbreviation": "sn_bdrsc"
+      }
+    ]
+  },
+  {
+    "language": "Albanian",
+    "versions": [
+      {
+        "name": "Bibla Shqip 1994",
+        "abbreviation": "sq_albb"
+      }
+    ]
+  },
+  {
+    "language": "Tongan",
+    "versions": [
+      {
+        "name": "Ko e Tohi Tapu Kātoa",
+        "abbreviation": "to_rwv"
+      }
+    ]
+  },
+  {
+    "language": "Yoruba",
+    "versions": [
+      {
+        "name": "Yoruba Contemporary Bible",
+        "abbreviation": "yo_oycb"
+      }
+    ]
+  },
+  {
+    "language": "Catalan",
+    "versions": [
+      {
+        "name": "Bíblia Catalana Interconfessional",
+        "abbreviation": "ca_bci"
+      }
+    ]
   }
 ]
