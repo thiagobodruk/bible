@@ -1,19 +1,23 @@
+**日本語** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [简体中文](README.zh-cn.md)
+
 # Bible: XML and JSON
+
+**67言語・122種類の聖書バージョン 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+
+聖書アプリ、聖句検索、NLP/AI データセットのための、クリーンで構造化された JSON と XML。
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
+
+[バージョン一覧](#どの言語とバージョンに対応していますか) · [ファイル形式](#ファイルの構造は) · [AI / LLM 対応](#-ai--llm-対応) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [ディスカッション](https://github.com/thiagobodruk/bible/discussions)
+
+---
 
 > そして、御国のこの福音はあらゆる民への証しとして、全世界に宣べ伝えられる。それから、終わりが来る。
 > — マタイ 24:14（新共同訳）
-
-## 67言語・122種類の聖書バージョン 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
-このドキュメントを読む：**日本語** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [简体中文](README.zh-cn.md)
-
----
 
 ### 🤖 AI / LLM 対応
 

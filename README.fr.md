@@ -1,19 +1,23 @@
+**Français** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+
 # Bible: XML and JSON
+
+**122 versions de la Bible en 67 langues 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+
+JSON et XML propres et structurés pour les applications bibliques, la recherche de versets et les jeux de données NLP/IA.
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
+
+[Versions](#quelles-langues-et-versions-le-projet-couvre-t-il-) · [Format des fichiers](#comment-les-fichiers-sont-ils-structurés-) · [Prêt pour l'IA / les LLM](#-prêt-pour-lia--les-llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
+
+---
 
 > "Et cet Évangile de la Souveraineté de Dieu sera prêché par toute la terre, pour servir de témoignage à toutes les nations; et alors la fin arrivera."
 > — Matthieu 24:14 (Bible de l'Épée)
-
-## 122 versions de la Bible en 67 langues 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
-Lisez ce document en **Français** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
-
----
 
 ### 🤖 Prêt pour l'IA / les LLM
 

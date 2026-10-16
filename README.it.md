@@ -1,19 +1,23 @@
+**Italiano** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+
 # Bible: XML and JSON
+
+**122 versioni della Bibbia in 67 lingue 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+
+JSON e XML puliti e strutturati per app bibliche, ricerca di versetti e dataset NLP/IA.
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
+
+[Versioni](#quali-lingue-e-versioni-copre-il-progetto) · [Formato dei file](#come-sono-strutturati-i-file) · [Pronto per IA / LLM](#-pronto-per-ia--llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussioni](https://github.com/thiagobodruk/bible/discussions)
+
+---
 
 > "E questo evangelo del regno sarà predicato per tutto il mondo, affinché ne sia resa testimonianza a tutte le genti; allora verrà la fine."
 > — Matteo 24:14 (IRB20)
-
-## 122 versioni della Bibbia in 67 lingue 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
-Leggi questo documento in **Italiano** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
-
----
 
 ### 🤖 Pronto per IA / LLM
 
