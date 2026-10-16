@@ -1,5 +1,8 @@
 # Bible: XML and JSON
 
+> "Et cet Évangile de la Souveraineté de Dieu sera prêché par toute la terre, pour servir de témoignage à toutes les nations; et alors la fin arrivera."
+> — Matthieu 24:14 (Bible de l'Épée)
+
 ## 122 versions de la Bible en 67 langues 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
@@ -9,9 +12,6 @@
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · **Français** · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
-
-> "Et cet Évangile de la Souveraineté de Dieu sera prêché par toute la terre, pour servir de témoignage à toutes les nations; et alors la fin arrivera."
-> — Matthieu 24:14 (Bible de l'Épée)
 
 ### 🤖 Prêt pour l'IA / les LLM
 

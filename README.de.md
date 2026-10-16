@@ -1,5 +1,8 @@
 # Bible: XML and JSON
 
+> "Und dieses Evangelium vom Reich wird in der ganzen Welt gepredigt werden, zum Zeugnis allen Völkern, und dann wird das Ende kommen."
+> — Matthäus 24,14 (Schlachter 1951)
+
 ## 122 Bibelversionen in 67 Sprachen 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
@@ -9,9 +12,6 @@
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · **Deutsch** · [日本語](README.ja.md) · [Čeština](README.cs.md)
-
-> "Und dieses Evangelium vom Reich wird in der ganzen Welt gepredigt werden, zum Zeugnis allen Völkern, und dann wird das Ende kommen."
-> — Matthäus 24,14 (Schlachter 1951)
 
 ### 🤖 KI- / LLM-bereit
 

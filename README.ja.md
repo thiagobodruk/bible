@@ -1,5 +1,8 @@
 # Bible: XML and JSON
 
+> そして、御国のこの福音はあらゆる民への証しとして、全世界に宣べ伝えられる。それから、終わりが来る。
+> — マタイ 24:14（新共同訳）
+
 ## 67言語・122種類の聖書バージョン 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
@@ -9,9 +12,6 @@
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · **日本語** · [Čeština](README.cs.md)
-
-> そして、御国のこの福音はあらゆる民への証しとして、全世界に宣べ伝えられる。それから、終わりが来る。
-> — マタイ 24:14（新共同訳）
 
 ### 🤖 AI / LLM 対応
 

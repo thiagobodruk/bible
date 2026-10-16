@@ -1,5 +1,8 @@
 # Bible: XML and JSON
 
+> "E questo evangelo del regno sarà predicato per tutto il mondo, affinché ne sia resa testimonianza a tutte le genti; allora verrà la fine."
+> — Matteo 24:14 (IRB20)
+
 ## 122 versioni della Bibbia in 67 lingue 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
@@ -9,9 +12,6 @@
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · **Italiano** · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
-
-> "E questo evangelo del regno sarà predicato per tutto il mondo, affinché ne sia resa testimonianza a tutte le genti; allora verrà la fine."
-> — Matteo 24:14 (IRB20)
 
 ### 🤖 Pronto per IA / LLM
 
