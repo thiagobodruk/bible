@@ -13,6 +13,8 @@
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · **Français** · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
+---
+
 ### 🤖 Prêt pour l'IA / les LLM
 
 Du JSON et du XML propres, structurés verset par verset — sans HTML, sans bruit de balisage, sans artefacts de scraping. Les mêmes abréviations canoniques des livres sont utilisées pour toutes les langues et toutes les versions : les versets s'alignent donc immédiatement pour les embeddings, les pipelines RAG, le fine-tuning et les tâches d'alignement multilingue. Code sous licence MIT et textes issus de sources permissives, prêts à alimenter un jeu de données ou une fenêtre de contexte.
@@ -24,8 +26,6 @@ Vous voulez créer une application biblique ? Pourquoi pas une API de recherche 
 ## Comment les fichiers ont-ils été générés ?
 
 Les fichiers sources ont été générés par un crawler écrit en Python. Ils peuvent donc contenir de petits problèmes d'encodage et de syntaxe.
-
----
 
 ## Quelles langues et versions le projet couvre-t-il ?
 

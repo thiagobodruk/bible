@@ -13,6 +13,8 @@
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · **Español** · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
+---
+
 ### 🤖 Listo para IA / LLM
 
 JSON y XML limpios y estructurados por versículo — sin HTML, sin ruido de marcado y sin artefactos de scraping. Se usan las mismas abreviaturas canónicas de los libros en todos los idiomas y versiones, de modo que los versículos se alinean de inmediato para embeddings, pipelines de RAG, fine-tuning y tareas de alineación multilingüe. Código con licencia MIT y textos de fuentes permisivas, listos para incorporarse a un dataset o a una ventana de contexto.
@@ -24,8 +26,6 @@ JSON y XML limpios y estructurados por versículo — sin HTML, sin ruido de mar
 ## ¿Cómo se generaron los archivos?
 
 Los archivos fuente se generaron con un crawler escrito en Python. Por eso, pueden contener pequeños problemas de codificación y sintaxis.
-
----
 
 ## ¿Qué idiomas y versiones cubre el proyecto?
 

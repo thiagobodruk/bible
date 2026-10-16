@@ -14,6 +14,8 @@
 
 🌐 **English** · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
+---
+
 ### 🤖 AI / LLM-ready
 
 Clean, per-verse structured JSON and XML — no HTML, no markup noise, no
@@ -35,8 +37,6 @@ Help us to go even further. **Support this project! :)**
 
 The source files were generated using a Python based crawler. Therefore,
 these files may contain minor issues related to encoding and syntax.
-
----
 
 ## Which languages and versions are covered by the project?
 

@@ -13,6 +13,8 @@
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · **Italiano** · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
+---
+
 ### 🤖 Pronto per IA / LLM
 
 JSON e XML puliti e strutturati per versetto — niente HTML, niente rumore di markup, niente artefatti di scraping. Le stesse abbreviazioni canoniche dei libri sono usate in tutte le lingue e versioni, quindi i versetti si allineano subito per embedding, pipeline RAG, fine-tuning e attività di allineamento multilingue. Codice con licenza MIT e testi da fonti permissive, pronti per entrare in un dataset o in una finestra di contesto.
@@ -24,8 +26,6 @@ Vuoi creare un'app biblica? E che ne dici di un'API per la ricerca dei versetti?
 ## Come sono stati generati i file?
 
 I file sorgente sono stati generati con un crawler scritto in Python. Per questo possono contenere piccoli problemi di codifica e di sintassi.
-
----
 
 ## Quali lingue e versioni copre il progetto?
 

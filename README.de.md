@@ -13,6 +13,8 @@
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · **Deutsch** · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
+---
+
 ### 🤖 KI- / LLM-bereit
 
 Saubere, vers-weise strukturierte JSON- und XML-Dateien — ohne HTML, ohne Markup-Rauschen, ohne Scraping-Artefakte. Für alle Sprachen und Versionen werden dieselben kanonischen Buchkürzel verwendet, sodass sich die Verse sofort für Embeddings, RAG-Pipelines, Fine-Tuning und sprachübergreifende Alignment-Aufgaben abgleichen lassen. MIT-lizenzierter Code mit Texten aus permissiven Quellen, bereit für ein Dataset oder ein Kontextfenster.
@@ -24,8 +26,6 @@ Möchtest du eine Bibel-App entwickeln? Oder eine API für die Versesuche? Jetzt
 ## Wie wurden die Dateien erstellt?
 
 Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher können sie kleinere Probleme bei Kodierung und Syntax enthalten.
-
----
 
 ## Welche Sprachen und Versionen deckt das Projekt ab?
 

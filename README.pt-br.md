@@ -13,6 +13,8 @@
 
 🌐 [English](README.md) · **Português (Brasil)** · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
+---
+
 ### 🤖 Pronto para IA / LLM
 
 JSON e XML limpos e estruturados por versículo — sem HTML, sem ruído de marcação e sem artefatos de scraping. As mesmas abreviações canônicas de livros são usadas em todos os idiomas e versões, então os versículos se alinham de imediato para embeddings, pipelines de RAG, fine-tuning e tarefas de alinhamento multilíngue. Código sob licença MIT e textos de fontes permissivas, prontos para entrar em um dataset ou em uma janela de contexto.
@@ -24,8 +26,6 @@ Quer criar um app de Bíblia? Que tal uma API de busca de versículos? Agora voc
 ## Como os arquivos foram gerados?
 
 Os arquivos-fonte foram gerados por um crawler escrito em Python. Por isso, eles podem conter pequenos problemas de codificação e sintaxe.
-
----
 
 ## Quais idiomas e versões o projeto cobre?
 
