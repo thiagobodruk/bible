@@ -1,5 +1,12 @@
 # Bible: XML and JSON
 
+[![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/thiagobodruk/bible)](https://github.com/thiagobodruk/bible/releases)
+[![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat)](https://github.com/thiagobodruk/bible/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/thiagobodruk/bible)](https://github.com/thiagobodruk/bible/commits)
+[![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
+![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+
 > "And this gospel of the kingdom shall be preached in all the world
 > for a witness unto all nations; and then shall the end come."
 > — Matthew 24:14 (KJV)
