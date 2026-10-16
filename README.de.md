@@ -10,7 +10,7 @@ Saubere, strukturierte JSON- und XML-Dateien für Bibel-Apps, Versesuchen und NL
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
 [Versionen](#welche-sprachen-und-versionen-deckt-das-projekt-ab) · [Dateiformat](#wie-sind-die-dateien-aufgebaut) · [KI- / LLM-bereit](#-ki---llm-bereit) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Diskussionen](https://github.com/thiagobodruk/bible/discussions)
 
