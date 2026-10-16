@@ -11,11 +11,13 @@
 
 ## 67言語・122種類の聖書バージョン 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
+このドキュメントを読む：[English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · **日本語** · [Čeština](README.cs.md)
+
+---
+
 ### 🤖 AI / LLM 対応
 
 節単位で構造化されたクリーンな JSON と XML。HTML も、マークアップのノイズも、スクレイピングの残骸もありません。すべての言語とバージョンで同じ標準の書名略称を使っているため、埋め込み、RAG パイプライン、ファインチューニング、多言語アライメントのタスクにそのまま使えます。コードは MIT ライセンスで、テキストは利用しやすい出典のもの。データセットやコンテキストウィンドウにそのまま投入できます。
-
-このドキュメントを読む：[English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · **日本語** · [Čeština](README.cs.md)
 
 聖書アプリを作りたいですか？ 聖句検索の API はいかがでしょう。あなたの言語のソースを使って、今すぐ作れます。このプロジェクトの主な目的は、XML と JSON を使って聖書関連のアプリを誰でも作れるようにすることです。このアイデアが気に入ったら、ぜひ力を貸してください。**このプロジェクトを応援してください！ :)**
 
