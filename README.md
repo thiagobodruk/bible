@@ -1,16 +1,18 @@
 # Bible: XML and JSON
 
+## 122 Bible versions in 67 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
+
+[![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat)](https://github.com/thiagobodruk/bible/stargazers)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+
+🌐 **English** · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
 > "And this gospel of the kingdom shall be preached in all the world
 > for a witness unto all nations; and then shall the end come."
 > — Matthew 24:14 (KJV)
-
-## 122 Bible versions in 67 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 ### 🤖 AI / LLM-ready
 
@@ -145,7 +147,7 @@ these files may contain minor issues related to encoding and syntax.
 | 🇵🇱 Polish | Uwspółcześniona Biblia Gdańska | `pl_ubg` | |
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
-| 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books — see [Known gaps](#known-gaps) |
+| 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books (Esther and Daniel missing) — see `json/ru_synod.disclaimer.txt` |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Gaelic | Am Bìoball Gàidhlig 1992 | `gd_abg1992` |  |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
 | 🇿🇼 Shona | Shona Contemporary Bible 2017 | `sn_bdrsc` |  |
@@ -164,62 +166,6 @@ these files may contain minor issues related to encoding and syntax.
 Each entry's files are `json/<code>.json` and `xml/<code>.xml` (e.g.
 `json/pt_nvi.json`, `xml/pt_nvi.xml`). `json/index.json` lists this same
 catalog in machine-readable form.
-
-## Known gaps
-
-* **Russian (`ru_synod`)**: the Book of Esther and the Book of Daniel
-  are missing. The upstream data source does not publish standalone
-  texts for these two books in this particular translation; both are
-  traditionally presented within an expanded Greek text (interleaved
-  with deuterocanonical additions) rather than as independently
-  addressable books, and that alternate text does not fit this
-  project's per-book chapter/verse structure. This is the only
-  Russian-language translation available from the source, so no
-  substitute could be used. See `json/ru_synod.disclaimer.txt` /
-  `xml/ru_synod.disclaimer.txt` for details.
-* **English, Basic English (`en_bbe`)** and **French, Le Bible de
-  l'Épée (`fr_apee`)** are kept as previously published, unchanged in
-  this update — the source used to refresh the other versions no longer
-  offers these two translations.
-* Three English editions available from the source were deliberately
-  left out because the source's own data for them is broken or
-  incompatible with this project's per-verse structure: **American
-  Standard Version Byzantine Text with Apocrypha** (only one book has
-  working chapter pages, the rest 404), **Brenton English Septuagint,
-  Updated** (missing the Book of Nehemiah, due to a different
-  Ezra-Nehemiah split in the Septuagint), and **The Message** (a loose
-  paraphrase whose page markup omits per-verse boundaries for ~50
-  chapters scattered across the Bible, so individual verses can't be
-  extracted there).
-* A few versions were refreshed from their closest currently available
-  equivalent, since the previous edition is no longer published by the
-  source: **Arabic** (`ar_svd` → `ar_kehm`), **Chinese Union Version**
-  (`zh_cuv` → `zh_cunpss-shen`, New Punctuation, Shen Edition),
-  **Spanish** (`es_rvr` → `es_rvr1960`), **German** (`de_schlachter` →
-  `de_sch1951`), **Korean** (`ko_ko` → `ko_krv`), **Esperanto**
-  (`eo_esperanto` → `eo_esp`), **Finnish** (`fi_finnish` + `fi_pr` →
-  a single `fi_fb38`, since both old codes referred to the same
-  edition), **Romanian** (`ro_cornilescu` → `ro_vdc`), **Russian**
-  (`ru_synodal` → `ru_synod`), **Vietnamese** (`vi_vietnamese` →
-  `vi_vie`), and **Modern Greek** (`el_greek` → `el_fpb`, chosen because
-  it is the only current Greek edition that includes the Book of Esther
-  as a standalone book).
-* Two languages available from the source were evaluated for this update
-  but left out because every candidate edition has a substantial part of
-  the Old Testament missing, with no complete alternative available:
-  **Dutch** (`gbv` no longer resolves on the source; `nld1939` is missing
-  the entire Books of Esther and Daniel) and **Indonesian** (`tsi` is
-  missing 18 books, `ags` is missing 39 books — both editions have large
-  gaps scattered across the Old Testament, not a single fixable book).
-* **Ukrainian** and **Hebrew** were also left out: the only Ukrainian
-  edition covers just the New Testament and Psalms, and the Hebrew
-  editions are split into a New Testament-only and an Old Testament-only
-  text.
-* Several more languages were left out because the source only has partial
-  editions: New Testament-only (Croatian, Slovak, Basque, Icelandic,
-  Kinyarwanda, Tswana), partial (Lithuanian, Luke–Acts only), or
-  Old Testament-only (Yiddish). Estonian (`pkp`) no longer resolves on
-  the source, and the Armenian edition lacks the Book of Esther.
 
 ## How the files are structured?
 
