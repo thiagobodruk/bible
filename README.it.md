@@ -11,7 +11,7 @@
 
 ## 122 versioni della Bibbia in 67 lingue 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
-Leggi questo documento in [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · **Italiano** · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
+Leggi questo documento in **Italiano** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
 ---
 

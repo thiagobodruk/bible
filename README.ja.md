@@ -11,7 +11,7 @@
 
 ## 67言語・122種類の聖書バージョン 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
-このドキュメントを読む：[English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · **日本語** · [Čeština](README.cs.md)
+このドキュメントを読む：**日本語** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [Čeština](README.cs.md)
 
 ---
 
