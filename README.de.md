@@ -1,4 +1,12 @@
+<div align="center">
+
+Dieses Dokument lesen auf **Deutsch** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+
 # Bible: XML and JSON
+
+**122 Bibelversionen in 67 Sprachen 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+
+Saubere, strukturierte JSON- und XML-Dateien für Bibel-Apps, Versesuchen und NLP-/KI-Datensätze.
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
@@ -6,12 +14,16 @@
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
+[Versionen](#welche-sprachen-und-versionen-deckt-das-projekt-ab) · [Dateiformat](#wie-sind-die-dateien-aufgebaut) · [KI- / LLM-bereit](#-ki---llm-bereit) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Diskussionen](https://github.com/thiagobodruk/bible/discussions)
+
+`curl -O https://raw.githubusercontent.com/thiagobodruk/bible/master/json/de_sch1951.json`
+
+> [!IMPORTANT]
 > "Und dieses Evangelium vom Reich wird in der ganzen Welt gepredigt werden, zum Zeugnis allen Völkern, und dann wird das Ende kommen."
+>
 > — Matthäus 24,14 (Schlachter 1951)
 
-## 122 Bibelversionen in 67 Sprachen 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
-Dieses Dokument lesen auf **Deutsch** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+</div>
 
 ---
 
