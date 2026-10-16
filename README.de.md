@@ -11,7 +11,7 @@
 
 ## 122 Bibelversionen in 67 Sprachen 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
-Dieses Dokument lesen auf **Deutsch** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
+Dieses Dokument lesen auf **Deutsch** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
 
 ---
 
