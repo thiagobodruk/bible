@@ -18,7 +18,6 @@ JSON et XML propres et structurés pour les applications bibliques, la recherche
 
 </div>
 
-> [!IMPORTANT]
 > "Et cet Évangile de la Souveraineté de Dieu sera prêché par toute la terre, pour servir de témoignage à toutes les nations; et alors la fin arrivera."
 > — Matthieu 24:14 (Bible de l'Épée)
 

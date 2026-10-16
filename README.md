@@ -18,7 +18,6 @@ Clean, structured JSON and XML for Bible apps, verse search, and NLP/AI datasets
 
 </div>
 
-> [!IMPORTANT]
 > "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
 > — Matthew 24:14 (KJV)
 

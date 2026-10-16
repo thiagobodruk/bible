@@ -18,7 +18,6 @@ Saubere, strukturierte JSON- und XML-Dateien für Bibel-Apps, Versesuchen und NL
 
 </div>
 
-> [!IMPORTANT]
 > "Und dieses Evangelium vom Reich wird in der ganzen Welt gepredigt werden, zum Zeugnis allen Völkern, und dann wird das Ende kommen."
 > — Matthäus 24,14 (Schlachter 1951)
 

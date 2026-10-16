@@ -18,7 +18,6 @@ JSON e XML puliti e strutturati per app bibliche, ricerca di versetti e dataset 
 
 </div>
 
-> [!IMPORTANT]
 > "E questo evangelo del regno sarà predicato per tutto il mondo, affinché ne sia resa testimonianza a tutte le genti; allora verrà la fine."
 > — Matteo 24:14 (IRB20)
 

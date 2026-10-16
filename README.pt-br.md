@@ -18,7 +18,6 @@ JSON e XML limpos e estruturados para apps de Bíblia, busca de versículos e da
 
 </div>
 
-> [!IMPORTANT]
 > "E este evangelho do reino será pregado em todo o mundo como testemunho a todas as nações; então, virá o fim."
 > — Mateus 24:14 (NVI)
 

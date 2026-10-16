@@ -18,7 +18,6 @@ JSON y XML limpios y estructurados para apps bíblicas, búsqueda de versículos
 
 </div>
 
-> [!IMPORTANT]
 > "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin."
 > — Mateo 24:14 (RVR1960)
 
