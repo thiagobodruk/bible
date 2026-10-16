@@ -1,5 +1,3 @@
-<div align="center">
-
 **日本語** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [简体中文](README.zh-cn.md)
 
 # Bible: XML and JSON
@@ -15,8 +13,6 @@
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 [バージョン一覧](#どの言語とバージョンに対応していますか) · [ファイル形式](#ファイルの構造は) · [AI / LLM 対応](#-ai--llm-対応) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [ディスカッション](https://github.com/thiagobodruk/bible/discussions)
-
-</div>
 
 > そして、御国のこの福音はあらゆる民への証しとして、全世界に宣べ伝えられる。それから、終わりが来る。
 > — マタイ 24:14（新共同訳）

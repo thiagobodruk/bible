@@ -1,5 +1,3 @@
-<div align="center">
-
 **Português (Brasil)** · [English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
 
 # Bible: XML and JSON
@@ -15,8 +13,6 @@ JSON e XML limpos e estruturados para apps de Bíblia, busca de versículos e da
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 [Versões](#quais-idiomas-e-versões-o-projeto-cobre) · [Formato dos arquivos](#como-os-arquivos-são-estruturados) · [Pronto para IA / LLM](#-pronto-para-ia--llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussões](https://github.com/thiagobodruk/bible/discussions)
-
-</div>
 
 > "E este evangelho do reino será pregado em todo o mundo como testemunho a todas as nações; então, virá o fim."
 > — Mateus 24:14 (NVI)

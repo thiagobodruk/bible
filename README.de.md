@@ -1,5 +1,3 @@
-<div align="center">
-
 **Deutsch** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
 
 # Bible: XML and JSON
@@ -15,8 +13,6 @@ Saubere, strukturierte JSON- und XML-Dateien für Bibel-Apps, Versesuchen und NL
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
 [Versionen](#welche-sprachen-und-versionen-deckt-das-projekt-ab) · [Dateiformat](#wie-sind-die-dateien-aufgebaut) · [KI- / LLM-bereit](#-ki---llm-bereit) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Diskussionen](https://github.com/thiagobodruk/bible/discussions)
-
-</div>
 
 > "Und dieses Evangelium vom Reich wird in der ganzen Welt gepredigt werden, zum Zeugnis allen Völkern, und dann wird das Ende kommen."
 > — Matthäus 24,14 (Schlachter 1951)
