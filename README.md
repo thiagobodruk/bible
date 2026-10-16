@@ -12,10 +12,6 @@
 
 ## 122 Bible versions in 67 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
-🌐 **English** · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
-
----
-
 ### 🤖 AI / LLM-ready
 
 Clean, per-verse structured JSON and XML — no HTML, no markup noise, no
@@ -24,6 +20,8 @@ across every language and version, so verses align out of the box for
 embeddings, RAG pipelines, fine-tuning, and cross-lingual alignment
 tasks. MIT-licensed code with permissively-sourced text, ready to feed
 straight into a dataset or a context window.
+
+Read this doc in **English** · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
 Do you want to create a Bible based app? What about an API for Bible
 verses search? Now you can do this, using sources in your very own

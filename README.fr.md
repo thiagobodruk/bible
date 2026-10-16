@@ -11,13 +11,11 @@
 
 ## 122 versions de la Bible en 67 langues 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
-🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · **Français** · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
-
----
-
 ### 🤖 Prêt pour l'IA / les LLM
 
 Du JSON et du XML propres, structurés verset par verset — sans HTML, sans bruit de balisage, sans artefacts de scraping. Les mêmes abréviations canoniques des livres sont utilisées pour toutes les langues et toutes les versions : les versets s'alignent donc immédiatement pour les embeddings, les pipelines RAG, le fine-tuning et les tâches d'alignement multilingue. Code sous licence MIT et textes issus de sources permissives, prêts à alimenter un jeu de données ou une fenêtre de contexte.
+
+Lisez ce document en [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · **Français** · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
 Vous voulez créer une application biblique ? Pourquoi pas une API de recherche de versets ? Vous pouvez désormais le faire avec des sources dans votre propre langue ! L'objectif principal de ce projet est de permettre aux gens de créer des applications liées à la Bible en XML et JSON. Cette idée vous plaît ? Aidez-nous à aller encore plus loin. **Soutenez ce projet ! :)**
 

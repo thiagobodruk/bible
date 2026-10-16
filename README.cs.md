@@ -11,13 +11,11 @@
 
 ## 122 verzí Bible v 67 jazycích 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
-🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · **Čeština**
-
----
-
 ### 🤖 Připraveno pro AI / LLM
 
 Čisté JSON a XML strukturované po verších — bez HTML, bez šumu značkování a bez artefaktů ze scrapingu. Ve všech jazycích a verzích se používají stejné kanonické zkratky knih, takže se verše hned srovnají pro embeddingy, RAG pipeline, fine-tuning i úlohy vícejazyčného zarovnání. Kód pod licencí MIT a texty z volně použitelných zdrojů, připravené do datasetu nebo kontextového okna.
+
+Přečtěte si tento dokument v [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · **Čeština**
 
 Chcete vytvořit biblickou aplikaci? A co API pro vyhledávání veršů? Nyní to můžete udělat se zdroji ve svém vlastním jazyce! Hlavním cílem tohoto projektu je umožnit lidem tvořit biblické aplikace pomocí XML a JSON. Líbí se vám ten nápad? Pomozte nám zajít ještě dál. **Podpořte tento projekt! :)**
 
