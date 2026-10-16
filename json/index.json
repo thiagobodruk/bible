@@ -533,5 +533,86 @@
         "abbreviation": "nb_bibel2011"
       }
     ]
+  },
+  {
+    "language": "Assamese",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Assamese 2019",
+        "abbreviation": "as_irvasm"
+      }
+    ]
+  },
+  {
+    "language": "Burmese",
+    "versions": [
+      {
+        "name": "Judson Bible",
+        "abbreviation": "my_jbmle"
+      }
+    ]
+  },
+  {
+    "language": "Kannada",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Kannada 2019",
+        "abbreviation": "kn_irvkan"
+      }
+    ]
+  },
+  {
+    "language": "Gujarati",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Gujarati 2019",
+        "abbreviation": "gu_irvguj"
+      }
+    ]
+  },
+  {
+    "language": "Malayalam",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Malayalam",
+        "abbreviation": "ml_irvmal"
+      }
+    ]
+  },
+  {
+    "language": "Nepali",
+    "versions": [
+      {
+        "name": "Open Nepali Contemporary Version",
+        "abbreviation": "ne_oncv"
+      }
+    ]
+  },
+  {
+    "language": "Odia",
+    "versions": [
+      {
+        "name": "Indian Revised Version (IRV) Odia",
+        "abbreviation": "or_irvory"
+      }
+    ]
+  },
+  {
+    "language": "Malay",
+    "versions": [
+      {
+        "name": "Alkitab Berita Baik",
+        "abbreviation": "ms_tmvr"
+      }
+    ]
+  },
+  {
+    "language": "Japanese",
+    "versions": [
+      {
+        "name": "聖書 新共同訳 (Shinkyodoyaku)",
+        "abbreviation": "ja_jniv"
+      }
+    ]
   }
 ]

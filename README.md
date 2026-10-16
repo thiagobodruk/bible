@@ -1,7 +1,7 @@
 # Bible: XML and JSON
 
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/thiagobodruk/bible)](https://github.com/thiagobodruk/bible/releases)
+![Versions](https://img.shields.io/badge/versions-99-blue)
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat)](https://github.com/thiagobodruk/bible/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/thiagobodruk/bible)](https://github.com/thiagobodruk/bible/commits)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
@@ -11,7 +11,7 @@
 > for a witness unto all nations; and then shall the end come."
 > — Matthew 24:14 (KJV)
 
-## 90 Bible versions in 35 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
+## 99 Bible versions in 44 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 ### 🤖 AI / LLM-ready
 
@@ -40,6 +40,7 @@ these files may contain minor issues related to encoding and syntax.
 | Language | Version | Files | Notes |
 |---|---|---|---|
 | 🇸🇦 Arabic | Ketab El Hayat Majani | `ar_kehm` | |
+| 🇮🇳 Assamese | Indian Revised Version (IRV) Assamese 2019 | `as_irvasm` |  |
 | 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
 | 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
@@ -64,6 +65,7 @@ these files may contain minor issues related to encoding and syntax.
 | 🇧🇷 Brazilian Portuguese | Tradução Brasileira | `pt_tb` | |
 | 🇧🇷 Brazilian Portuguese | Tradução do Pe. Matos Soares | `pt_matos` | Malachi has 3 chapters instead of 4 in this edition |
 | 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
+| 🇲🇲 Burmese | Judson Bible | `my_jbmle` |  |
 | 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
 | 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
@@ -108,12 +110,19 @@ these files may contain minor issues related to encoding and syntax.
 | 🇫🇷 French | Le Bible de I'Épée | `fr_apee` | |
 | 🇩🇪 German | Schlachter 1951 | `de_sch1951` | |
 | 🇬🇷 Greek | Modern Greek (Demotic) | `el_fpb` | |
+| 🇮🇳 Gujarati | Indian Revised Version (IRV) Gujarati 2019 | `gu_irvguj` |  |
 | 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
+| 🇯🇵 Japanese | 聖書 新共同訳 (Shinkyodoyaku) | `ja_jniv` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇮🇳 Kannada | Indian Revised Version (IRV) Kannada 2019 | `kn_irvkan` |  |
 | 🇰🇷 Korean | Korean Revised | `ko_krv` | |
+| 🇲🇾 Malay | Alkitab Berita Baik | `ms_tmvr` |  |
+| 🇮🇳 Malayalam | Indian Revised Version (IRV) Malayalam | `ml_irvmal` |  |
 | 🇮🇳 Marathi | Indian Revised Version (IRV) Marathi | `mr_irvmar` | |
+| 🇳🇵 Nepali | Open Nepali Contemporary Version | `ne_oncv` |  |
 | 🇳🇴 Norwegian (Bokmål) | Bibel 2011 | `nb_bibel2011` | |
+| 🇮🇳 Odia | Indian Revised Version (IRV) Odia | `or_irvory` |  |
 | 🇮🇷 Persian | Persian Contemporary Bible 2022 | `fa_opcb` | |
 | 🇵🇱 Polish | Uwspółcześniona Biblia Gdańska | `pl_ubg` | |
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
@@ -180,6 +189,10 @@ catalog in machine-readable form.
   the entire Books of Esther and Daniel) and **Indonesian** (`tsi` is
   missing 18 books, `ags` is missing 39 books — both editions have large
   gaps scattered across the Old Testament, not a single fixable book).
+* **Ukrainian** and **Hebrew** were also left out: the only Ukrainian
+  edition covers just the New Testament and Psalms, and the Hebrew
+  editions are split into a New Testament-only and an Old Testament-only
+  text.
 
 ## How the files are structured?
 
