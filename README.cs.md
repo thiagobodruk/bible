@@ -25,6 +25,8 @@ Chcete vytvořit biblickou aplikaci? A co API pro vyhledávání veršů? Nyní 
 
 Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou obsahovat drobné problémy s kódováním a syntaxí.
 
+---
+
 ## Které jazyky a verze projekt pokrývá?
 
 | Jazyk | Verze | Soubory | Poznámky |

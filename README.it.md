@@ -25,6 +25,8 @@ Vuoi creare un'app biblica? E che ne dici di un'API per la ricerca dei versetti?
 
 I file sorgente sono stati generati con un crawler scritto in Python. Per questo possono contenere piccoli problemi di codifica e di sintassi.
 
+---
+
 ## Quali lingue e versioni copre il progetto?
 
 | Lingua | Versione | File | Note |

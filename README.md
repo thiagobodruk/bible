@@ -36,6 +36,8 @@ Help us to go even further. **Support this project! :)**
 The source files were generated using a Python based crawler. Therefore,
 these files may contain minor issues related to encoding and syntax.
 
+---
+
 ## Which languages and versions are covered by the project?
 
 | Language | Version | Files | Notes |

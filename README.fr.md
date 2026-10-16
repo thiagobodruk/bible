@@ -25,6 +25,8 @@ Vous voulez créer une application biblique ? Pourquoi pas une API de recherche 
 
 Les fichiers sources ont été générés par un crawler écrit en Python. Ils peuvent donc contenir de petits problèmes d'encodage et de syntaxe.
 
+---
+
 ## Quelles langues et versions le projet couvre-t-il ?
 
 | Langue | Version | Fichiers | Remarques |

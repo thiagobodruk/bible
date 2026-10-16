@@ -25,6 +25,8 @@ Quer criar um app de Bíblia? Que tal uma API de busca de versículos? Agora voc
 
 Os arquivos-fonte foram gerados por um crawler escrito em Python. Por isso, eles podem conter pequenos problemas de codificação e sintaxe.
 
+---
+
 ## Quais idiomas e versões o projeto cobre?
 
 | Idioma | Versão | Arquivos | Observações |

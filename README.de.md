@@ -25,6 +25,8 @@ Möchtest du eine Bibel-App entwickeln? Oder eine API für die Versesuche? Jetzt
 
 Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher können sie kleinere Probleme bei Kodierung und Syntax enthalten.
 
+---
+
 ## Welche Sprachen und Versionen deckt das Projekt ab?
 
 | Sprache | Version | Dateien | Hinweise |

@@ -25,6 +25,8 @@ JSON y XML limpios y estructurados por versículo — sin HTML, sin ruido de mar
 
 Los archivos fuente se generaron con un crawler escrito en Python. Por eso, pueden contener pequeños problemas de codificación y sintaxis.
 
+---
+
 ## ¿Qué idiomas y versiones cubre el proyecto?
 
 | Idioma | Versión | Archivos | Notas |
