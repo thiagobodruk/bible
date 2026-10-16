@@ -1,17 +1,19 @@
 # Bible: XML and JSON
 
-## 122 versiones de la Biblia en 67 idiomas 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
-🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · **Español** · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
-
 > "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin."
 > — Mateo 24:14 (RVR1960)
+
+## 122 versiones de la Biblia en 67 idiomas 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
+
+Lee este documento en **Español** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [简体中文](README.zh-cn.md)
+
+---
 
 ### 🤖 Listo para IA / LLM
 

@@ -1,33 +1,35 @@
 # Bible: XML and JSON
 
-## 122 verzí Bible v 67 jazycích 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
 
-🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · **Čeština**
+> 这天国的福音要传遍天下，向万民作见证，然后结局才来到。
+> — 马太福音 24:14（新译本）
 
-> "A budeť kázáno toto evangelium království po všem světě, na svědectví všem národům, a tehdážť přijde skonání."
-> — Matouš 24:14 (Bible kralická)
+## 67 种语言，122 个圣经版本 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
-### 🤖 Připraveno pro AI / LLM
+阅读本文档：**简体中文** · [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md)
 
-Čisté JSON a XML strukturované po verších — bez HTML, bez šumu značkování a bez artefaktů ze scrapingu. Ve všech jazycích a verzích se používají stejné kanonické zkratky knih, takže se verše hned srovnají pro embeddingy, RAG pipeline, fine-tuning i úlohy vícejazyčného zarovnání. Kód pod licencí MIT a texty z volně použitelných zdrojů, připravené do datasetu nebo kontextového okna.
+---
 
-Chcete vytvořit biblickou aplikaci? A co API pro vyhledávání veršů? Nyní to můžete udělat se zdroji ve svém vlastním jazyce! Hlavním cílem tohoto projektu je umožnit lidem tvořit biblické aplikace pomocí XML a JSON. Líbí se vám ten nápad? Pomozte nám zajít ještě dál. **Podpořte tento projekt! :)**
+### 🤖 为 AI / LLM 而生
+
+按节组织的干净 JSON 和 XML——没有 HTML，没有标记噪音，也没有爬取留下的杂质。所有语言和版本都使用相同的标准书卷缩写，因此经文可以直接对齐，开箱即用于 embedding、RAG 流水线、微调以及跨语言对齐任务。代码采用 MIT 许可证，文本来自许可宽松的来源，可直接放入数据集或上下文窗口。
+
+想开发一款圣经应用吗？想做一个经文搜索 API 吗？现在，你可以使用自己母语的资源来实现！本项目的主要目标，是让大家能够使用 XML 和 JSON 开发与圣经相关的应用。喜欢这个想法吗？请帮助我们走得更远。**支持本项目！ :)**
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="assets/paypal-donate-button.png" alt="Donate" width="400"></a>
 
-## Jak byly soubory vytvořeny?
+## 这些文件是如何生成的？
 
-Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou obsahovat drobné problémy s kódováním a syntaxí.
+源文件由一个基于 Python 的爬虫生成，因此可能存在一些与编码和语法有关的小问题。
 
-## Které jazyky a verze projekt pokrývá?
+## 本项目涵盖哪些语言和版本？
 
-| Jazyk | Verze | Soubory | Poznámky |
+| 语言 | 版本 | 文件 | 备注 |
 |---|---|---|---|
 | 🇬🇭 Akan | Akuapem Twi Contemporary Bible | `ak_wakna` | |
 | 🇦🇱 Albanian | Bibla Shqip 1994 | `sq_albb` | |
@@ -42,9 +44,9 @@ Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou 
 | 🇧🇷 Brazilian Portuguese | Almeida Revista e Corrigida 1969 | `pt_rc69` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Século 21 | `pt_a21` | |
 | 🇧🇷 Brazilian Portuguese | Bíblia para Todos | `pt_bpt09` | |
-| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada Ave-Maria | `pt_avm` | Malachiáš má v tomto vydání 3 kapitoly místo 4 |
+| 🇧🇷 Brazilian Portuguese | Bíblia Sagrada Ave-Maria | `pt_avm` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇧🇷 Brazilian Portuguese | Bíblia Sagrada: Versão Fácil de Ler | `pt_vfl` | |
-| 🇧🇷 Brazilian Portuguese | Edição Pastoral | `pt_pastoral` | Malachiáš má v tomto vydání 3 kapitoly místo 4 |
+| 🇧🇷 Brazilian Portuguese | Edição Pastoral | `pt_pastoral` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇧🇷 Brazilian Portuguese | King James Atualizada | `pt_kja` | |
 | 🇧🇷 Brazilian Portuguese | King James Fiel | `pt_bkj` | |
 | 🇧🇷 Brazilian Portuguese | Nova Almeida Atualizada | `pt_naa` | |
@@ -55,10 +57,10 @@ Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou 
 | 🇧🇷 Brazilian Portuguese | Nova Versão Transformadora | `pt_nvt` | |
 | 🇧🇷 Brazilian Portuguese | O Livro | `pt_ol` | |
 | 🇧🇷 Brazilian Portuguese | Tradução Brasileira | `pt_tb` | |
-| 🇧🇷 Brazilian Portuguese | Tradução do Pe. Matos Soares | `pt_matos` | Malachiáš má v tomto vydání 3 kapitoly místo 4 |
+| 🇧🇷 Brazilian Portuguese | Tradução do Pe. Matos Soares | `pt_matos` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
 | 🇲🇲 Burmese | Judson Bible | `my_jbmle` | |
-| 🇦🇩 Catalan | Bíblia Catalana Interconfessional | `ca_bci` | Malachiáš má v tomto vydání 3 kapitoly místo 4 |
+| 🇦🇩 Catalan | Bíblia Catalana Interconfessional | `ca_bci` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇮🇶 Central Kurdish | Kurdi Sorani Standard Version | `ckb_okss` | |
 | 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
@@ -88,7 +90,7 @@ Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou 
 | 🇬🇧 English | New Messianic Version Bible | `en_nmv` | |
 | 🇬🇧 English | Revised Version 1885 | `en_engrv` | |
 | 🇬🇧 English | The Cambridge Paragraph Bible of the Authorized English Version | `en_kjvcpb` | |
-| 🇬🇧 English | The Orthodox Jewish Bible | `en_tojb2011` | Malachiáš má v tomto vydání 3 kapitoly místo 4 |
+| 🇬🇧 English | The Orthodox Jewish Bible | `en_tojb2011` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇬🇧 English | A Translation for Translators | `en_t4t` | |
 | 🇬🇧 English | World English Bible (American Edition) | `en_web` | |
 | 🇬🇧 English | World English Bible Updated | `en_webu` | |
@@ -112,7 +114,7 @@ Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou 
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
 | 🇳🇬 Igbo | Igbo Contemporary Bible | `ig_biuo` | |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
-| 🇯🇵 Japanese | 聖書 新共同訳 (Shinkyodoyaku) | `ja_jniv` | Malachiáš má v tomto vydání 3 kapitoly místo 4 |
+| 🇯🇵 Japanese | 聖書 新共同訳 (Shinkyodoyaku) | `ja_jniv` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇮🇳 Kannada | Indian Revised Version (IRV) Kannada 2019 | `kn_irvkan` | |
 | 🇰🇿 Kazakh | Киелі кітап | `kk_qazbi` | |
 | 🇰🇪 Kikuyu | Kiugo Gĩtheru Kĩa Ngai Kĩhingũre | `ki_kgnk` | |
@@ -120,7 +122,7 @@ Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou 
 | 🇰🇷 Korean | Korean Revised | `ko_krv` | |
 | 🇻🇦 Latin | Vulgata Latina | `la_vulg` | |
 | 🇱🇻 Latvian | Glika Bībele | `lv_lg8` | |
-| 🇨🇩 Lingala | Lingala Contemporary Bible | `ln_smnb` | Malachiáš má v tomto vydání 3 kapitoly místo 4 |
+| 🇨🇩 Lingala | Lingala Contemporary Bible | `ln_smnb` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇺🇬 Luganda | Bayibuli Entukuvu | `lg_olcb` | |
 | 🇲🇾 Malay | Alkitab Berita Baik | `ms_tmvr` | |
 | 🇮🇳 Malayalam | Indian Revised Version (IRV) Malayalam | `ml_irvmal` | |
@@ -136,7 +138,7 @@ Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou 
 | 🇵🇱 Polish | Uwspółcześniona Biblia Gdańska | `pl_ubg` | |
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
-| 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Neúplné, 64 z 66 knih (chybí Ester a Daniel) — viz `json/ru_synod.disclaimer.txt` |
+| 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | 不完整，66 卷中缺 2 卷（缺少以斯帖记和但以理书）——参见 `json/ru_synod.disclaimer.txt` |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Gaelic | Am Bìoball Gàidhlig 1992 | `gd_abg1992` | |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
 | 🇿🇼 Shona | Shona Contemporary Bible 2017 | `sn_bdrsc` | |
@@ -148,17 +150,17 @@ Zdrojové soubory byly vygenerovány crawlerem napsaným v Pythonu. Proto mohou 
 | 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
 | 🇹🇴 Tongan | Ko e Tohi Tapu Kātoa | `to_rwv` | |
 | 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
-| 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | Text je psán písmem dévanágarí, nikoli persko-arabským — tak toto vydání publikuje samotný zdroj, určené mluvčím urdštiny, kteří čtou dévanágarí |
+| 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | 文本使用天城文，而非波斯-阿拉伯文——这是数据源本身发布该版本的方式，面向阅读天城文的乌尔都语使用者 |
 | 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
-Soubory každé položky jsou `json/<code>.json` a `xml/<code>.xml` (např. `json/pt_nvi.json` a `xml/pt_nvi.xml`). `json/index.json` obsahuje stejný katalog ve strojově čitelné podobě.
+每个条目的文件为 `json/<code>.json` 和 `xml/<code>.xml`（例如 `json/pt_nvi.json`、`xml/pt_nvi.xml`）。`json/index.json` 以机器可读的形式列出了同一份目录。
 
-## Jak jsou soubory strukturované?
+## 文件是如何组织的？
 
 ### XML
 
-Soubory XML jsou kódovány v UTF-8 a mají následující strukturu:
+XML 文件采用 UTF-8 编码，结构如下：
 
 ```xml
 <bible>
@@ -172,7 +174,7 @@ Soubory XML jsou kódovány v UTF-8 a mají následující strukturu:
 
 ### JSON
 
-Soubory JSON jsou rovněž kódovány v UTF-8 a mají následující strukturu:
+JSON 文件同样采用 UTF-8 编码，结构如下：
 
 ```javascript
 [
@@ -189,18 +191,18 @@ Soubory JSON jsou rovněž kódovány v UTF-8 a mají následující strukturu:
 ]
 ```
 
-Číslo kapitoly a verše získáte z indexu pole.
+章和节的编号可以通过数组下标获得。
 
-### A co licence a autorská práva?
+### 许可证和版权呢？
 
-Kód i data tohoto projektu jsou šířeny pod [licencí MIT](LICENSE). Všechny verze Bible jsou majetkem svých příslušných vlastníků. Všechna práva náleží vlastníkům.
+本项目的代码和数据依据 [MIT 许可证](LICENSE) 发布。所有圣经版本均归其各自所有者所有，所有权利归所有者保留。
 
-### Jak mohu projektu pomoci?
+### 我如何帮助这个项目？
 
-Můžete zkontrolovat kód, vylepšit struktury nebo pracovat na nových verzích. Každá pomoc je vítána! :)
+你可以审阅代码、改进数据结构，或参与新版本的制作。欢迎任何形式的帮助！ :)
 
-### Mohu projekt finančně podpořit?
+### 我可以向项目捐款吗？
 
-Ano, můžete! Dobrovolný dar můžete poslat přes [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
+当然可以！你可以通过 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) 自愿捐款。
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=US&item_name=Bible%20Sources&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="assets/paypal-donate-button.png" alt="Donate" width="400"></a>
