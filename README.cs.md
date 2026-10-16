@@ -1,15 +1,15 @@
 # Bible: XML and JSON
 
-> "A budeť kázáno toto evangelium království po všem světě, na svědectví všem národům, a tehdážť přijde skonání."
-> — Matouš 24:14 (Bible kralická)
-
-## 122 verzí Bible v 67 jazycích 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+
+> "A budeť kázáno toto evangelium království po všem světě, na svědectví všem národům, a tehdážť přijde skonání."
+> — Matouš 24:14 (Bible kralická)
+
+## 122 verzí Bible v 67 jazycích 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 🌐 [English](README.md) · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · **Čeština**
 

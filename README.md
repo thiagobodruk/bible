@@ -1,16 +1,16 @@
 # Bible: XML and JSON
 
-> "And this gospel of the kingdom shall be preached in all the world
-> for a witness unto all nations; and then shall the end come."
-> — Matthew 24:14 (KJV)
-
-## 122 Bible versions in 67 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
-
 [![Stars](https://img.shields.io/github/stars/thiagobodruk/bible?style=flat&color=orange)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-122-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-blue)
+
+> "And this gospel of the kingdom shall be preached in all the world
+> for a witness unto all nations; and then shall the end come."
+> — Matthew 24:14 (KJV)
+
+## 122 Bible versions in 67 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪
 
 🌐 **English** · [Português (Brasil)](README.pt-br.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Čeština](README.cs.md)
 
