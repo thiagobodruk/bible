@@ -14,10 +14,10 @@
 
 [版本列表](#本项目涵盖哪些语言和版本) · [文件格式](#文件是如何组织的) · [适用于 AI / LLM](#-为-ai--llm-而生) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [讨论](https://github.com/thiagobodruk/bible/discussions)
 
+---
+
 > 这天国的福音要传遍天下，向万民作见证，然后结局才来到。
 > — 马太福音 24:14（新译本）
-
----
 
 ### 🤖 为 AI / LLM 而生
 

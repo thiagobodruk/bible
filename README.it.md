@@ -14,10 +14,10 @@ JSON e XML puliti e strutturati per app bibliche, ricerca di versetti e dataset 
 
 [Versioni](#quali-lingue-e-versioni-copre-il-progetto) · [Formato dei file](#come-sono-strutturati-i-file) · [Pronto per IA / LLM](#-pronto-per-ia--llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussioni](https://github.com/thiagobodruk/bible/discussions)
 
+---
+
 > "E questo evangelo del regno sarà predicato per tutto il mondo, affinché ne sia resa testimonianza a tutte le genti; allora verrà la fine."
 > — Matteo 24:14 (IRB20)
-
----
 
 ### 🤖 Pronto per IA / LLM
 

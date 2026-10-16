@@ -14,10 +14,10 @@ JSON y XML limpios y estructurados para apps bíblicas, búsqueda de versículos
 
 [Versiones](#qué-idiomas-y-versiones-cubre-el-proyecto) · [Formato de archivos](#cómo-están-estructurados-los-archivos) · [Listo para IA / LLM](#-listo-para-ia--llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discusiones](https://github.com/thiagobodruk/bible/discussions)
 
+---
+
 > "Y será predicado este evangelio del reino en todo el mundo, para testimonio a todas las naciones; y entonces vendrá el fin."
 > — Mateo 24:14 (RVR1960)
-
----
 
 ### 🤖 Listo para IA / LLM
 

@@ -14,10 +14,10 @@
 
 [バージョン一覧](#どの言語とバージョンに対応していますか) · [ファイル形式](#ファイルの構造は) · [AI / LLM 対応](#-ai--llm-対応) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [ディスカッション](https://github.com/thiagobodruk/bible/discussions)
 
+---
+
 > そして、御国のこの福音はあらゆる民への証しとして、全世界に宣べ伝えられる。それから、終わりが来る。
 > — マタイ 24:14（新共同訳）
-
----
 
 ### 🤖 AI / LLM 対応
 

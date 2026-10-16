@@ -14,10 +14,10 @@ Clean, structured JSON and XML for Bible apps, verse search, and NLP/AI datasets
 
 [Versions](#which-languages-and-versions-are-covered-by-the-project) · [File format](#how-the-files-are-structured) · [AI / LLM-ready](#-ai--llm-ready) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
 
+---
+
 > "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
 > — Matthew 24:14 (KJV)
-
----
 
 ### 🤖 AI / LLM-ready
 
