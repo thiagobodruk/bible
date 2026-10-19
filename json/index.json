@@ -821,5 +821,14 @@
         "abbreviation": "ca_bci"
       }
     ]
+  },
+  {
+    "language": "Hebrew",
+    "versions": [
+      {
+        "name": "Westminster Leningrad Codex (WLC)",
+        "abbreviation": "he_wlc"
+      }
+    ]
   }
 ]
