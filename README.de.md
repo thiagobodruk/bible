@@ -2,13 +2,13 @@
 
 # Bible: XML and JSON
 
-**122 Bibelversionen in 67 Sprachen 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+**141 Bibelversionen in 85 Sprachen 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
 
 Saubere, strukturierte JSON- und XML-Dateien für Bibel-Apps, Versesuchen und NLP-/KI-Datensätze.
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
-![Versions](https://img.shields.io/badge/versions-122-blue)
+![Versions](https://img.shields.io/badge/versions-141-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
@@ -35,12 +35,18 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 
 | Sprache | Version | Dateien | Hinweise |
 |---|---|---|---|
+| 🇿🇦 Afrikaans | Afrikaans 1933/1953 | `af_afr53` |  |
 | 🇬🇭 Akan | Akuapem Twi Contemporary Bible | `ak_wakna` | |
 | 🇦🇱 Albanian | Bibla Shqip 1994 | `sq_albb` | |
+| 🇬🇷 Ancient Greek | Textus Receptus (Η Καινή Διαθήκη) | `grc_grctr` | Nur das Neue Testament (27 Bücher) |
+| 🇬🇷 Ancient Greek | Septuagint, Brenton (μετάφραση των εβδομήκοντα) | `grc_grcbrent` | Nur das Alte Testament (36 Bücher), griechische Septuaginta; Sprüche 30 ist in der Nummerierung dieser Ausgabe leer; Maleachi hat in dieser Ausgabe 3 statt 4 Kapitel |
 | 🇸🇦 Arabic | Ketab El Hayat Majani | `ar_kehm` | |
+| 🇦🇲 Armenian | Նոր Էջմիածին Աստվածաշունչ (New Etchmiadzin Bible) | `hy_neb` | Unvollständig, 64 von 66 Büchern (Ester und Daniel fehlen); Maleachi hat in dieser Ausgabe 3 statt 4 Kapitel |
 | 🇮🇳 Assamese | Indian Revised Version (IRV) Assamese 2019 | `as_irvasm` | |
+| 🇪🇸 Basque | Navarro-Labourdin Basque Bible | `eu_bhnt` |  |
 | 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
 | 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
+| 🇻🇺 Bislama | Open Bislama Bible Revised | `bi_obbr` |  |
 | 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
@@ -65,10 +71,13 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 | 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
 | 🇲🇲 Burmese | Judson Bible | `my_jbmle` | |
 | 🇦🇩 Catalan | Bíblia Catalana Interconfessional | `ca_bci` | Maleachi hat in dieser Ausgabe 3 statt 4 Kapitel |
+| 🇵🇭 Cebuano | Ang Pulong sa Dios | `ceb_oapd` |  |
 | 🇮🇶 Central Kurdish | Kurdi Sorani Standard Version | `ckb_okss` | |
 | 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
+| 🇭🇷 Croatian | Knjiga o Kristu | `hr_okok` | Nur das Neue Testament (27 Bücher) |
 | 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
+| 🇳🇱 Dutch | De Heilige Schrift, Petrus Canisiusvertaling, 1939 | `nl_nld1939` | Unvollständig, 64 von 66 Büchern (Ester und Daniel fehlen) |
 | 🇬🇧 English | American Standard Version 1901 | `en_asv` | |
 | 🇬🇧 English | Amplified Bible | `en_amp` | |
 | 🇬🇧 English | Basic English | `en_bbe` | |
@@ -105,6 +114,7 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 | 🇬🇧 English | Wycliffe's Bible with Modern Spelling | `en_wbms` | |
 | 🇬🇧 English | Young's Literal Translation 1898 | `en_ylt98` | |
 | 🌍 Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
+| 🇪🇪 Estonian | Vaba kasutusega Uus Testament, Pühakiri kaasaegses eesti keeles | `et_opkek` | Nur das Neue Testament (27 Bücher) |
 | 🇬🇭 Ewe | Ewe Contemporary Scriptures | `ee_oal` | |
 | 🇵🇭 Filipino | Ang Biblia 1905 | `tl_abtag` | |
 | 🇫🇮 Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
@@ -114,14 +124,18 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 | 🇮🇳 Gujarati | Indian Revised Version (IRV) Gujarati 2019 | `gu_irvguj` | |
 | 🇭🇹 Haitian Creole | Bib Sen An: Kreyòl Ayisyen | `ht_bsa` | |
 | 🇳🇬 Hausa | Hausa Contemporary Bible | `ha_bsrk` | |
+| 🇮🇱 Hebrew | Westminster Leningrad Codex (WLC) | `he_wlc` | Nur das Alte Testament (39 Bücher), mit Vokal- und Kantillationszeichen; Maleachi hat in dieser Ausgabe 3 statt 4 Kapitel |
 | 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
+| 🇮🇸 Icelandic | Opna Lifandi Orð: Nýja testamentið og Sálmarnir | `is_olo` | Nur das Neue Testament und die Psalmen (28 Bücher) |
 | 🇳🇬 Igbo | Igbo Contemporary Bible | `ig_biuo` | |
+| 🇮🇩 Indonesian | Alkitab Terjemahan Sederhana Indonesia, Edisi Ketiga (TSI) | `id_tsi` | Unvollständig, 48 von 66 Büchern (21 Bücher des Alten Testaments und das vollständige Neue Testament) |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
 | 🇯🇵 Japanese | 聖書 新共同訳 (Shinkyodoyaku) | `ja_jniv` | Maleachi hat in dieser Ausgabe 3 statt 4 Kapitel |
 | 🇮🇳 Kannada | Indian Revised Version (IRV) Kannada 2019 | `kn_irvkan` | |
 | 🇰🇿 Kazakh | Киелі кітап | `kk_qazbi` | |
 | 🇰🇪 Kikuyu | Kiugo Gĩtheru Kĩa Ngai Kĩhingũre | `ki_kgnk` | |
+| 🇷🇼 Kinyarwanda | Rufumbira New Testament | `rw_ruf` | Nur das Neue Testament (27 Bücher) |
 | 🇧🇮 Kirundi | Kirundi Contemporary Bible | `rn_obkc` | |
 | 🇰🇷 Korean | Korean Revised | `ko_krv` | |
 | 🇻🇦 Latin | Vulgata Latina | `la_vulg` | |
@@ -143,9 +157,11 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
 | 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Unvollständig, 64 von 66 Büchern (Ester und Daniel fehlen) — siehe `json/ru_synod.disclaimer.txt` |
+| 🇮🇳 Sanskrit | Sanskrit Bible (सत्यवेदः) | `sa_san-dn` | Nur das Neue Testament (27 Bücher), in Devanagari-Schrift |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Gaelic | Am Bìoball Gàidhlig 1992 | `gd_abg1992` | |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
 | 🇿🇼 Shona | Shona Contemporary Bible 2017 | `sn_bdrsc` | |
+| 🇸🇰 Slovak | Nádej pre každého | `sk_onpk` | Nur das Neue Testament (27 Bücher) |
 | 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
 | 🇰🇪 Swahili | Swahili Revised Union Version | `sw_sruv` | |
 | 🇸🇪 Swedish | Svenska Folkbibeln 2015 | `sv_sfb15` | |
@@ -153,9 +169,12 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 | 🇮🇳 Telugu | Indian Revised Version (IRV) Telugu 2019 | `te_irvtel` | |
 | 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
 | 🇹🇴 Tongan | Ko e Tohi Tapu Kātoa | `to_rwv` | |
+| 🇧🇼 Tswana | Lefoko: La Botshelo Kgolagano e Ntsha | `tn_olef` | Nur das Neue Testament (27 Bücher) |
 | 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
+| 🇺🇦 Ukrainian | Бібліка Відкрита Новий Переклад Українською (Biblica Open New Ukrainian Translation) | `uk_vnpu` | Nur das Neue Testament und die Psalmen (28 Bücher) |
 | 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | Der Text steht in Devanagari-Schrift statt in persisch-arabischer Schrift — so veröffentlicht die Quelle selbst diese Ausgabe, die sich an Urdu-Sprecher richtet, die Devanagari lesen |
 | 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
+| 🇮🇱 Yiddish | Orthodox Yiddish Tanakh (ארטאדאקסישע יידישע תּנ״ך) | `yi_oytanakh` | Nur das Alte Testament (39 Bücher); Maleachi hat in dieser Ausgabe 3 statt 4 Kapitel |
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 Die Dateien jedes Eintrags sind `json/<code>.json` und `xml/<code>.xml` (z. B. `json/pt_nvi.json` und `xml/pt_nvi.xml`). `json/index.json` listet denselben Katalog in maschinenlesbarer Form auf.

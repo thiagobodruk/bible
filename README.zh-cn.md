@@ -2,13 +2,13 @@
 
 # Bible: XML and JSON
 
-**67 种语言，122 个圣经版本 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+**85 种语言，141 个圣经版本 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
 
 干净、结构化的 JSON 和 XML，适用于圣经应用、经文搜索和 NLP/AI 数据集。
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
-![Versions](https://img.shields.io/badge/versions-122-blue)
+![Versions](https://img.shields.io/badge/versions-141-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
@@ -35,12 +35,18 @@
 
 | 语言 | 版本 | 文件 | 备注 |
 |---|---|---|---|
+| 🇿🇦 Afrikaans | Afrikaans 1933/1953 | `af_afr53` |  |
 | 🇬🇭 Akan | Akuapem Twi Contemporary Bible | `ak_wakna` | |
 | 🇦🇱 Albanian | Bibla Shqip 1994 | `sq_albb` | |
+| 🇬🇷 Ancient Greek | Textus Receptus (Η Καινή Διαθήκη) | `grc_grctr` | 仅含新约（27 卷） |
+| 🇬🇷 Ancient Greek | Septuagint, Brenton (μετάφραση των εβδομήκοντα) | `grc_grcbrent` | 仅含旧约（36 卷），希腊文七十士译本；此版本编号中箴言第 30 章为空; 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇸🇦 Arabic | Ketab El Hayat Majani | `ar_kehm` | |
+| 🇦🇲 Armenian | Նոր Էջմիածին Աստվածաշունչ (New Etchmiadzin Bible) | `hy_neb` | 不完整，66 卷中的 64 卷（缺少以斯帖记和但以理书）; 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇮🇳 Assamese | Indian Revised Version (IRV) Assamese 2019 | `as_irvasm` | |
+| 🇪🇸 Basque | Navarro-Labourdin Basque Bible | `eu_bhnt` |  |
 | 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
 | 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
+| 🇻🇺 Bislama | Open Bislama Bible Revised | `bi_obbr` |  |
 | 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
@@ -65,10 +71,13 @@
 | 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
 | 🇲🇲 Burmese | Judson Bible | `my_jbmle` | |
 | 🇦🇩 Catalan | Bíblia Catalana Interconfessional | `ca_bci` | 此版本中玛拉基书为 3 章，而非 4 章 |
+| 🇵🇭 Cebuano | Ang Pulong sa Dios | `ceb_oapd` |  |
 | 🇮🇶 Central Kurdish | Kurdi Sorani Standard Version | `ckb_okss` | |
 | 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
+| 🇭🇷 Croatian | Knjiga o Kristu | `hr_okok` | 仅含新约（27 卷） |
 | 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
+| 🇳🇱 Dutch | De Heilige Schrift, Petrus Canisiusvertaling, 1939 | `nl_nld1939` | 不完整，66 卷中的 64 卷（缺少以斯帖记和但以理书） |
 | 🇬🇧 English | American Standard Version 1901 | `en_asv` | |
 | 🇬🇧 English | Amplified Bible | `en_amp` | |
 | 🇬🇧 English | Basic English | `en_bbe` | |
@@ -105,6 +114,7 @@
 | 🇬🇧 English | Wycliffe's Bible with Modern Spelling | `en_wbms` | |
 | 🇬🇧 English | Young's Literal Translation 1898 | `en_ylt98` | |
 | 🌍 Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
+| 🇪🇪 Estonian | Vaba kasutusega Uus Testament, Pühakiri kaasaegses eesti keeles | `et_opkek` | 仅含新约（27 卷） |
 | 🇬🇭 Ewe | Ewe Contemporary Scriptures | `ee_oal` | |
 | 🇵🇭 Filipino | Ang Biblia 1905 | `tl_abtag` | |
 | 🇫🇮 Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
@@ -114,14 +124,18 @@
 | 🇮🇳 Gujarati | Indian Revised Version (IRV) Gujarati 2019 | `gu_irvguj` | |
 | 🇭🇹 Haitian Creole | Bib Sen An: Kreyòl Ayisyen | `ht_bsa` | |
 | 🇳🇬 Hausa | Hausa Contemporary Bible | `ha_bsrk` | |
+| 🇮🇱 Hebrew | Westminster Leningrad Codex (WLC) | `he_wlc` | 仅含旧约（39 卷）, 带元音符号和吟诵符号; 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
+| 🇮🇸 Icelandic | Opna Lifandi Orð: Nýja testamentið og Sálmarnir | `is_olo` | 仅含新约和诗篇（28 卷） |
 | 🇳🇬 Igbo | Igbo Contemporary Bible | `ig_biuo` | |
+| 🇮🇩 Indonesian | Alkitab Terjemahan Sederhana Indonesia, Edisi Ketiga (TSI) | `id_tsi` | 不完整，66 卷中的 48 卷（21 卷旧约和完整新约） |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
 | 🇯🇵 Japanese | 聖書 新共同訳 (Shinkyodoyaku) | `ja_jniv` | 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇮🇳 Kannada | Indian Revised Version (IRV) Kannada 2019 | `kn_irvkan` | |
 | 🇰🇿 Kazakh | Киелі кітап | `kk_qazbi` | |
 | 🇰🇪 Kikuyu | Kiugo Gĩtheru Kĩa Ngai Kĩhingũre | `ki_kgnk` | |
+| 🇷🇼 Kinyarwanda | Rufumbira New Testament | `rw_ruf` | 仅含新约（27 卷） |
 | 🇧🇮 Kirundi | Kirundi Contemporary Bible | `rn_obkc` | |
 | 🇰🇷 Korean | Korean Revised | `ko_krv` | |
 | 🇻🇦 Latin | Vulgata Latina | `la_vulg` | |
@@ -143,9 +157,11 @@
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
 | 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | 不完整，66 卷中缺 2 卷（缺少以斯帖记和但以理书）——参见 `json/ru_synod.disclaimer.txt` |
+| 🇮🇳 Sanskrit | Sanskrit Bible (सत्यवेदः) | `sa_san-dn` | 仅含新约（27 卷）, 天城体文字 |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Gaelic | Am Bìoball Gàidhlig 1992 | `gd_abg1992` | |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
 | 🇿🇼 Shona | Shona Contemporary Bible 2017 | `sn_bdrsc` | |
+| 🇸🇰 Slovak | Nádej pre každého | `sk_onpk` | 仅含新约（27 卷） |
 | 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
 | 🇰🇪 Swahili | Swahili Revised Union Version | `sw_sruv` | |
 | 🇸🇪 Swedish | Svenska Folkbibeln 2015 | `sv_sfb15` | |
@@ -153,9 +169,12 @@
 | 🇮🇳 Telugu | Indian Revised Version (IRV) Telugu 2019 | `te_irvtel` | |
 | 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
 | 🇹🇴 Tongan | Ko e Tohi Tapu Kātoa | `to_rwv` | |
+| 🇧🇼 Tswana | Lefoko: La Botshelo Kgolagano e Ntsha | `tn_olef` | 仅含新约（27 卷） |
 | 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
+| 🇺🇦 Ukrainian | Бібліка Відкрита Новий Переклад Українською (Biblica Open New Ukrainian Translation) | `uk_vnpu` | 仅含新约和诗篇（28 卷） |
 | 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | 文本使用天城文，而非波斯-阿拉伯文——这是数据源本身发布该版本的方式，面向阅读天城文的乌尔都语使用者 |
 | 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
+| 🇮🇱 Yiddish | Orthodox Yiddish Tanakh (ארטאדאקסישע יידישע תּנ״ך) | `yi_oytanakh` | 仅含旧约（39 卷）; 此版本中玛拉基书为 3 章，而非 4 章 |
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 每个条目的文件为 `json/<code>.json` 和 `xml/<code>.xml`（例如 `json/pt_nvi.json`、`xml/pt_nvi.xml`）。`json/index.json` 以机器可读的形式列出了同一份目录。

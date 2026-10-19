@@ -821,5 +821,171 @@
         "abbreviation": "ca_bci"
       }
     ]
+  },
+  {
+    "language": "Hebrew",
+    "versions": [
+      {
+        "name": "Westminster Leningrad Codex (WLC)",
+        "abbreviation": "he_wlc"
+      }
+    ]
+  },
+  {
+    "language": "Dutch",
+    "versions": [
+      {
+        "name": "De Heilige Schrift, Petrus Canisiusvertaling, 1939",
+        "abbreviation": "nl_nld1939"
+      }
+    ]
+  },
+  {
+    "language": "Afrikaans",
+    "versions": [
+      {
+        "name": "Afrikaans 1933/1953",
+        "abbreviation": "af_afr53"
+      }
+    ]
+  },
+  {
+    "language": "Basque",
+    "versions": [
+      {
+        "name": "Navarro-Labourdin Basque Bible",
+        "abbreviation": "eu_bhnt"
+      }
+    ]
+  },
+  {
+    "language": "Cebuano",
+    "versions": [
+      {
+        "name": "Ang Pulong sa Dios",
+        "abbreviation": "ceb_oapd"
+      }
+    ]
+  },
+  {
+    "language": "Bislama",
+    "versions": [
+      {
+        "name": "Open Bislama Bible Revised",
+        "abbreviation": "bi_obbr"
+      }
+    ]
+  },
+  {
+    "language": "Indonesian",
+    "versions": [
+      {
+        "name": "Alkitab Terjemahan Sederhana Indonesia, Edisi Ketiga (TSI)",
+        "abbreviation": "id_tsi"
+      }
+    ]
+  },
+  {
+    "language": "Ukrainian",
+    "versions": [
+      {
+        "name": "Бібліка Відкрита Новий Переклад Українською (Biblica Open New Ukrainian Translation)",
+        "abbreviation": "uk_vnpu"
+      }
+    ]
+  },
+  {
+    "language": "Kinyarwanda",
+    "versions": [
+      {
+        "name": "Rufumbira New Testament",
+        "abbreviation": "rw_ruf"
+      }
+    ]
+  },
+  {
+    "language": "Croatian",
+    "versions": [
+      {
+        "name": "Knjiga o Kristu",
+        "abbreviation": "hr_okok"
+      }
+    ]
+  },
+  {
+    "language": "Slovak",
+    "versions": [
+      {
+        "name": "Nádej pre každého",
+        "abbreviation": "sk_onpk"
+      }
+    ]
+  },
+  {
+    "language": "Estonian",
+    "versions": [
+      {
+        "name": "Vaba kasutusega Uus Testament, Pühakiri kaasaegses eesti keeles",
+        "abbreviation": "et_opkek"
+      }
+    ]
+  },
+  {
+    "language": "Icelandic",
+    "versions": [
+      {
+        "name": "Opna Lifandi Orð: Nýja testamentið og Sálmarnir",
+        "abbreviation": "is_olo"
+      }
+    ]
+  },
+  {
+    "language": "Tswana",
+    "versions": [
+      {
+        "name": "Lefoko: La Botshelo Kgolagano e Ntsha",
+        "abbreviation": "tn_olef"
+      }
+    ]
+  },
+  {
+    "language": "Armenian",
+    "versions": [
+      {
+        "name": "Նոր Էջմիածին Աստվածաշունչ (New Etchmiadzin Bible)",
+        "abbreviation": "hy_neb"
+      }
+    ]
+  },
+  {
+    "language": "Ancient Greek",
+    "versions": [
+      {
+        "name": "Textus Receptus (Η Καινή Διαθήκη)",
+        "abbreviation": "grc_grctr"
+      },
+      {
+        "name": "Septuagint, Brenton (μετάφραση των εβδομήκοντα)",
+        "abbreviation": "grc_grcbrent"
+      }
+    ]
+  },
+  {
+    "language": "Sanskrit",
+    "versions": [
+      {
+        "name": "Sanskrit Bible (सत्यवेदः)",
+        "abbreviation": "sa_san-dn"
+      }
+    ]
+  },
+  {
+    "language": "Yiddish",
+    "versions": [
+      {
+        "name": "Orthodox Yiddish Tanakh (ארטאדאקסישע יידישע תּנ״ך)",
+        "abbreviation": "yi_oytanakh"
+      }
+    ]
   }
 ]
