@@ -2,13 +2,13 @@
 
 # Bible: XML and JSON
 
-**68言語・123種類の聖書バージョン 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+**85言語・141種類の聖書バージョン 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
 
 聖書アプリ、聖句検索、NLP/AI データセットのための、クリーンで構造化された JSON と XML。
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
-![Versions](https://img.shields.io/badge/versions-123-blue)
+![Versions](https://img.shields.io/badge/versions-141-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
@@ -35,12 +35,18 @@
 
 | 言語 | バージョン | ファイル | 備考 |
 |---|---|---|---|
+| 🇿🇦 Afrikaans | Afrikaans 1933/1953 | `af_afr53` |  |
 | 🇬🇭 Akan | Akuapem Twi Contemporary Bible | `ak_wakna` | |
 | 🇦🇱 Albanian | Bibla Shqip 1994 | `sq_albb` | |
+| 🇬🇷 Ancient Greek | Textus Receptus (Η Καινή Διαθήκη) | `grc_grctr` | 新約聖書のみ（27巻） |
+| 🇬🇷 Ancient Greek | Septuagint, Brenton (μετάφραση των εβδομήκοντα) | `grc_grcbrent` | 旧約聖書のみ（36巻）、ギリシア語七十人訳。この版の章番号では箴言30章は空; この版ではマラキ書は 4 章ではなく 3 章です |
 | 🇸🇦 Arabic | Ketab El Hayat Majani | `ar_kehm` | |
+| 🇦🇲 Armenian | Նոր Էջմիածին Աստվածաշունչ (New Etchmiadzin Bible) | `hy_neb` | 不完全、66巻中64巻（エステル記とダニエル書が欠落）; この版ではマラキ書は 4 章ではなく 3 章です |
 | 🇮🇳 Assamese | Indian Revised Version (IRV) Assamese 2019 | `as_irvasm` | |
+| 🇪🇸 Basque | Navarro-Labourdin Basque Bible | `eu_bhnt` |  |
 | 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
 | 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
+| 🇻🇺 Bislama | Open Bislama Bible Revised | `bi_obbr` |  |
 | 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
@@ -65,10 +71,13 @@
 | 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
 | 🇲🇲 Burmese | Judson Bible | `my_jbmle` | |
 | 🇦🇩 Catalan | Bíblia Catalana Interconfessional | `ca_bci` | この版ではマラキ書は 4 章ではなく 3 章です |
+| 🇵🇭 Cebuano | Ang Pulong sa Dios | `ceb_oapd` |  |
 | 🇮🇶 Central Kurdish | Kurdi Sorani Standard Version | `ckb_okss` | |
 | 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
+| 🇭🇷 Croatian | Knjiga o Kristu | `hr_okok` | 新約聖書のみ（27巻） |
 | 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
+| 🇳🇱 Dutch | De Heilige Schrift, Petrus Canisiusvertaling, 1939 | `nl_nld1939` | 不完全、66巻中64巻（エステル記とダニエル書が欠落） |
 | 🇬🇧 English | American Standard Version 1901 | `en_asv` | |
 | 🇬🇧 English | Amplified Bible | `en_amp` | |
 | 🇬🇧 English | Basic English | `en_bbe` | |
@@ -105,6 +114,7 @@
 | 🇬🇧 English | Wycliffe's Bible with Modern Spelling | `en_wbms` | |
 | 🇬🇧 English | Young's Literal Translation 1898 | `en_ylt98` | |
 | 🌍 Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
+| 🇪🇪 Estonian | Vaba kasutusega Uus Testament, Pühakiri kaasaegses eesti keeles | `et_opkek` | 新約聖書のみ（27巻） |
 | 🇬🇭 Ewe | Ewe Contemporary Scriptures | `ee_oal` | |
 | 🇵🇭 Filipino | Ang Biblia 1905 | `tl_abtag` | |
 | 🇫🇮 Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
@@ -114,15 +124,18 @@
 | 🇮🇳 Gujarati | Indian Revised Version (IRV) Gujarati 2019 | `gu_irvguj` | |
 | 🇭🇹 Haitian Creole | Bib Sen An: Kreyòl Ayisyen | `ht_bsa` | |
 | 🇳🇬 Hausa | Hausa Contemporary Bible | `ha_bsrk` | |
-| 🇮🇱 Hebrew | Westminster Leningrad Codex (WLC) | `he_wlc` | 旧約聖書のみ（39巻）。母音記号とカンティレーション記号付き |
+| 🇮🇱 Hebrew | Westminster Leningrad Codex (WLC) | `he_wlc` | 旧約聖書のみ（39巻）, 母音記号とカンティレーション記号付き; この版ではマラキ書は 4 章ではなく 3 章です |
 | 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
+| 🇮🇸 Icelandic | Opna Lifandi Orð: Nýja testamentið og Sálmarnir | `is_olo` | 新約聖書と詩篇のみ（28巻） |
 | 🇳🇬 Igbo | Igbo Contemporary Bible | `ig_biuo` | |
+| 🇮🇩 Indonesian | Alkitab Terjemahan Sederhana Indonesia, Edisi Ketiga (TSI) | `id_tsi` | 不完全、66巻中48巻（旧約聖書21巻と新約聖書の全巻） |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
 | 🇯🇵 Japanese | 聖書 新共同訳 (Shinkyodoyaku) | `ja_jniv` | この版ではマラキ書は 4 章ではなく 3 章です |
 | 🇮🇳 Kannada | Indian Revised Version (IRV) Kannada 2019 | `kn_irvkan` | |
 | 🇰🇿 Kazakh | Киелі кітап | `kk_qazbi` | |
 | 🇰🇪 Kikuyu | Kiugo Gĩtheru Kĩa Ngai Kĩhingũre | `ki_kgnk` | |
+| 🇷🇼 Kinyarwanda | Rufumbira New Testament | `rw_ruf` | 新約聖書のみ（27巻） |
 | 🇧🇮 Kirundi | Kirundi Contemporary Bible | `rn_obkc` | |
 | 🇰🇷 Korean | Korean Revised | `ko_krv` | |
 | 🇻🇦 Latin | Vulgata Latina | `la_vulg` | |
@@ -144,9 +157,11 @@
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
 | 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | 不完全（66 巻中 64 巻、エステル記とダニエル書が欠落）— `json/ru_synod.disclaimer.txt` を参照 |
+| 🇮🇳 Sanskrit | Sanskrit Bible (सत्यवेदः) | `sa_san-dn` | 新約聖書のみ（27巻）, デーヴァナーガリー文字 |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Gaelic | Am Bìoball Gàidhlig 1992 | `gd_abg1992` | |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
 | 🇿🇼 Shona | Shona Contemporary Bible 2017 | `sn_bdrsc` | |
+| 🇸🇰 Slovak | Nádej pre každého | `sk_onpk` | 新約聖書のみ（27巻） |
 | 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
 | 🇰🇪 Swahili | Swahili Revised Union Version | `sw_sruv` | |
 | 🇸🇪 Swedish | Svenska Folkbibeln 2015 | `sv_sfb15` | |
@@ -154,9 +169,12 @@
 | 🇮🇳 Telugu | Indian Revised Version (IRV) Telugu 2019 | `te_irvtel` | |
 | 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
 | 🇹🇴 Tongan | Ko e Tohi Tapu Kātoa | `to_rwv` | |
+| 🇧🇼 Tswana | Lefoko: La Botshelo Kgolagano e Ntsha | `tn_olef` | 新約聖書のみ（27巻） |
 | 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
+| 🇺🇦 Ukrainian | Бібліка Відкрита Новий Переклад Українською (Biblica Open New Ukrainian Translation) | `uk_vnpu` | 新約聖書と詩篇のみ（28巻） |
 | 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | テキストはペルシア・アラビア文字ではなくデーヴァナーガリー文字です。ソース自体がデーヴァナーガリーを読むウルドゥー語話者向けにこの版を公開しています |
 | 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
+| 🇮🇱 Yiddish | Orthodox Yiddish Tanakh (ארטאדאקסישע יידישע תּנ״ך) | `yi_oytanakh` | 旧約聖書のみ（39巻）; この版ではマラキ書は 4 章ではなく 3 章です |
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 各エントリのファイルは `json/<code>.json` と `xml/<code>.xml` です（例: `json/pt_nvi.json`、`xml/pt_nvi.xml`）。`json/index.json` には同じ一覧が機械可読な形式で入っています。

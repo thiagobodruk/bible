@@ -2,13 +2,13 @@
 
 # Bible: XML and JSON
 
-**123 Bible versions in 68 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
+**141 Bible versions in 85 languages 🇧🇷 🇬🇧 🇪🇸 🇨🇳 🇸🇦 🇫🇷 🇩🇪**
 
 Clean, structured JSON and XML for Bible apps, verse search, and NLP/AI datasets.
 
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
-![Versions](https://img.shields.io/badge/versions-123-blue)
+![Versions](https://img.shields.io/badge/versions-141-blue)
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
@@ -45,12 +45,18 @@ these files may contain minor issues related to encoding and syntax.
 
 | Language | Version | Files | Notes |
 |---|---|---|---|
+| 🇿🇦 Afrikaans | Afrikaans 1933/1953 | `af_afr53` |  |
 | 🇬🇭 Akan | Akuapem Twi Contemporary Bible | `ak_wakna` |  |
 | 🇦🇱 Albanian | Bibla Shqip 1994 | `sq_albb` |  |
+| 🇬🇷 Ancient Greek | Textus Receptus (Η Καινή Διαθήκη) | `grc_grctr` | New Testament only (27 books) |
+| 🇬🇷 Ancient Greek | Septuagint, Brenton (μετάφραση των εβδομήκοντα) | `grc_grcbrent` | Old Testament only (36 books), Greek Septuagint; Proverbs 30 is empty in this edition's numbering; Malachi has 3 chapters instead of 4 in this edition |
 | 🇸🇦 Arabic | Ketab El Hayat Majani | `ar_kehm` | |
+| 🇦🇲 Armenian | Նոր Էջմիածին Աստվածաշունչ (New Etchmiadzin Bible) | `hy_neb` | Incomplete, 64 of 66 books (Esther and Daniel missing); Malachi has 3 chapters instead of 4 in this edition |
 | 🇮🇳 Assamese | Indian Revised Version (IRV) Assamese 2019 | `as_irvasm` |  |
+| 🇪🇸 Basque | Navarro-Labourdin Basque Bible | `eu_bhnt` |  |
 | 🇧🇾 Belarusian | Bíblia (tradução de V. Semukha) | `be_bbl` | |
 | 🇧🇩 Bengali | Indian Revised Version (IRV) Bengali | `bn_irvben` | |
+| 🇻🇺 Bislama | Open Bislama Bible Revised | `bi_obbr` |  |
 | 🇧🇷 Brazilian Portuguese | Almeida Revisada Imprensa Bíblica | `pt_aa` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Corrigida e Revisada Fiel | `pt_acf` | |
 | 🇧🇷 Brazilian Portuguese | Almeida Revista e Atualizada | `pt_ara` | |
@@ -75,10 +81,13 @@ these files may contain minor issues related to encoding and syntax.
 | 🇧🇬 Bulgarian | Veren | `bg_vbg` | |
 | 🇲🇲 Burmese | Judson Bible | `my_jbmle` |  |
 | 🇦🇩 Catalan | Bíblia Catalana Interconfessional | `ca_bci` | Malachi has 3 chapters instead of 4 in this edition |
+| 🇵🇭 Cebuano | Ang Pulong sa Dios | `ceb_oapd` |  |
 | 🇮🇶 Central Kurdish | Kurdi Sorani Standard Version | `ckb_okss` |  |
 | 🇨🇳 Chinese | Chinese Union Version (New Punctuation, Shen Edition) | `zh_cunpss-shen` | |
 | 🇨🇳 Chinese | New Chinese Version | `zh_cnvs` | |
+| 🇭🇷 Croatian | Knjiga o Kristu | `hr_okok` | New Testament only (27 books) |
 | 🇨🇿 Czech | Bible Kralická 1613 | `cs_bkr` | |
+| 🇳🇱 Dutch | De Heilige Schrift, Petrus Canisiusvertaling, 1939 | `nl_nld1939` | Incomplete, 64 of 66 books (Esther and Daniel missing) |
 | 🇬🇧 English | American Standard Version 1901 | `en_asv` | |
 | 🇬🇧 English | Amplified Bible | `en_amp` | |
 | 🇬🇧 English | Basic English | `en_bbe` | |
@@ -115,6 +124,7 @@ these files may contain minor issues related to encoding and syntax.
 | 🇬🇧 English | Wycliffe's Bible with Modern Spelling | `en_wbms` | |
 | 🇬🇧 English | Young's Literal Translation 1898 | `en_ylt98` | |
 | 🌍 Esperanto | La Sankta Biblio 1926 | `eo_esp` | |
+| 🇪🇪 Estonian | Vaba kasutusega Uus Testament, Pühakiri kaasaegses eesti keeles | `et_opkek` | New Testament only (27 books) |
 | 🇬🇭 Ewe | Ewe Contemporary Scriptures | `ee_oal` |  |
 | 🇵🇭 Filipino | Ang Biblia 1905 | `tl_abtag` | |
 | 🇫🇮 Finnish | Kirkkoraamattu 1933/38 | `fi_fb38` | |
@@ -124,15 +134,18 @@ these files may contain minor issues related to encoding and syntax.
 | 🇮🇳 Gujarati | Indian Revised Version (IRV) Gujarati 2019 | `gu_irvguj` |  |
 | 🇭🇹 Haitian Creole | Bib Sen An: Kreyòl Ayisyen | `ht_bsa` |  |
 | 🇳🇬 Hausa | Hausa Contemporary Bible | `ha_bsrk` |  |
-| 🇮🇱 Hebrew | Westminster Leningrad Codex (WLC) | `he_wlc` | Old Testament only (39 books), with vowel points and cantillation marks |
+| 🇮🇱 Hebrew | Westminster Leningrad Codex (WLC) | `he_wlc` | Old Testament only (39 books), with vowel points and cantillation marks; Malachi has 3 chapters instead of 4 in this edition |
 | 🇮🇳 Hindi | Indian Revised Version (IRV) Hindi 2019 | `hi_irvhin` | |
 | 🇭🇺 Hungarian | Károli 1908 | `hu_hunk` | |
+| 🇮🇸 Icelandic | Opna Lifandi Orð: Nýja testamentið og Sálmarnir | `is_olo` | New Testament and Psalms only (28 books) |
 | 🇳🇬 Igbo | Igbo Contemporary Bible | `ig_biuo` |  |
+| 🇮🇩 Indonesian | Alkitab Terjemahan Sederhana Indonesia, Edisi Ketiga (TSI) | `id_tsi` | Incomplete, 48 of 66 books (21 Old Testament books and the full New Testament) |
 | 🇮🇹 Italian | Sacra Bibbia Versione Riveduta 2020 | `it_irb20` | |
 | 🇯🇵 Japanese | 聖書 新共同訳 (Shinkyodoyaku) | `ja_jniv` | Malachi has 3 chapters instead of 4 in this edition |
 | 🇮🇳 Kannada | Indian Revised Version (IRV) Kannada 2019 | `kn_irvkan` |  |
 | 🇰🇿 Kazakh | Киелі кітап | `kk_qazbi` |  |
 | 🇰🇪 Kikuyu | Kiugo Gĩtheru Kĩa Ngai Kĩhingũre | `ki_kgnk` |  |
+| 🇷🇼 Kinyarwanda | Rufumbira New Testament | `rw_ruf` | New Testament only (27 books) |
 | 🇧🇮 Kirundi | Kirundi Contemporary Bible | `rn_obkc` |  |
 | 🇰🇷 Korean | Korean Revised | `ko_krv` | |
 | 🇻🇦 Latin | Vulgata Latina | `la_vulg` |  |
@@ -154,9 +167,11 @@ these files may contain minor issues related to encoding and syntax.
 | 🇮🇳 Punjabi | Indian Revised Version (IRV) Punjabi | `pa_irvpun` | |
 | 🇷🇴 Romanian | Versiunea Dumitru Cornilescu | `ro_vdc` | |
 | 🇷🇺 Russian | Синодальный перевод (Synodal Translation) | `ru_synod` | Incomplete, 64 of 66 books (Esther and Daniel missing) — see `json/ru_synod.disclaimer.txt` |
+| 🇮🇳 Sanskrit | Sanskrit Bible (सत्यवेदः) | `sa_san-dn` | New Testament only (27 books), in Devanagari script |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scottish Gaelic | Am Bìoball Gàidhlig 1992 | `gd_abg1992` |  |
 | 🇷🇸 Serbian | Daničić-Karadžić | `sr_dk` | |
 | 🇿🇼 Shona | Shona Contemporary Bible 2017 | `sn_bdrsc` |  |
+| 🇸🇰 Slovak | Nádej pre každého | `sk_onpk` | New Testament only (27 books) |
 | 🇪🇸 Spanish | Reina Valera 1960 | `es_rvr1960` | |
 | 🇰🇪 Swahili | Swahili Revised Union Version | `sw_sruv` | |
 | 🇸🇪 Swedish | Svenska Folkbibeln 2015 | `sv_sfb15` | |
@@ -164,9 +179,12 @@ these files may contain minor issues related to encoding and syntax.
 | 🇮🇳 Telugu | Indian Revised Version (IRV) Telugu 2019 | `te_irvtel` | |
 | 🇹🇭 Thai | Thai KJV | `th_kjvthai` | |
 | 🇹🇴 Tongan | Ko e Tohi Tapu Kātoa | `to_rwv` |  |
+| 🇧🇼 Tswana | Lefoko: La Botshelo Kgolagano e Ntsha | `tn_olef` | New Testament only (27 books) |
 | 🇹🇷 Turkish | Yorumsuz Türkçe Çeviri | `tr_ytc` | |
+| 🇺🇦 Ukrainian | Бібліка Відкрита Новий Переклад Українською (Biblica Open New Ukrainian Translation) | `uk_vnpu` | New Testament and Psalms only (28 books) |
 | 🇵🇰 Urdu | Indian Revised Version (IRV) Urdu 2019 | `ur_irvurd` | Text is in Devanagari script rather than Perso-Arabic — this is how the source itself publishes this edition, aimed at Urdu speakers who read Devanagari |
 | 🇻🇳 Vietnamese | Tiếng Việt | `vi_vie` | |
+| 🇮🇱 Yiddish | Orthodox Yiddish Tanakh (ארטאדאקסישע יידישע תּנ״ך) | `yi_oytanakh` | Old Testament only (39 books); Malachi has 3 chapters instead of 4 in this edition |
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` |  |
 
 Each entry's files are `json/<code>.json` and `xml/<code>.xml` (e.g.
