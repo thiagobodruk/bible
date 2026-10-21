@@ -181,6 +181,8 @@ I file di ogni voce sono `json/<code>.json` e `xml/<code>.xml` (ad esempio `json
 
 ## Come sono strutturati i file?
 
+> **Nomi dei libri:** dalla v3.0, `name` (JSON) e `n` (XML) contengono il nome del libro nella lingua di ciascuna versione — ad esempio `Genesis` in `en_kjv` e `創世記` in `ja_jniv`. Fino alla v2.3, quasi tutti i file riportavano il nome in portoghese. `abbrev` è l'identificatore stabile tra le lingue, e [`json/book_names.json`](json/book_names.json) elenca i nomi di tutte le versioni. `sa_san-dn` e `fr_apee` mantengono nomi in inglese.
+
 ### XML
 
 I file XML sono codificati in UTF-8 e hanno la seguente struttura:
