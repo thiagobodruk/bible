@@ -181,6 +181,8 @@ Die Dateien jedes Eintrags sind `json/<code>.json` und `xml/<code>.xml` (z. B. `
 
 ## Wie sind die Dateien aufgebaut?
 
+> **Buchnamen:** Seit v3.0 enthalten `name` (JSON) und `n` (XML) den Buchnamen in der Sprache der jeweiligen Version — zum Beispiel `Genesis` in `en_kjv` und `創世記` in `ja_jniv`. Bis v2.3 trugen fast alle Dateien den portugiesischen Namen. `abbrev` ist der stabile Bezeichner über Sprachen hinweg, und [`json/book_names.json`](json/book_names.json) listet die Namen aller Versionen auf. `sa_san-dn` und `fr_apee` behalten englische Buchnamen.
+
 ### XML
 
 Die XML-Dateien sind UTF-8-kodiert und wie folgt aufgebaut:

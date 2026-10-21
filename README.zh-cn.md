@@ -181,6 +181,8 @@
 
 ## 文件是如何组织的？
 
+> **书名：** 自 v3.0 起，`name`（JSON）和 `n`（XML）为各版本所用语言的书名，例如 `en_kjv` 中为 `Genesis`，`ja_jniv` 中为 `創世記`。v2.3 及之前，几乎所有文件都使用葡萄牙语书名。`abbrev` 是跨语言的稳定标识符，[`json/book_names.json`](json/book_names.json) 列出了所有版本的书名。`sa_san-dn` 和 `fr_apee` 仍使用英文书名。
+
 ### XML
 
 XML 文件采用 UTF-8 编码，结构如下：

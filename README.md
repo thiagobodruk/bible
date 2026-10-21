@@ -193,6 +193,8 @@ catalog in machine-readable form.
 
 ## How the files are structured?
 
+> **Book names:** since v3.0, `name` (JSON) and `n` (XML) hold the book name in the language of each version — for example `Genesis` in `en_kjv` and `創世記` in `ja_jniv`. Up to v2.3, almost every file carried the Portuguese name. `abbrev` is the stable identifier across languages, and [`json/book_names.json`](json/book_names.json) lists the names of every version. `sa_san-dn` and `fr_apee` keep English book names.
+
 ### XML
 
 The XML files are encoded using UTF-8 and built in the following
