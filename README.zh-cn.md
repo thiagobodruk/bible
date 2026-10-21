@@ -182,6 +182,8 @@
 ## 文件是如何组织的？
 
 > **书名：** 自 v3.0 起，`name`（JSON）和 `n`（XML）为各版本所用语言的书名，例如 `en_kjv` 中为 `Genesis`，`ja_jniv` 中为 `創世記`。v2.3 及之前，几乎所有文件都使用葡萄牙语书名。`abbrev` 是跨语言的稳定标识符，[`json/book_names.json`](json/book_names.json) 列出了所有版本的书名。`sa_san-dn` 和 `fr_apee` 仍使用英文书名。
+>
+> 部分书名按各版本的原样保留，可能看起来不太寻常：`tr_ytc`（土耳其语）丢失了无点的 `ı` 和部分重音符号（写作 "Yaratiliş" 而非 "Yaratılış"）；`el_fpb` 和各 `grc_*` 版本没有重音符号，并以 `σ` 代替词尾的 `ς`；`nl_nld1939` 将启示录写作 "Apokalyps"；`kk_qazbi`（哈萨克语）使用缩写书名；`lv_lg8`（拉脱维亚语）使用 "Mateja ev." 之类的形式；`om_onocv`（奥罗莫语）有两个书名（创世记和诗篇）的音译可能存疑。
 
 ### XML
 

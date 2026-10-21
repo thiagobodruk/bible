@@ -182,6 +182,8 @@ I file di ogni voce sono `json/<code>.json` e `xml/<code>.xml` (ad esempio `json
 ## Come sono strutturati i file?
 
 > **Nomi dei libri:** dalla v3.0, `name` (JSON) e `n` (XML) contengono il nome del libro nella lingua di ciascuna versione — ad esempio `Genesis` in `en_kjv` e `創世記` in `ja_jniv`. Fino alla v2.3, quasi tutti i file riportavano il nome in portoghese. `abbrev` è l'identificatore stabile tra le lingue, e [`json/book_names.json`](json/book_names.json) elenca i nomi di tutte le versioni. `sa_san-dn` e `fr_apee` mantengono nomi in inglese.
+>
+> Alcuni nomi sono mantenuti esattamente come li pubblica ciascuna edizione e possono sembrare insoliti: `tr_ytc` (turco) ha perso la `ı` senza punto e alcuni accenti ("Yaratiliş" invece di "Yaratılış"); `el_fpb` e le edizioni `grc_*` non hanno accenti e usano `σ` al posto della `ς` finale; `nl_nld1939` chiama l'Apocalisse "Apokalyps"; `kk_qazbi` (kazako) usa nomi abbreviati; `lv_lg8` (lettone) usa forme come "Mateja ev."; e due nomi di `om_onocv` (oromo, Genesi e Salmi) potrebbero essere traslitterazioni dubbie.
 
 ### XML
 

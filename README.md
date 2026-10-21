@@ -194,6 +194,8 @@ catalog in machine-readable form.
 ## How the files are structured?
 
 > **Book names:** since v3.0, `name` (JSON) and `n` (XML) hold the book name in the language of each version — for example `Genesis` in `en_kjv` and `創世記` in `ja_jniv`. Up to v2.3, almost every file carried the Portuguese name. `abbrev` is the stable identifier across languages, and [`json/book_names.json`](json/book_names.json) lists the names of every version. `sa_san-dn` and `fr_apee` keep English book names.
+>
+> Some names are kept exactly as each edition publishes them and may look unusual: `tr_ytc` (Turkish) lost the dotless `ı` and some accents ("Yaratiliş" instead of "Yaratılış"); `el_fpb` and the `grc_*` editions have no accents and use `σ` instead of the final `ς`; `nl_nld1939` calls Revelation "Apokalyps"; `kk_qazbi` (Kazakh) uses abbreviated names; `lv_lg8` (Latvian) uses forms such as "Mateja ev."; and two names in `om_onocv` (Oromo, Genesis and Psalms) may be doubtful transliterations.
 
 ### XML
 
