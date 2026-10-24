@@ -6,6 +6,8 @@
 
 干净、结构化的 JSON 和 XML，适用于圣经应用、经文搜索和 NLP/AI 数据集。
 
+📖 **只想阅读？** 试试基于这些数据构建的免费圣经阅读器 **[Open Bible](https://thiagobodruk.github.io/open-bible/)**。它可离线使用，可安装为应用，无需账号。（[源代码](https://github.com/thiagobodruk/open-bible)）
+
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-141-blue)
