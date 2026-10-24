@@ -6,6 +6,8 @@
 
 JSON e XML puliti e strutturati per app bibliche, ricerca di versetti e dataset NLP/IA.
 
+📖 **Vuoi solo leggere?** Prova **[Open Bible](https://thiagobodruk.github.io/open-bible/)**, un lettore della Bibbia gratuito basato su questi dati. Funziona offline, si installa come app e non richiede un account. ([codice sorgente](https://github.com/thiagobodruk/open-bible))
+
 [![Stars](https://badgen.net/github/stars/thiagobodruk/bible?color=yellow)](https://github.com/thiagobodruk/bible/stargazers)
 [![Languages](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/thiagobodruk/bible/master/json/index.json&query=$.length&label=languages)](#)
 ![Versions](https://img.shields.io/badge/versions-141-blue)
