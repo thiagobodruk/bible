@@ -104,7 +104,7 @@ these files may contain minor issues related to encoding and syntax.
 | 🇬🇧 English | Good News Translation | `en_gnt` | |
 | 🇬🇧 English | Jubilee Bible | `en_jub` | |
 | 🇬🇧 English | King James Version | `en_kjv` | |
-| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | |
+| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | 80 books: the 66 canonical books plus the 14 that the source lists under "Outros", placed after Revelation. See [the note below](#en_kjva-apocrypha) |
 | 🇬🇧 English | Lexham English Bible | `en_leb` | |
 | 🇬🇧 English | Literal Standard Version | `en_lsv` | |
 | 🇬🇧 English | Majority Standard Bible | `en_mbsb` | |
@@ -192,6 +192,12 @@ these files may contain minor issues related to encoding and syntax.
 Each entry's files are `json/<code>.json` and `xml/<code>.xml` (e.g.
 `json/pt_nvi.json`, `xml/pt_nvi.xml`). `json/index.json` lists this same
 catalog in machine-readable form.
+
+<a id="en_kjva-apocrypha"></a>
+
+> **`en_kjva` and the Apocrypha:** the file has the 66 canonical books followed by the 14 extra books exactly as the source (a single source, no versions merged) provides them, in this order and with these `abbrev` values: 1 Esdras (`1esd`), 2 Esdras (`2esd`), Tobit (`tb`), Judith (`jt`), Esther (Greek) (`ester-grego`), Wisdom (`sb`), Sirach (`eclo`), Baruch (`br`, which includes the Letter of Jeremiah as chapter 6), Azariah (`oracao-azarias`, which includes the Song of the Three Young Men), Susanna (`susana`), Bel (`bel-dragao`), Manasseh (`oracao-manasses`), 1 Maccabees (`1mc`) and 2 Maccabees (`2mc`).
+>
+> Anything the source does not provide is not in the file, so books such as 3 and 4 Maccabees or Psalm 151 are not included. Two details differ from printed editions: the Greek Esther chapters (10 to 16 in the Apocrypha) are stored as chapters 1 to 7 and its first verse is numbered 1 (in print, 10:4); and the unnumbered Prologue of Sirach is left out, because it has no verse numbers. Sirach (chapter 44) and Manasseh follow the source's own verse division, which may differ by a verse or two from other editions.
 
 ## How the files are structured?
 
