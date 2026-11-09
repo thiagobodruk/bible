@@ -94,7 +94,7 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 | 🇬🇧 English | Good News Translation | `en_gnt` | |
 | 🇬🇧 English | Jubilee Bible | `en_jub` | |
 | 🇬🇧 English | King James Version | `en_kjv` | |
-| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | |
+| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | 80 Bücher: die 66 kanonischen Bücher plus die 14, die die Quelle unter „Outros“ führt, nach der Offenbarung eingeordnet. Siehe [den Hinweis unten](#en_kjva-apocrypha) |
 | 🇬🇧 English | Lexham English Bible | `en_leb` | |
 | 🇬🇧 English | Literal Standard Version | `en_lsv` | |
 | 🇬🇧 English | Majority Standard Bible | `en_mbsb` | |
@@ -180,6 +180,12 @@ Die Quelldateien wurden mit einem in Python geschriebenen Crawler erzeugt. Daher
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 Die Dateien jedes Eintrags sind `json/<code>.json` und `xml/<code>.xml` (z. B. `json/pt_nvi.json` und `xml/pt_nvi.xml`). `json/index.json` listet denselben Katalog in maschinenlesbarer Form auf.
+
+<a id="en_kjva-apocrypha"></a>
+
+> **`en_kjva` und die Apokryphen:** Die Datei enthält die 66 kanonischen Bücher, gefolgt von 14 weiteren Büchern, genau so, wie die Quelle sie liefert (eine einzige Quelle, keine Versionen vermischt), in dieser Reihenfolge und mit diesen `abbrev`-Werten: 1 Esdras (`1esd`), 2 Esdras (`2esd`), Tobit (`tb`), Judith (`jt`), Esther (Greek) (`ester-grego`), Wisdom (`sb`), Sirach (`eclo`), Baruch (`br`), Azariah (`oracao-azarias`), Susanna (`susana`), Bel (`bel-dragao`), Manasseh (`oracao-manasses`), 1 Maccabees (`1mc`), 2 Maccabees (`2mc`). Baruch enthält den Brief des Jeremia als Kapitel 6, Azariah enthält das Lied der drei Männer im Feuerofen.
+>
+> Was die Quelle nicht liefert, ist nicht in der Datei, daher fehlen Bücher wie 3. und 4. Makkabäer oder Psalm 151. Zwei Details weichen von gedruckten Ausgaben ab: Die Kapitel des griechischen Esther (in den Apokryphen 10 bis 16) sind als Kapitel 1 bis 7 gespeichert, und sein erster Vers ist mit 1 nummeriert (im Druck 10,4); außerdem fehlt der Prolog des Sirach, weil er keine Versnummern hat. Sirach (Kapitel 44) und Manasse folgen der eigenen Verseinteilung der Quelle, die um einen Vers von anderen Ausgaben abweichen kann.
 
 ## Wie sind die Dateien aufgebaut?
 

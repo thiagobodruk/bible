@@ -94,7 +94,7 @@
 | 🇬🇧 English | Good News Translation | `en_gnt` | |
 | 🇬🇧 English | Jubilee Bible | `en_jub` | |
 | 🇬🇧 English | King James Version | `en_kjv` | |
-| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | |
+| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | 80 冊：正典 66 冊に、ソースが「Outros」として挙げる 14 冊を黙示録の後に追加。[下の注記](#en_kjva-apocrypha)を参照 |
 | 🇬🇧 English | Lexham English Bible | `en_leb` | |
 | 🇬🇧 English | Literal Standard Version | `en_lsv` | |
 | 🇬🇧 English | Majority Standard Bible | `en_mbsb` | |
@@ -180,6 +180,12 @@
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 各エントリのファイルは `json/<code>.json` と `xml/<code>.xml` です（例: `json/pt_nvi.json`、`xml/pt_nvi.xml`）。`json/index.json` には同じ一覧が機械可読な形式で入っています。
+
+<a id="en_kjva-apocrypha"></a>
+
+> **`en_kjva` と外典：** このファイルは、正典 66 冊の後に、ソースが提供するとおりの 14 冊を続けています（ソースは 1 つのみで、複数のバージョンは混ぜていません）。順序と `abbrev` の値は次のとおりです：1 Esdras (`1esd`), 2 Esdras (`2esd`), Tobit (`tb`), Judith (`jt`), Esther (Greek) (`ester-grego`), Wisdom (`sb`), Sirach (`eclo`), Baruch (`br`), Azariah (`oracao-azarias`), Susanna (`susana`), Bel (`bel-dragao`), Manasseh (`oracao-manasses`), 1 Maccabees (`1mc`), 2 Maccabees (`2mc`)。Baruch にはエレミヤの手紙が第 6 章として含まれ、Azariah には三人の若者の賛歌が含まれます。
+>
+> ソースが提供しないものはファイルに含まれないため、マカバイ記 3・4 や詩編 151 などは収録されていません。印刷版との違いが 2 点あります。ギリシア語エステル記（外典では 10〜16 章）は第 1〜7 章として保存され、最初の節の番号は 1 です（印刷版では 10:4）。また、シラ書の序文は節番号がないため省いています。シラ書（第 44 章）とマナセは、ソース独自の節区分に従っており、他の版と 1 節ずれる場合があります。
 
 ## ファイルの構造は？
 

@@ -94,7 +94,7 @@
 | 🇬🇧 English | Good News Translation | `en_gnt` | |
 | 🇬🇧 English | Jubilee Bible | `en_jub` | |
 | 🇬🇧 English | King James Version | `en_kjv` | |
-| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | |
+| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | 80 卷：66 卷正典，加上数据源在“Outros”中列出的 14 卷，排在启示录之后。见[下方说明](#en_kjva-apocrypha) |
 | 🇬🇧 English | Lexham English Bible | `en_leb` | |
 | 🇬🇧 English | Literal Standard Version | `en_lsv` | |
 | 🇬🇧 English | Majority Standard Bible | `en_mbsb` | |
@@ -180,6 +180,12 @@
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 每个条目的文件为 `json/<code>.json` 和 `xml/<code>.xml`（例如 `json/pt_nvi.json`、`xml/pt_nvi.xml`）。`json/index.json` 以机器可读的形式列出了同一份目录。
+
+<a id="en_kjva-apocrypha"></a>
+
+> **`en_kjva` 与次经：** 该文件包含 66 卷正典，之后是 14 卷额外书卷，与数据源提供的内容完全一致（只使用一个数据源，未混合不同版本），顺序和 `abbrev` 值如下：1 Esdras (`1esd`), 2 Esdras (`2esd`), Tobit (`tb`), Judith (`jt`), Esther (Greek) (`ester-grego`), Wisdom (`sb`), Sirach (`eclo`), Baruch (`br`), Azariah (`oracao-azarias`), Susanna (`susana`), Bel (`bel-dragao`), Manasseh (`oracao-manasses`), 1 Maccabees (`1mc`), 2 Maccabees (`2mc`)。Baruch 包含作为第 6 章的《耶利米书信》，Azariah 包含《三童歌》。
+>
+> 数据源未提供的内容不在文件中，因此不包含玛加伯三书、四书或诗篇 151 等。有两处与印刷版不同：希腊文以斯帖记（次经中为第 10 至 16 章）保存为第 1 至 7 章，其第一节编号为 1（印刷版为 10:4）；《便西拉智训》的序言没有节号，因此未收录。Sirach（第 44 章）和 Manasseh 沿用数据源自身的分节，可能与其他版本相差一节。
 
 ## 文件是如何组织的？
 
