@@ -2105,7 +2105,21 @@
   "2jo": "2 John",
   "3jo": "3 John",
   "jd": "Jude",
-  "ap": "Revelation"
+  "ap": "Revelation",
+  "1esd": "1 Esdras",
+  "2esd": "2 Esdras",
+  "tb": "Tobit",
+  "jt": "Judith",
+  "ester-grego": "Esther (Greek)",
+  "sb": "Wisdom",
+  "eclo": "Sirach",
+  "br": "Baruch",
+  "oracao-azarias": "Azariah",
+  "susana": "Susanna",
+  "bel-dragao": "Bel",
+  "oracao-manasses": "Manasseh",
+  "1mc": "1 Maccabees",
+  "2mc": "2 Maccabees"
  },
  "en_kjvcpb": {
   "gn": "Genesis",
