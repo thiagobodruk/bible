@@ -94,7 +94,7 @@ Les fichiers sources ont été générés par un crawler écrit en Python. Ils p
 | 🇬🇧 English | Good News Translation | `en_gnt` | |
 | 🇬🇧 English | Jubilee Bible | `en_jub` | |
 | 🇬🇧 English | King James Version | `en_kjv` | |
-| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | |
+| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | 80 livres : les 66 canoniques plus les 14 que la source classe sous « Outros », placés après l’Apocalypse. Voir [la note ci-dessous](#en_kjva-apocrypha) |
 | 🇬🇧 English | Lexham English Bible | `en_leb` | |
 | 🇬🇧 English | Literal Standard Version | `en_lsv` | |
 | 🇬🇧 English | Majority Standard Bible | `en_mbsb` | |
@@ -180,6 +180,12 @@ Les fichiers sources ont été générés par un crawler écrit en Python. Ils p
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 Les fichiers de chaque entrée sont `json/<code>.json` et `xml/<code>.xml` (par exemple `json/pt_nvi.json` et `xml/pt_nvi.xml`). `json/index.json` liste ce même catalogue sous forme lisible par machine.
+
+<a id="en_kjva-apocrypha"></a>
+
+> **`en_kjva` et les apocryphes :** le fichier contient les 66 livres canoniques suivis de 14 livres supplémentaires, exactement tels que la source les fournit (une seule source, sans mélange de versions), dans cet ordre et avec ces valeurs de `abbrev` : 1 Esdras (`1esd`), 2 Esdras (`2esd`), Tobit (`tb`), Judith (`jt`), Esther (Greek) (`ester-grego`), Wisdom (`sb`), Sirach (`eclo`), Baruch (`br`), Azariah (`oracao-azarias`), Susanna (`susana`), Bel (`bel-dragao`), Manasseh (`oracao-manasses`), 1 Maccabees (`1mc`), 2 Maccabees (`2mc`). Baruch inclut la Lettre de Jérémie comme chapitre 6 et Azariah inclut le Cantique des trois jeunes hommes.
+>
+> Ce que la source ne fournit pas ne figure pas dans le fichier, donc des livres comme 3 et 4 Maccabées ou le Psaume 151 ne sont pas inclus. Deux détails diffèrent des éditions imprimées : les chapitres d’Esther grec (10 à 16 dans les apocryphes) sont enregistrés comme chapitres 1 à 7 et son premier verset est numéroté 1 (10,4 à l’impression) ; et le Prologue de Sirach est omis, car il n’a pas de numérotation de versets. Sirach (chapitre 44) et Manasseh suivent la division en versets propre à la source, qui peut différer d’un verset des autres éditions.
 
 ## Comment les fichiers sont-ils structurés ?
 

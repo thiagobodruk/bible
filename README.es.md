@@ -94,7 +94,7 @@ Los archivos fuente se generaron con un crawler escrito en Python. Por eso, pued
 | 🇬🇧 English | Good News Translation | `en_gnt` | |
 | 🇬🇧 English | Jubilee Bible | `en_jub` | |
 | 🇬🇧 English | King James Version | `en_kjv` | |
-| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | |
+| 🇬🇧 English | King James Version with Apocrypha | `en_kjva` | 80 libros: los 66 canónicos más los 14 que la fuente lista en «Outros», colocados después del Apocalipsis. Véase [la nota de abajo](#en_kjva-apocrypha) |
 | 🇬🇧 English | Lexham English Bible | `en_leb` | |
 | 🇬🇧 English | Literal Standard Version | `en_lsv` | |
 | 🇬🇧 English | Majority Standard Bible | `en_mbsb` | |
@@ -180,6 +180,12 @@ Los archivos fuente se generaron con un crawler escrito en Python. Por eso, pued
 | 🇳🇬 Yoruba | Yoruba Contemporary Bible | `yo_oycb` | |
 
 Los archivos de cada entrada son `json/<code>.json` y `xml/<code>.xml` (por ejemplo, `json/pt_nvi.json` y `xml/pt_nvi.xml`). `json/index.json` lista este mismo catálogo en formato legible por máquina.
+
+<a id="en_kjva-apocrypha"></a>
+
+> **`en_kjva` y los apócrifos:** el archivo tiene los 66 libros canónicos seguidos de 14 libros más, exactamente como los ofrece la fuente (una sola fuente, sin mezclar versiones), en este orden y con estos valores de `abbrev`: 1 Esdras (`1esd`), 2 Esdras (`2esd`), Tobit (`tb`), Judith (`jt`), Esther (Greek) (`ester-grego`), Wisdom (`sb`), Sirach (`eclo`), Baruch (`br`), Azariah (`oracao-azarias`), Susanna (`susana`), Bel (`bel-dragao`), Manasseh (`oracao-manasses`), 1 Maccabees (`1mc`), 2 Maccabees (`2mc`). Baruch incluye la Carta de Jeremías como capítulo 6 y Azariah incluye el Cántico de los Tres Jóvenes.
+>
+> Lo que la fuente no ofrece no está en el archivo, por lo que no se incluyen libros como 3 y 4 Macabeos o el Salmo 151. Dos detalles difieren de las ediciones impresas: los capítulos de Ester griego (10 a 16 en los apócrifos) se guardan como capítulos 1 a 7 y su primer versículo se numera 1 (en la edición impresa, 10:4); y se omite el Prólogo de Sirach, que no tiene numeración de versículos. Sirach (capítulo 44) y Manasseh siguen la división de versículos propia de la fuente, que puede diferir en un versículo de otras ediciones.
 
 ## ¿Cómo están estructurados los archivos?
 
