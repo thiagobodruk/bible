@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
-[バージョン一覧](#どの言語とバージョンに対応していますか) · [ファイル形式](#ファイルの構造は) · [AI / LLM 対応](#-ai--llm-対応) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [ディスカッション](https://github.com/thiagobodruk/bible/discussions)
+[バージョン一覧](#どの言語とバージョンに対応していますか) · [ファイル形式](#ファイルの構造は) · [AI / LLM 対応](#-ai--llm-対応) · [ライセンスと著作権](#ライセンスと著作権は) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [ディスカッション](https://github.com/thiagobodruk/bible/discussions)
 
 ---
 

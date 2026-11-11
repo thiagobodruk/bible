@@ -14,7 +14,7 @@ Clean, structured JSON and XML for Bible apps, verse search, and NLP/AI datasets
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
-[Versions](#which-languages-and-versions-are-covered-by-the-project) · [File format](#how-the-files-are-structured) · [AI / LLM-ready](#-ai--llm-ready) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
+[Versions](#which-languages-and-versions-are-covered-by-the-project) · [File format](#how-the-files-are-structured) · [AI / LLM-ready](#-ai--llm-ready) · [License & Copyright](#what-about-the-license-and-the-copyrights) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
 
 ---
 

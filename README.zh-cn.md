@@ -14,7 +14,7 @@
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
-[版本列表](#本项目涵盖哪些语言和版本) · [文件格式](#文件是如何组织的) · [适用于 AI / LLM](#-为-ai--llm-而生) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [讨论](https://github.com/thiagobodruk/bible/discussions)
+[版本列表](#本项目涵盖哪些语言和版本) · [文件格式](#文件是如何组织的) · [适用于 AI / LLM](#-为-ai--llm-而生) · [许可证与版权](#许可证和版权呢) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [讨论](https://github.com/thiagobodruk/bible/discussions)
 
 ---
 

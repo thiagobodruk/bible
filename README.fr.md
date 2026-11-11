@@ -14,7 +14,7 @@ JSON et XML propres et structurés pour les applications bibliques, la recherche
 [![License: MIT](https://img.shields.io/github/license/thiagobodruk/bible)](LICENSE)
 ![Formats](https://img.shields.io/badge/formats-JSON%20%7C%20XML-red)
 
-[Versions](#quelles-langues-et-versions-le-projet-couvre-t-il-) · [Format des fichiers](#comment-les-fichiers-sont-ils-structurés-) · [Prêt pour l'IA / les LLM](#-prêt-pour-lia--les-llm) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
+[Versions](#quelles-langues-et-versions-le-projet-couvre-t-il-) · [Format des fichiers](#comment-les-fichiers-sont-ils-structurés-) · [Prêt pour l'IA / les LLM](#-prêt-pour-lia--les-llm) · [Licence et droits d'auteur](#et-la-licence-et-les-droits-dauteur-) · [Wiki](https://github.com/thiagobodruk/bible/wiki) · [Discussions](https://github.com/thiagobodruk/bible/discussions)
 
 ---
 
