@@ -23,7 +23,7 @@ JSON e XML puliti e strutturati per app bibliche, ricerca di versetti e dataset 
 
 ### 🤖 Pronto per IA / LLM
 
-JSON e XML puliti e strutturati per versetto — niente HTML, niente rumore di markup, niente artefatti di scraping. Le stesse abbreviazioni canoniche dei libri sono usate in tutte le lingue e versioni, quindi i versetti si allineano subito per embedding, pipeline RAG, fine-tuning e attività di allineamento multilingue. Codice con licenza MIT e testi da fonti permissive, pronti per entrare in un dataset o in una finestra di contesto.
+JSON e XML puliti e strutturati per versetto — niente HTML, niente rumore di markup, niente artefatti di scraping. Le stesse abbreviazioni canoniche dei libri sono usate in tutte le lingue e versioni, quindi i versetti si allineano subito per embedding, pipeline RAG, fine-tuning e attività di allineamento multilingue. Pronto per entrare in un dataset o in una finestra di contesto. La licenza MIT copre solo la struttura e gli strumenti del progetto; ogni testo biblico appartiene ai suoi titolari, quindi controlla la licenza prima di usarlo.
 
 Vuoi creare un'app biblica? E che ne dici di un'API per la ricerca dei versetti? Ora puoi farlo con fonti nella tua lingua! L'obiettivo principale di questo progetto è permettere alle persone di creare app legate alla Bibbia usando XML e JSON. Ti piace l'idea? Aiutaci ad andare ancora più lontano. **Sostieni questo progetto! :)**
 
@@ -230,7 +230,11 @@ Il numero del capitolo e del versetto si ricava dall'indice dell'array.
 
 ### E la licenza e il diritto d'autore?
 
-Il codice e i dati di questo progetto sono distribuiti con la [Licenza MIT](LICENSE). Tutte le versioni della Bibbia sono di proprietà dei rispettivi titolari. Tutti i diritti riservati ai titolari.
+La [Licenza MIT](LICENSE) copre solo la struttura dei file, gli script e il lavoro di formattazione di questo progetto. **Non** concede alcun diritto sui testi biblici in sé.
+
+Il testo di ogni versione appartiene ai suoi autori, editori o titolari dei diritti, che mantengono tutti i diritti. La possibilità di usarlo, in particolare per uso commerciale, ridistribuzione o pubblicazione in un'app, dipende dalla licenza del proprietario di ciascuna versione. Alcune versioni sono di pubblico dominio, ma altre sono protette, e questo progetto non ha verificato la situazione di ciascuna. Sta a te controllare i termini di ogni versione che usi.
+
+Se sei un titolare di diritti e vuoi che una versione sia accreditata in modo diverso o rimossa, [apri una issue](https://github.com/thiagobodruk/bible/issues).
 
 ### Come posso aiutare il progetto?
 
