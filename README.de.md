@@ -234,7 +234,9 @@ Die [MIT-Lizenz](LICENSE) deckt nur die Struktur der Dateien, die Skripte und di
 
 Der Text jeder Version gehört seinen Autoren, Verlagen oder Rechteinhabern, die alle Rechte behalten. Ob du ihn nutzen darfst, insbesondere kommerziell, zur Weiterverbreitung oder zur Veröffentlichung in einer App, hängt von der Lizenz des jeweiligen Rechteinhabers ab. Manche Versionen sind gemeinfrei, andere sind geschützt, und dieses Projekt hat den Status der einzelnen Versionen nicht geprüft. Du bist dafür verantwortlich, die Bedingungen jeder Version zu prüfen, die du verwendest.
 
-Wenn du Rechteinhaber bist und eine Version anders angegeben oder entfernt haben möchtest, [eröffne bitte ein Issue](https://github.com/thiagobodruk/bible/issues).
+Wenn du Rechteinhaber bist und eine Version anders angegeben oder entfernt haben möchtest, folge der [Takedown-Richtlinie](TAKEDOWN.md); die Anfrage kann als GitHub-Issue gestellt werden.
+
+Die Daten werden „wie besehen“ und ohne jegliche Gewährleistung bereitgestellt, und der Maintainer haftet nicht für die Nutzung durch Dritte. Du bist selbst dafür verantwortlich, die Lizenz jeder von dir verwendeten Version einzuhalten.
 
 ### Wie kann ich das Projekt unterstützen?
 
