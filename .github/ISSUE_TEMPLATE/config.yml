@@ -3,3 +3,6 @@ contact_links:
   - name: Security vulnerability
     url: https://github.com/thiagobodruk/bible/security/advisories/new
     about: Please report security issues privately.
+  - name: Copyright / DMCA notice to GitHub
+    url: https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy
+    about: Rights holders can also send a notice through GitHub's own DMCA process.

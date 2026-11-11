@@ -1,0 +1,40 @@
+name: Takedown / copyright request
+description: You are a rights holder and want a Bible version removed or credited differently.
+title: "[Takedown] "
+labels: ["copyright"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out. See the [takedown policy](https://github.com/thiagobodruk/bible/blob/master/TAKEDOWN.md).
+        This issue is public: do not include private personal data.
+  - type: input
+    id: files
+    attributes:
+      label: Affected version(s) or file(s)
+      description: For example `en_xyz`, or `json/en_xyz.json` and `xml/en_xyz.xml`.
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Your relationship to the rights
+      description: Owner, publisher or authorized agent, and the rights you hold.
+    validations:
+      required: true
+  - type: dropdown
+    id: request
+    attributes:
+      label: What do you request?
+      options:
+        - Remove the version
+        - Change the credit or license notice
+        - Other (describe below)
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+    validations:
+      required: false
