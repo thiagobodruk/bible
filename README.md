@@ -27,8 +27,9 @@ Clean, per-verse structured JSON and XML — no HTML, no markup noise, no
 scraping artifacts. The same canonical book abbreviations are used
 across every language and version, so verses align out of the box for
 embeddings, RAG pipelines, fine-tuning, and cross-lingual alignment
-tasks. MIT-licensed code with permissively-sourced text, ready to feed
-straight into a dataset or a context window.
+tasks. Ready to feed straight into a dataset or a context window. The MIT
+License covers only the project's structure and tooling; each Bible
+text belongs to its owners, so check its license before use.
 
 Do you want to create a Bible based app? What about an API for Bible
 verses search? Now you can do this, using sources in your very own
@@ -244,9 +245,11 @@ You can get the number of the chapter and verse using the array index.
 
 ### What about the license and the copyrights?
 
-This project's code and data are distributed under the [MIT
-License](LICENSE). All the Bible versions are property of their
-respective owners. All rights reserved to the owners.
+The [MIT License](LICENSE) covers only the structure of the files, the scripts and the formatting work of this project. It does **not** grant any rights over the Bible texts themselves.
+
+The text of each version belongs to its authors, publishers or rights holders, who keep all rights. Whether you may use it, especially for commercial use, redistribution or publication in an app, depends on the license of each version's owner. Some versions are in the public domain, but others are protected, and this project has not verified the status of each one. You are responsible for checking the terms of every version you use.
+
+If you are a rights holder and want a version credited differently or removed, please [open an issue](https://github.com/thiagobodruk/bible/issues).
 
 ### How can I help the project?
 

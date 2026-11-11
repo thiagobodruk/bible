@@ -23,7 +23,7 @@ JSON et XML propres et structurés pour les applications bibliques, la recherche
 
 ### 🤖 Prêt pour l'IA / les LLM
 
-Du JSON et du XML propres, structurés verset par verset — sans HTML, sans bruit de balisage, sans artefacts de scraping. Les mêmes abréviations canoniques des livres sont utilisées pour toutes les langues et toutes les versions : les versets s'alignent donc immédiatement pour les embeddings, les pipelines RAG, le fine-tuning et les tâches d'alignement multilingue. Code sous licence MIT et textes issus de sources permissives, prêts à alimenter un jeu de données ou une fenêtre de contexte.
+Du JSON et du XML propres, structurés verset par verset — sans HTML, sans bruit de balisage, sans artefacts de scraping. Les mêmes abréviations canoniques des livres sont utilisées pour toutes les langues et toutes les versions : les versets s'alignent donc immédiatement pour les embeddings, les pipelines RAG, le fine-tuning et les tâches d'alignement multilingue. Prêt à alimenter un jeu de données ou une fenêtre de contexte. La licence MIT couvre uniquement la structure et les outils du projet ; chaque texte biblique appartient à ses propriétaires, vérifiez donc sa licence avant de l'utiliser.
 
 Vous voulez créer une application biblique ? Pourquoi pas une API de recherche de versets ? Vous pouvez désormais le faire avec des sources dans votre propre langue ! L'objectif principal de ce projet est de permettre aux gens de créer des applications liées à la Bible en XML et JSON. Cette idée vous plaît ? Aidez-nous à aller encore plus loin. **Soutenez ce projet ! :)**
 
@@ -230,7 +230,11 @@ Le numéro du chapitre et du verset s'obtient à partir de l'index du tableau.
 
 ### Et la licence et les droits d'auteur ?
 
-Le code et les données de ce projet sont distribués sous la [licence MIT](LICENSE). Toutes les versions de la Bible appartiennent à leurs propriétaires respectifs. Tous droits réservés à leurs propriétaires.
+La [licence MIT](LICENSE) couvre uniquement la structure des fichiers, les scripts et le travail de mise en forme de ce projet. Elle n'accorde **aucun** droit sur les textes bibliques eux-mêmes.
+
+Le texte de chaque version appartient à ses auteurs, éditeurs ou ayants droit, qui conservent tous leurs droits. La possibilité de l'utiliser, notamment pour un usage commercial, une redistribution ou une publication dans une application, dépend de la licence du propriétaire de chaque version. Certaines versions sont dans le domaine public, mais d'autres sont protégées, et ce projet n'a pas vérifié la situation de chacune. Il vous revient de vérifier les conditions de chaque version que vous utilisez.
+
+Si vous êtes ayant droit et souhaitez qu'une version soit créditée autrement ou retirée, [ouvrez une issue](https://github.com/thiagobodruk/bible/issues).
 
 ### Comment puis-je aider le projet ?
 

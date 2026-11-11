@@ -23,7 +23,7 @@ Saubere, strukturierte JSON- und XML-Dateien für Bibel-Apps, Versesuchen und NL
 
 ### 🤖 KI- / LLM-bereit
 
-Saubere, vers-weise strukturierte JSON- und XML-Dateien — ohne HTML, ohne Markup-Rauschen, ohne Scraping-Artefakte. Für alle Sprachen und Versionen werden dieselben kanonischen Buchkürzel verwendet, sodass sich die Verse sofort für Embeddings, RAG-Pipelines, Fine-Tuning und sprachübergreifende Alignment-Aufgaben abgleichen lassen. MIT-lizenzierter Code mit Texten aus permissiven Quellen, bereit für ein Dataset oder ein Kontextfenster.
+Saubere, vers-weise strukturierte JSON- und XML-Dateien — ohne HTML, ohne Markup-Rauschen, ohne Scraping-Artefakte. Für alle Sprachen und Versionen werden dieselben kanonischen Buchkürzel verwendet, sodass sich die Verse sofort für Embeddings, RAG-Pipelines, Fine-Tuning und sprachübergreifende Alignment-Aufgaben abgleichen lassen. Bereit für ein Dataset oder ein Kontextfenster. Die MIT-Lizenz deckt nur Struktur und Werkzeuge des Projekts ab; jeder Bibeltext gehört seinen Rechteinhabern, prüfe also seine Lizenz vor der Nutzung.
 
 Möchtest du eine Bibel-App entwickeln? Oder eine API für die Versesuche? Jetzt geht das mit Quellen in deiner eigenen Sprache! Das Hauptziel dieses Projekts ist es, Menschen die Entwicklung bibelbezogener Apps mit XML und JSON zu ermöglichen. Gefällt dir die Idee? Hilf uns, noch weiterzugehen. **Unterstütze dieses Projekt! :)**
 
@@ -230,7 +230,11 @@ Die Nummer von Kapitel und Vers ergibt sich aus dem Array-Index.
 
 ### Und was ist mit Lizenz und Urheberrecht?
 
-Der Code und die Daten dieses Projekts stehen unter der [MIT-Lizenz](LICENSE). Alle Bibelversionen sind Eigentum ihrer jeweiligen Rechteinhaber. Alle Rechte liegen bei den Rechteinhabern.
+Die [MIT-Lizenz](LICENSE) deckt nur die Struktur der Dateien, die Skripte und die Formatierungsarbeit dieses Projekts ab. Sie räumt **keine** Rechte an den Bibeltexten selbst ein.
+
+Der Text jeder Version gehört seinen Autoren, Verlagen oder Rechteinhabern, die alle Rechte behalten. Ob du ihn nutzen darfst, insbesondere kommerziell, zur Weiterverbreitung oder zur Veröffentlichung in einer App, hängt von der Lizenz des jeweiligen Rechteinhabers ab. Manche Versionen sind gemeinfrei, andere sind geschützt, und dieses Projekt hat den Status der einzelnen Versionen nicht geprüft. Du bist dafür verantwortlich, die Bedingungen jeder Version zu prüfen, die du verwendest.
+
+Wenn du Rechteinhaber bist und eine Version anders angegeben oder entfernt haben möchtest, [eröffne bitte ein Issue](https://github.com/thiagobodruk/bible/issues).
 
 ### Wie kann ich das Projekt unterstützen?
 
